@@ -128,7 +128,14 @@ BAB 5. PAKET PEKERJAAN, JADWAL DAN BUDGET
 
 5.1 Paket pekerjaan
 Tabel Paket Pekerjaan
-| Header k-1 | Header k-2 | Header k-3 |
+    
+| Header k-1 |Header k-2  | Header k-3|
+| ----- | :--: | ----------: |
+| Isi 1 - 1 | Isi 2 - 1 | Isi 3 - 1|
+| Isi 1 - 2  | Isi 2 - 2| Isi 3 - 2 |
+| Isi 1 - 3| Isi 2 - 3 | Isi 3 - 3|
+
+
   -------------------------------
   Bulan	Februari	Maret	April
   -------------------------------
