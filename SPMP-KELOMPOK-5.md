@@ -53,7 +53,7 @@ Analisis : Menganalisa atau  mengoreksi fungsi program
 Desainer : Membuat kerangka desain projek yang sedang dibuat
 
 
-#### BAB III : PROSES MANAJERIAL
+### BAB III : PROSES MANAJERIAL
 ### 3.1 Tujuan dan prioritas manajemen 
 #### 3.1.1 Prioritas jadwal
 
