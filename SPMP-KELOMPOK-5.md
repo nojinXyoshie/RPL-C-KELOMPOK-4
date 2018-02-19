@@ -11,6 +11,46 @@ SPMP BAB I. Pendahuluan
     1.4 Material acuan
 
     1.5 Definisi dan akronim (singkatan)
+    
+    2. Organisasi Proyek
+    
+BAB 2
+
+2.1 Model proses
+Dalam proyek yang kami buat kita menggunakan model proses V-model.
+
+2.2 Struktur organisasi
+Project Manajer
+Programer
+Desain
+Analis
+
+2.3 Batasan dan antarmuka organisasi.
+
+------------------------------------------------------------------------------------------------------------------
+Untuk          			Dari    			KAITAN
+------------------------------------------------------------------------------------------------------------------
+Manager			        Anggota		        Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat
+                                            anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi 
+                                            anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri
+                                            tidak berhak semena-mena dengan jabatanya.
+Programmer		        Tester		        Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki
+                                            tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan
+                                            programmer.
+Analisis			    Programmer	        Betugas untuk memberi gambaran projek dan alur pengkodingan pada
+                                            programmer.
+Desainer			    Programmer	        Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat
+                                            aplikasi dirilis.
+
+
+2.4 Lingkup tanggung jawab
+
+Ketua Tim (Manager) : Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat
+Tester : Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat.
+Programming : Membuat fungsi program projek yang sedang dibuat.
+Tester : Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat
+Analisis : Menganalisa atau  mengoreksi fungsi program
+Desainer : Membuat kerangka desain projek yang sedang dibuat
 BAB 5. PAKET PEKERJAAN, JADWAL DAN BUDGET
 
 5. Paket pekerjaan, jadwal, dan budget
