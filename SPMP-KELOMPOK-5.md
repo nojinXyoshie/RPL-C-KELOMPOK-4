@@ -51,9 +51,81 @@ Programming : Membuat fungsi program projek yang sedang dibuat.
 Tester : Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat
 Analisis : Menganalisa atau  mengoreksi fungsi program
 Desainer : Membuat kerangka desain projek yang sedang dibuat
+
+
+#### BAB III : PROSES MANAJERIAL
+### 3.1 Tujuan dan prioritas manajemen 
+#### 3.1.1 Prioritas jadwal
+
+Prioritas jadwal yang dilakuakan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi
+
+### 3.1.2 Budget
+| No          | Keterangan                                | Satuan | Jumlah Barang | Harga        | Jumlah Harga  |
+|-------------|-------------------------------------------|--------|---------------|--------------|---------------|
+| 1           | Gaji angota                               | bulan  | 3x4           | Rp.1.500.000 | Rp.18.000.000 |
+| 2           | Sublime                                   | buah   | 1             | Rp.5000      | Rp.5000       |
+| 3           | Xampp                                     | buah   | 1             | Rp.5000      | Rp.5000       |
+| 4           | Web Browser                               | buah   | 1             | Rp.5000      | Rp.5000       |
+| 5           | Android Studio , JDK dan plugin-pluginnya | set    | 1             | Rp.5000      | Rp.5000       |
+| 6           | Sewa komputer                             | set    | 3x4           | Rp.500.000   | Rp.6.000.000  |
+| 7           | Sewa mobile                               | buah   | 1             | Rp.380.000   | Rp.380.000    |
+| 8           | Wifi                                      | set    | 1             | Rp.2.000.000 | Rp.2.000.000  |
+| Total Biaya |                                           |        |               |              | Rp.26.400.000 |
+
+### 3.1.3 Kemampuan 
+
+Projek yang kami buat saat ini mempunyai kelebihan dalam memudahkan seseorang  untuk mengembangkan dan mengelola bisnisnya di bidang kuliner dan memudahkan orang untuk membeli makanan pesan antar lewat aplikasi android. Kelebihan produk antara lain :
+
+* mampu melihat tracking saat kurir mengirim barang
+* fitur chat dan telepon antara kurir dan pembeli
+
+
+### 3.2 Asumsi, Keterkaitan, dan batasan
+            
+### 3.2.1 Asumsi
+Adapun aplikasi yang kami buat adalah sejenis aplikasi pemesanan makanan berbasis android , guna memesan dan mengantar makanan pada tempat tujuan pembeli .    
+
+### 3.2.2 Keterkaitan dan Batasan
+Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalui device PC/Laptop yang menggunakan  aplikasi web. Sedangkan penjual , pembeli , dan kurir menggunakan aplikasi android yang diakses melalui device smartphone. 
+
+### 3.3 Manajemen resiko
+### 3.3.1 Resiko Proyek
+| Resiko                                    | Teknik manajemen resiko                                           |
+|-------------------------------------------|-------------------------------------------------------------------|
+| Biaya dan waktu tidak sesuai              | membuat biaya estimasi                                            |
+|                                           | menambah waktu dalam pengerjaan projek                            |
+|                                           | menganalisa projek yang akan di buat                              |
+|                                           |                                                                   |
+| Pengembangan software yang belum maksimal | evaluasi untuk meningkatkan projek                                |
+|                                           | membuat metode dan spesifikasi                                    |
+|                                           | buat prototype                                                    |
+|                                           |                                                                   |
+| kegagalan pada komponen-komponen          | mencari referensi-referensi menganalisis projek yang akan di buat |
+|                                           |                                                                   |
+| kegagalan kinerja realtime                | prosedur jaminan kualitas                                         |
+|                                           | membangun kekompakan tim                                          |
+|                                           | kesungguhan dalam tim                                             |
+|                                           |                                                                   |
+| kegagalan memjalankan tugas eksternal     | analisis teknis                                                   |
+|                                           | simulasi                                                          |
+
+
+### 3.4 Mekanisme monitoring dan kontroling 
+### 3.4.1 Monitoring
+Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari senin
+### 3.4.2 Kontroling
+Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
+### 3.5 Perencanaan staf 
+* Project Manager  	 : Irin Windiyati
+* Programmer		 : Yoshie Pangestu
+* Desainer 		: Nunung Nurhayati
+* Analysis	       	 : Dina Micela
+
+
+
+
 BAB 5. PAKET PEKERJAAN, JADWAL DAN BUDGET
 
-5. Paket pekerjaan, jadwal, dan budget
 5.1 Paket pekerjaan
 Tabel Paket Pekerjaan
   -------------------------------
