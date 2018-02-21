@@ -2,7 +2,13 @@
 #### 2.1 Perspektif produk
 #### 2.1.1 Antarmuka sistem
 #### 2.1.2 Antarmuka pengguna
-#### 2.1.3 Antarmuka perangkat keras 
+#### 2.1.3 Antarmuka perangkat keras
+Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
+
+- PC
+- Mouse
+- Keyboard
+- Smartphone 
 #### 2.1.4 Antarmuka perangkat lunak
 Aplikasi dapat diakses jika terhubung dengan internet dan memiliki OS android
 #### 2.1.5 Antarmuka komunikasi
