@@ -170,6 +170,8 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 |             |               | pengkodian pada programer.                                             |
 | Manager     | Programmer    | Bertugas sebagai memberi masukan-masukan kepada Programer untuk membuat|
 |             |               | program yang sedang di buat.                                           |
+| Design      | Programmer    | Bertugas mendesign tampilan aplikasi lalu dedign tersebut diberikan ke |
+|             |               | programmer agar tampilan aplikasi sesuai dengan design yg dibuat.      |
 
 
 5.3 Kebutuhan-kebutuhan sumber daya
@@ -188,8 +190,15 @@ Tabel kebutuhan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
 
 Estimasi biaya software
-Tabel 
-
+            Tabel Estimasi biaya software
+|No    Kebutuhan Software  | Biaya          |
+|--------------------------|----------------|
+| 1. Windows 7 or Higher   | Rp. 1.100.000,-|
+| 2. Android Studio        | Rp. 500.000,-  |
+| 3. Xampp                 | Rp. 500.000,-  |
+| 4. Sublime               | Rp. 500.000,-  |
 
 5.5 Jadwal
 Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:
+               Tabel Jadwal
+
