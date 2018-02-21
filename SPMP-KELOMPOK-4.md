@@ -131,9 +131,9 @@ BAB 5. PAKET PEKERJAAN, JADWAL DAN BUDGET
 5.1 Paket pekerjaan
 Tabel Paket Pekerjaan
 
-  | Bulan |	Februari | Maret  | April    |
-  ----------------------------------------
-  | Minggu | 1 2 3 4 | 1 2 3 4 | 1 2 3 4 |
+  | Bulan  |	Februari  |  Maret  | April    |
+  ---------|--------------|---------|-----------
+  | Minggu |    1 2 3 4   | 1 2 3 4 | 1 2 3 4  |
   
   
 Kategori Kegiatan
