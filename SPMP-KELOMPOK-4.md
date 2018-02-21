@@ -176,7 +176,8 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 5.3 Kebutuhan-kebutuhan sumber daya
 Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat dilihat pada tabel berikut ini.
-Tabel kebutuhan sumber daya
+
+            Tabel kebutuhan sumber daya
 
 | No   Nama Personal     |    Job               |
 |------------------------|----------------------|
@@ -190,7 +191,9 @@ Tabel kebutuhan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
 
 Estimasi biaya software
+
             Tabel Estimasi biaya software
+            
 |No    Kebutuhan Software  | Biaya          |
 |--------------------------|----------------|
 | 1. Windows 7 or Higher   | Rp. 1.100.000,-|
