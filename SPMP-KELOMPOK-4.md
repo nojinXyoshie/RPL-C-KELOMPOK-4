@@ -2,7 +2,7 @@ SPMP BAB I. Pendahuluan
 
 1.1 Gambaran Proyek
 
-Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili di Indramayu barbasis android, yang ditujukan untuk masyarakat Indramayu.
+Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili di Indramayu barbasis android, yang ditujukan untuk masyarakat Indramayu. Aplikasi Ayo Mangan! ini memiliki empat user antara lain sebagai admin, customer, penjual, dan kurir. 
 
     Proyek yang sedang kami buat ini adalah
 
