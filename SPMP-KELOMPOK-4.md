@@ -164,14 +164,14 @@ Tabel ketergantungan dan keterkaitan
 5.3 Kebutuhan-kebutuhan sumber daya
 Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat dilihat pada tabel berikut ini.
 Tabel kebutuhan sumber daya
-------------------------------------------------
-| No   Nama Personal         Job
-------------------------------------------------
-| 1.   Irin Windiyati       Manager
-| 2.   Yoshie Pangestu      Programmer
-| 3.   Nunung Nurhayati     Design
-| 4.   Dina Micela          Sistem Analis
-------------------------------------------------
+
+| No   Nama Personal     |    Job               |
+|------------------------|----------------------|
+| 1.   Irin Windiyati    |   Manager            |
+| 2.   Yoshie Pangestu   |   Programmer         |
+| 3.   Nunung Nurhayati  |   Design             |
+| 4.   Dina Micela       |   Sistem Analis      |
+
 
 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
