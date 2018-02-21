@@ -129,20 +129,21 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 BAB 5. PAKET PEKERJAAN, JADWAL DAN BUDGET
 
 5.1 Paket pekerjaan
-Tabel Paket Pekerjaan
+                    Tabel Paket Pekerjaan
 
   | Bulan  |	Februari  |  Maret  | April    |
   ---------|--------------|---------|-----------
   | Minggu |    1 2 3 4   | 1 2 3 4 | 1 2 3 4  |
   
   
-Kategori Kegiatan
-  -------------------------------
-  |  Nama
-  |  1. Irin Windiyati W
-  |  2. Yoshie Pangestu W
-  |  3. Dina Micela W
-  |  4. Nunung Nurhayati W
+                    Kategori Kegiatan      
+
+  |  Nama                   |           |           |     |
+  --------------------------|-----------|-----------|------
+  |  1. Irin Windiyati      | W w w w w | v v v v v | x x |
+  |  2. Yoshie Pangestu     | W w w w w |           |     |
+  |  3. Dina Micela W       | W         |           |     |
+  |  4. Nunung Nurhayati    | W         |           |     |
   
 Kategori Kegiatan :
 
@@ -156,9 +157,9 @@ Kategori Kegiatan :
 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
 Tabel ketergantungan dan keterkaitan
-------------------------------------------------------
-|  Dari     Tugas Untuk     Keterkaitan
-------------------------------------------------------
+
+|  Dari   |  Tugas Untuk  |   Keterkaitan       |
+----------|---------------|----------------------
 
 
 5.3 Kebutuhan-kebutuhan sumber daya
