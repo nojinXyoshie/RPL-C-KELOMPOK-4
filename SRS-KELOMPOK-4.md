@@ -5,3 +5,7 @@
 ### 2.1.3 Antarmuka perangkat keras 
 ### 2.1.4 Antarmuka perangkat lunak
 ### 2.1.5 Antarmuka komunikasi
+Yang dibutuhkan hanya sebuah komputer server dan satu atau
+beberapa komputer client yang terhubung secara client-server dalam
+lingkup jaringan Internet atau intranet berbasis protokol Transmission
+Control Protocol/Internet Protocol (TCP/IP).
