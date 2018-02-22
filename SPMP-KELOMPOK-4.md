@@ -34,29 +34,14 @@ Analis
 | Analisis          | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada                                                                                                                                                                                            |
 | Programmer        | Desainer   | "Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis                                                                                                                                                                     |
 
-
-------------------------------------------------------------------------------------------------------------------
-Untuk          			Dari    			KAITAN
-------------------------------------------------------------------------------------------------------------------
-			        	        Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat
-                                            anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi 
-                                            anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri
-                                            tidak berhak semena-mena dengan jabatanya.
-	        Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki
-                                            tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan
-                                            programmer.
-		    	        
-
-
 ### 2.4 Lingkup tanggung jawab
 
-Ketua Tim (Manager) : Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat
-Tester : Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat.
-Programming : Membuat fungsi program projek yang sedang dibuat.
-Tester : Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat
-Analisis : Menganalisa atau  mengoreksi fungsi program
-Desainer : Membuat kerangka desain projek yang sedang dibuat
-
+| Ketua Tim (Manager) | Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat |
+|---------------------|---------------------------------------------------------------------------------------|
+| Tester              | Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat.        |
+| Programmer          | Membuat fungsi program projek yang sedang dibuat.                                     |
+| Analisis            | Menganalisa atau  mengoreksi fungsi program                                           |
+| Desainer            | Membuat kerangka desain projek yang sedang dibuat                                     |
 
 ### BAB III : PROSES MANAJERIAL
 ### 3.1 Tujuan dan prioritas manajemen 
