@@ -1,33 +1,32 @@
-SPMP BAB I. Pendahuluan
+# SPMP 
+### BAB I : Pendahuluan
 
-1.1 Gambaran Proyek
+### 1.1 Gambaran Proyek
 
 Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili di Indramayu barbasis android, yang ditujukan untuk masyarakat Indramayu. Aplikasi Ayo Mangan! ini memiliki empat user antara lain sebagai admin, customer, penjual, dan kurir. 
 
-    Proyek yang sedang kami buat ini adalah
+### 1.2 Dokumen - dokumen dalam proyek
 
-    1.2 Dokumen - dokumen dalam proyek
+### 1.3 Evolusi SPMP
 
-    1.3 Evolusi SPMP
+### 1.4 Material acuan
 
-    1.4 Material acuan
-
-    1.5 Definisi dan akronim (singkatan)
+### 1.5 Definisi dan akronim (singkatan)
     
-    2. Organisasi Proyek
+### 2. Organisasi Proyek
     
-BAB 2
+### BAB II : 
 
-2.1 Model proses
+### 2.1 Model proses
 Dalam proyek yang kami buat kita menggunakan model proses V-model.
 
-2.2 Struktur organisasi
+### 2.2 Struktur organisasi
 Project Manajer
 Programer
 Desain
 Analis
 
-2.3 Batasan dan antarmuka organisasi.
+### 2.3 Batasan dan antarmuka organisasi.
 
 ------------------------------------------------------------------------------------------------------------------
 Untuk          			Dari    			KAITAN
@@ -45,7 +44,7 @@ Desainer			    Programmer	        Bertugas mendesain tampilan aplikasi yang dapa
                                             aplikasi dirilis.
 
 
-2.4 Lingkup tanggung jawab
+### 2.4 Lingkup tanggung jawab
 
 Ketua Tim (Manager) : Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat
 Tester : Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat.
