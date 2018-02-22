@@ -123,6 +123,12 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 * Desainer 		: Nunung Nurhayati
 * Analysis	       	 : Dina Micela
 
+#### BAB IV: PROSES TEKNIS
+#### 4.1 Metoda, tool, dan teknik 
+#### 4.1.1 Metoda
+Menggunakan Metoda standart UML (Unified Modeling Language)  digunaka untuk mendesai rancangan sitem dari aplikasi.
+4.1.2 Tools
+            -
 
 
 
