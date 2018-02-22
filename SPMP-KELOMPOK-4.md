@@ -124,9 +124,9 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 * Analysis	       	 : Dina Micela
 
 ### BAB IV: PROSES TEKNIS
-###4.1 Metoda,tool,dan teknik
-###4.2 Dokumentasi perangkat lunak
-###4.3 Fungsi-fungsi pendukung proyek
+### 4.1 Metoda,tool,dan teknik
+### 4.2 Dokumentasi perangkat lunak
+### 4.3 Fungsi-fungsi pendukung proyek
 
 
 
