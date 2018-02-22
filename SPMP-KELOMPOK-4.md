@@ -1,4 +1,4 @@
-# SPMP 
+# SPMP : PEMESANAN MAKANAN BERBASIS ANDROID (Ayo mangan!)
 ### BAB I : Pendahuluan
 
 ### 1.1 Gambaran Proyek
@@ -27,21 +27,25 @@ Desain
 Analis
 
 ### 2.3 Batasan dan antarmuka organisasi.
+|     Untuk             |     Dari       |    KAITAN                                                                                                                                                                                                                                                      |
+|-------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manager           | Anggota    | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat  anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri  tidak berhak semena-mena dengan jabatanya. |
+| Programmer        | Tester     | Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer.                                                                                                      |
+| Analisis          | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada                                                                                                                                                                                            |
+| Programmer        | Desainer   | "Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis                                                                                                                                                                     |
+
 
 ------------------------------------------------------------------------------------------------------------------
 Untuk          			Dari    			KAITAN
 ------------------------------------------------------------------------------------------------------------------
-Manager			        Anggota		        Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat
+			        	        Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat
                                             anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi 
                                             anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri
                                             tidak berhak semena-mena dengan jabatanya.
-Programmer		        Tester		        Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki
+	        Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki
                                             tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan
                                             programmer.
-Analisis			    Programmer	        Betugas untuk memberi gambaran projek dan alur pengkodingan pada
-                                            programmer.
-Desainer			    Programmer	        Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat
-                                            aplikasi dirilis.
+		    	        
 
 
 ### 2.4 Lingkup tanggung jawab
