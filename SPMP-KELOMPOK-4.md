@@ -130,9 +130,9 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 
 
 
-BAB 5. PAKET PEKERJAAN, JADWAL DAN BUDGET
+### BAB V : PAKET PEKERJAAN, JADWAL DAN BUDGET
 
-5.1 Paket pekerjaan
+## 5.1 Paket pekerjaan
                     Tabel Paket Pekerjaan
 
   | Bulan  |  Februari  |  Maret  |   April  |
@@ -158,7 +158,7 @@ Kategori Kegiatan :
 (Z) : Waktu pengerjaan dokumen-dokumen.
 (A) : Presentasi projek.
 
-5.2 Ketergantungan/keterkaitan
+### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
 
             Tabel ketergantungan dan keterkaitan
@@ -178,7 +178,7 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 |             |               | programmer agar tampilan aplikasi sesuai dengan design yg dibuat.      |
 
 
-5.3 Kebutuhan-kebutuhan sumber daya
+### 5.3 Kebutuhan-kebutuhan sumber daya
 Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat dilihat pada tabel berikut ini.
 
             Tabel kebutuhan sumber daya
@@ -191,7 +191,7 @@ Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat dilihat
 | 4.   Dina Micela       |   Sistem Analis      |
 
 
-5.4 Alokasi budget dan sumber daya
+### 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
 
 Estimasi biaya software
@@ -205,7 +205,7 @@ Estimasi biaya software
 | 3. Xampp                 | Rp. 500.000,-  |
 | 4. Sublime               | Rp. 500.000,-  |
 
-5.5 Jadwal
+### 5.5 Jadwal
 Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:
                Tabel Jadwal
 
