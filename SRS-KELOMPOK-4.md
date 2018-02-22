@@ -1,5 +1,7 @@
 ### BAB II : Gambaran Umum
 #### 2.1 Perspektif produk
+Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
+dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 #### 2.1.1 Antarmuka sistem
 #### 2.1.2 Antarmuka pengguna
 Antarmuka pengguna menggunakan aplikasi berbasis android. Pengguna berinteraksi dengan perangkat lunak ayo mangan melalui antarmuka aplikasi pada smartphone android.
