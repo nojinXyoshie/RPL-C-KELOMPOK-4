@@ -1,6 +1,9 @@
 ### BAB I : Pendahuluan
 #### 1.1 Tujuan
 #### 1.2 Lingkup
+#### 1.3 Definisi, Akronim, Singkatan
+#### 1.4 Referensi
+#### 1.5 Overview
 ### BAB II : Gambaran Umum
 #### 2.1 Perspektif produk
 Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
