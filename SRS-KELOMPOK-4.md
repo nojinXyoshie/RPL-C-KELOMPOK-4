@@ -1,3 +1,6 @@
+### BAB I : Pendahuluan
+#### 1.1 Tujuan
+#### 1.2 Lingkup
 ### BAB II : Gambaran Umum
 #### 2.1 Perspektif produk
 Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
