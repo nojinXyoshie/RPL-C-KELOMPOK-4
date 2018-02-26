@@ -21,6 +21,8 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 | Lunak Spesifikasi    | harus beroperasi Misalnya, dokumen ini.                                                                       |
 
 #### 1.4 Referensi
+IEEE. IEEE Std 830-1998 Praktik yang Direkomendasikan IEEE untuk Persyaratan Perangkat Lunak
+Spesifikasi. IEEE Computer Society, 1998.
 #### 1.5 Overview
 ### BAB II : Gambaran Umum
 #### 2.1 Perspektif produk
