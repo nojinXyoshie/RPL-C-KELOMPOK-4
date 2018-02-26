@@ -4,20 +4,21 @@ Tujuan dari penulisan dokumen Softaware Requirement Specification (SRS) untuk me
 #### 1.2 Lingkup
 Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartphone. Aplikasi ini perlu dibuatkannya karena untuk mempermudah penjual dan pembeli dalam bertransaksi jarak jauh.
 #### 1.3 Definisi, Akronim, Singkatan
-|    Istilah         |               Definisi                                                                                        |
-|--------------------|---------------------------------------------------------------------------------------------------------------|
-| Artikel aktif      | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
-| Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |   |                    | utama, dengan siapa semua komunikasi dibuat.                                                                  |
-| Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
-| Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
-| Bidang             | Sel dalam bentuk.                                                                                             |
-| Historical Society | Database keanggotaan yang ada (juga database HS).                                                             |
-| Database           |                                                                                                               |
-| Anggota            | Seorang anggota Historical Society terdaftar di HS database                                                   |
-| Pembaca            | Siapa pun yang mengunjungi situs tersebut untuk membaca artikel.                                              |
-| Ulasan             | A written recommendation about the appropriateness of an article for publication; may include suggestions for |
-|                    | improvement.                                                                                                  |
-| Reviewer           | Seseorang yang memeriksa sebuah artikel dan memiliki kemampuan untuk melakukannya merekomendasikan persetujuan|   |                    |  artikel untuk publikasi atau mohon agar perubahan dilakukan di artikel.                                      |
+|      Istilah         |               Definisi                                                                                        |
+|----------------------|---------------------------------------------------------------------------------------------------------------|
+|   Artikel aktif      | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
+|   Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
+|   Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
+|   Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
+|   Bidang             | Sel dalam bentuk.                                                                                             |
+|   Historical Society | Database keanggotaan yang ada (juga database HS).                                                             |
+|   Database           |                                                                                                               |
+|   Anggota            | Seorang anggota Historical Society terdaftar di HS database                                                   |
+|   Pembaca            | Siapa pun yang mengunjungi situs tersebut untuk membaca artikel.                                              |
+|   Ulasan             | Rekomendasi tertulis tentang kesesuaian sebuah artikel untuk publikasi; mungkin termasuk saran untuk          |  |                      |                                                                                                               |
+|   Reviewer           | Seseorang yang memeriksa sebuah artikel dan memiliki kemampuan untuk melakukannya merekomendasikan persetujuan|  |                      | artikel untuk publikasi atau mohon agar perubahan dilakukan di artikel.                                       |
+| Persyaratan Perangkat| Sebuah dokumen yang benar-benar menggambarkan semua fungsi dari sistem yang diusulkan dan kendala di mana itu |
+| Lunak Spesifikasi    | harus beroperasi Misalnya, dokumen ini.                                                                       |
 
 #### 1.4 Referensi
 #### 1.5 Overview
