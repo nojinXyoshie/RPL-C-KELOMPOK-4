@@ -44,12 +44,67 @@ beberapa komputer client yang terhubung secara client-server dalam
 lingkup jaringan Internet atau intranet berbasis protokol Transmission
 Control Protocol/Internet Protocol (TCP/IP).
 
-2.1.6 Btasan-batasan Memori
-skip
-2.1.7 Operasi-operasi
 
-2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi
+2.4 Batasan batasan.
+Pengembangan Aplikasi pemesatan tiket berbasis web ini memiliki keterbatasan-keterbatasan yaitu sebagai berikut  :
+-	Sistem Sistem Administrasi pemesanan makanan ini akan di buat databasenya menggunakan MySql dan bahasa pemrograman PHP, html dan java script. 
+-	 Aplikasi bersifat android
 
-2.2 Fungsi-fungsi Produk
+2.5 Asumsi dan ketergantungan/keterkaitan.
+Asumsi-asumsi pada pemesanan makanan ini adalah:
+a.   Setiap entitas mempunyai hak akses.
+b.  Admin bisa melihat sistem secara keseluruhan dan tidak dapat merubah data-data. Admin hanya hanya mengatur data-data user.
+c.   Pemilik atau Owner bisa melihat sistem secara keseluruhan dan dapat merubah data-data di dalamnya.
+d.  Bagian costumer mempunyai wewenang untuk melakukan pemesanan makanan
 
-2.3 Karakteristik Pengguna
+2.6 kebutuhan-kebutuhan penyeimbang.
+
+BAB 3.
+
+Kebutuhan Spesifik.
+ 3.1 Kebutuhan Fungsional
+Kebutuhan fungsional sistem ini terdiri atas beberapa fungsi utama yang
+saling berhubungan dan mendukung satu sama lain, yang meliputi fungsifungsi
+sebagai berikut:
+1. Input menu makanan dan harga dari user bisnis dan admin.
+2. Pembelian makanan dari user individu / customer.
+3. Perhitungan jumlah pembelian makanan dari user individu / customer.
+4. Pendaftaran untuk user yang ingin menggunakan fasilitas sistem.
+5. Akomodasi untuk user bisnis yang menjual barang dalam jumlah besar.
+
+Untuk masing-masing fungsi diatas akan dijelaskan secara mendetil
+sebagai berikut:
+1. Input barang dari customer : sistem menerima input data makanan dan harga dari
+user bisnis dan admin, lengkap dengan gambar dari tiap barang.
+2. Pembelian barang dari user individu / customer : sistem mencatat
+Menu makanan yang dipilih oleh user individu untuk dibeli, dan
+mencatat segala detil pembelian, seperti jumlah menu makanan yang dibeli.
+3. Perhitungan jumlah pembelian barang dari user individu / customer : 
+melakukan perhitungan terhadap harga total dari semua menu makanan yang
+dibeli.
+4. Pendaftaran untuk user yang ingin menggunakan fasilitas sistem :
+mencatat data lengkap dari user individu dan user bisnis untuk
+keperluan administrasi serta pengiriman barang.
+5. Akomodasi untuk user bisnis yang ingin menjual barang dalam jumlah
+besar : menyediakan kurir untuk user bisnis yang mengirim makanan yang udah dipesan dengan jumlah banyak.
+
+3.2 Kebutuhan Non Fungsional
+Dalam sistem informasi ini, kebutuhan yang mendukung kelancaran
+fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
+
+|  Availability 			|  24 jam nonstop, kecuali ada maintenance / perbaikan sistem.   	|
+-------------------------------------------|--------------------------------------------------------------------------------------|
+|  Reliability 			  |  Kegagalan yang ditolerir sekitar 5%.			  	|
+|  Ergonomy 			|  Sistem informasi ini harus user friendly.			 	 |
+|  Portability 			|  Aplikasi ini berjalan pada platform atau sistem operasi apa     	 |
+|  				|  saja yang mendukung aplikasi berbasis android.		  |
+| Response 			|  Time Tidak lebih dari 10 detik.				  |
+|  Safety				|  Menggunakan secure socket layer dgn sertifikasi. 		  |
+Security 				Login (manajemen user) dan validasi data sangat penting  	  |
+karena menyangkut pembayaran secara online.		  |
+Bahasa				Menggunakan bahasa Indramayu, kecuali ada penambahan 	  |
+Komunikasi			Fasilitas untuk menggunakan bahasa lain selain bahasa Indramayu.
+
+Halaman utama harus menampilkan logo dari perusahaan yang bersangkutan.
+
+
