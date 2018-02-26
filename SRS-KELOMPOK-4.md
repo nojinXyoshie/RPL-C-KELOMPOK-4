@@ -9,6 +9,9 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 | Artikel aktif      | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
 | Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |   |                    | utama, dengan siapa semua komunikasi dibuat.                                                                  |
 | Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
+| Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
+| Bidang             | Sel dalam bentuk.                                                                                             |
+
 #### 1.4 Referensi
 #### 1.5 Overview
 ### BAB II : Gambaran Umum
