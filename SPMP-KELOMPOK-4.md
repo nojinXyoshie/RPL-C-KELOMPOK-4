@@ -14,6 +14,10 @@ Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili d
 ### 1.4 Material acuan
 
 ### 1.5 Definisi dan akronim (singkatan)
+*SRS	Software Requirement Specification
+*DFD	Data Flow Diagram
+*ERD	Entity Relationship Diagram
+*DBMS	Data Base Management System
     
 ### 2. Organisasi Proyek
     
