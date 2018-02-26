@@ -4,10 +4,11 @@ Tujuan dari penulisan dokumen Softaware Requirement Specification (SRS) untuk me
 #### 1.2 Lingkup
 Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartphone. Aplikasi ini perlu dibuatkannya karena untuk mempermudah penjual dan pembeli dalam bertransaksi jarak jauh.
 #### 1.3 Definisi, Akronim, Singkatan
-|    Istilah        |               Definisi                                                                                        |
-|-------------------|---------------------------------------------------------------------------------------------------------------|
-| Artikel aktif     | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
-| Author            | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |   |                   | utama, dengan siapa semua komunikasi dibuat.                                                                  |
+|    Istilah         |               Definisi                                                                                        |
+|--------------------|---------------------------------------------------------------------------------------------------------------|
+| Artikel aktif      | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
+| Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |   |                    | utama, dengan siapa semua komunikasi dibuat.                                                                  |
+| Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
 #### 1.4 Referensi
 #### 1.5 Overview
 ### BAB II : Gambaran Umum
