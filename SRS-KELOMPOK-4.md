@@ -4,9 +4,9 @@ Tujuan dari penulisan dokumen Softaware Requirement Specification (SRS) untuk me
 #### 1.2 Lingkup
 Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartphone. Aplikasi ini perlu dibuatkannya karena untuk mempermudah penjual dan pembeli dalam bertransaksi jarak jauh.
 #### 1.3 Definisi, Akronim, Singkatan
-| Istilah  | Definisi |
-|----------|----------|
-| abd      | asdas    |
+|    Istilah        |               Definisi                                                                                      |
+|-------------------|-------------------------------------------------------------------------------------------------------------|
+| Artikel aktif     | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik    |
 #### 1.4 Referensi
 #### 1.5 Overview
 ### BAB II : Gambaran Umum
