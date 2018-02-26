@@ -24,6 +24,14 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 IEEE. IEEE Std 830-1998 Praktik yang Direkomendasikan IEEE untuk Persyaratan Perangkat Lunak
 Spesifikasi. IEEE Computer Society, 1998.
 #### 1.5 Overview
+Bab berikutnya, bagian Uraian Keseluruhan, dari dokumen ini memberikan sebuah
+gambaran fungsionalitas produk. Ini menggambarkan persyaratan informal dan
+digunakan untuk menetapkan konteks untuk spesifikasi persyaratan teknis di bab berikutnya.
+Bab ketiga, Bagian Persyaratan Spesifikasi, dari dokumen ini ditulis
+terutama untuk pengembang dan menjelaskan secara teknis rinciannya
+fungsionalitas produk.
+Kedua bagian dokumen tersebut menggambarkan produk perangkat lunak yang sama secara keseluruhan,
+namun ditujukan untuk khalayak yang berbeda dan dengan demikian menggunakan bahasa yang berbeda.
 ### BAB II : Gambaran Umum
 #### 2.1 Perspektif produk
 Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
