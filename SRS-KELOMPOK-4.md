@@ -43,3 +43,13 @@ Yang dibutuhkan hanya sebuah komputer server dan satu atau
 beberapa komputer client yang terhubung secara client-server dalam
 lingkup jaringan Internet atau intranet berbasis protokol Transmission
 Control Protocol/Internet Protocol (TCP/IP).
+
+2.1.6 Btasan-batasan Memori
+skip
+2.1.7 Operasi-operasi
+
+2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi
+
+2.2 Fungsi-fungsi Produk
+
+2.3 Karakteristik Pengguna
