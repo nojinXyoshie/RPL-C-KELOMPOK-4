@@ -14,6 +14,11 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 | Historical Society | Database keanggotaan yang ada (juga database HS).                                                             |
 | Database           |                                                                                                               |
 | Anggota            | Seorang anggota Historical Society terdaftar di HS database                                                   |
+| Pembaca            | Siapa pun yang mengunjungi situs tersebut untuk membaca artikel.                                              |
+| Ulasan             | A written recommendation about the appropriateness of an article for publication; may include suggestions for |
+|                    | improvement.                                                                                                  |
+| Reviewer           | Seseorang yang memeriksa sebuah artikel dan memiliki kemampuan untuk melakukannya merekomendasikan persetujuan|   |                    |  artikel untuk publikasi atau mohon agar perubahan dilakukan di artikel.                                      |
+
 #### 1.4 Referensi
 #### 1.5 Overview
 ### BAB II : Gambaran Umum
