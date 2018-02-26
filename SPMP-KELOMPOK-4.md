@@ -139,14 +139,14 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
   |  3. Dina Micela W       | W         |           |     |
   |  4. Nunung Nurhayati    | W         |           |     |
   
-Kategori Kegiatan :
+ <br> Kategori Kegiatan :
 
-(W) : Persiapan projek dan pengumpulan sumber daya yg diperlukan.
-(V) : Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.
-(X) : Pengecekan hasil projek, berupa pengecekan terhadap error code pada program.
-(Y) : Melakukan perbaikan projek yang sudah dicek. 
-(Z) : Waktu pengerjaan dokumen-dokumen.
-(A) : Presentasi projek.
+* (W) : Persiapan projek dan pengumpulan sumber daya yg diperlukan.
+* (V) : Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.
+* (X) : Pengecekan hasil projek, berupa pengecekan terhadap error code pada program.
+* (Y) : Melakukan perbaikan projek yang sudah dicek. 
+* (Z) : Waktu pengerjaan dokumen-dokumen.
+* (A) : Presentasi projek.
 
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
