@@ -11,7 +11,9 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 | Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
 | Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
 | Bidang             | Sel dalam bentuk.                                                                                             |
-
+| Historical Society | Database keanggotaan yang ada (juga database HS).                                                             |
+| Database           |                                                                                                               |
+| Anggota            | Seorang anggota Historical Society terdaftar di HS database                                                   |
 #### 1.4 Referensi
 #### 1.5 Overview
 ### BAB II : Gambaran Umum
