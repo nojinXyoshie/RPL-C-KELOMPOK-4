@@ -120,7 +120,11 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 ### BAB IV: PROSES TEKNIS
 ### 4.1 Metoda,tool,dan teknik
 ### 4.2 Dokumentasi perangkat lunak
+Dokumentasi perangkat lunak berdasar standar IEEE
 ### 4.3 Fungsi-fungsi pendukung proyek
+satu orang technical su
+dibagian desain project, 2 orang dibagian p
+
 
 
 
