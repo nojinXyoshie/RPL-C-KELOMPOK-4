@@ -20,13 +20,6 @@ Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili d
 * DBMS	Data Base Management System
     
 ### 2. Organisasi Proyek
-* Project manager : Irin Windiyati
-
-* Anggota tim :<br>
-1. Yoshie Pnagestu (Programmer)<br>
-2. Nunung Nurhayati (Design)<br>
-3. Dina micela (Analis)<br>
-
     
 ### BAB II : 
 
@@ -40,7 +33,7 @@ Desain
 Analis
 
 ### 2.3 Batasan dan antarmuka organisasi.
-|     Untuk             |     Dari       |    KAITAN                                                                                                                                                                                                                                                      |
+|     Untuk             |     Dari       |    KAITAN                                                                                                                                                                                                                                                     |
 |-------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Manager           | Anggota    | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat  anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri  tidak berhak semena-mena dengan jabatanya. |
 | Programmer        | Tester     | Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer.                                                                                                      |
@@ -127,10 +120,7 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 ### BAB IV: PROSES TEKNIS
 ### 4.1 Metoda,tool,dan teknik
 ### 4.2 Dokumentasi perangkat lunak
-Dokumentasi perangkat lunak berdasar standar IEEE
 ### 4.3 Fungsi-fungsi pendukung proyek
-kita membutuhkan technical support satu orang  dibagian desain project, 2 orang dibagian programmer, 1 orang dibagian database
-
 
 
 
@@ -139,28 +129,29 @@ kita membutuhkan technical support satu orang  dibagian desain project, 2 orang 
 ## 5.1 Paket pekerjaan
                     Tabel Paket Pekerjaan
 
-  | Bulan  |  Februari  |  Maret  |   April  |
-  ---------|------------|---------|-----------
-  | Minggu |  1 2 3 4   | 1 2 3 4 | 1 2 3 4  |
+  | Bulan                   |  Februari  |    Maret   |   April    |    Mei     |
+  --------------------------|------------|------------|------------|-------------
+  | Minggu                  | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 |
   
   
                     Kategori Kegiatan      
 
-  |  Nama                   |           |           |     |
-  --------------------------|-----------|-----------|------
-  |  1. Irin Windiyati      | W w w w w | v v v v v | x x |
-  |  2. Yoshie Pangestu     | W w w w w |           |     |
-  |  3. Dina Micela W       | W         |           |     |
-  |  4. Nunung Nurhayati    | W         |           |     |
+  |  Nama                   |            |            |            |            |
+  --------------------------|------------|------------|------------|------------|
+  |  1. Irin Windiyati      | W  V  V  Z | V  V  V  V | x x        |   Z      A |
+  |  2. Yoshie Pangestu     | W  V  V  Z | V  V  V  V |            |   Z      A |
+  |  3. Dina Micela W       | W  V  V  Z | V  V  V  V |            |   Z      A |
+  |  4. Nunung Nurhayati    | W  V  V  B | B          |            |   Z      A |
   
  <br> Kategori Kegiatan :
 
 * (W) : Persiapan projek dan pengumpulan sumber daya yg diperlukan.
-* (V) : Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.
+* (V) : Waktu pengerjaan dokumen-dokumen.
 * (X) : Pengecekan hasil projek, berupa pengecekan terhadap error code pada program.
 * (Y) : Melakukan perbaikan projek yang sudah dicek. 
-* (Z) : Waktu pengerjaan dokumen-dokumen.
+* (Z) : Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.
 * (A) : Presentasi projek.
+* (B) : Waktu pengerjaan desain moockup
 
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
