@@ -20,6 +20,14 @@ Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili d
 * DBMS	Data Base Management System
     
 ### 2. Organisasi Proyek
+* Project manager 
+- Irin Windiyati
+
+* Anggota tim :
+- Yoshie Pnagestu (Programmer)
+- Nunung Nurhayati (Design)
+- Dina micela (Analis)
+
     
 ### BAB II : 
 
@@ -122,8 +130,7 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 ### 4.2 Dokumentasi perangkat lunak
 Dokumentasi perangkat lunak berdasar standar IEEE
 ### 4.3 Fungsi-fungsi pendukung proyek
-satu orang technical su
-dibagian desain project, 2 orang dibagian p
+kita membutuhkan technical support satu orang  dibagian desain project, 2 orang dibagian programmer, 1 orang dibagian database
 
 
 
