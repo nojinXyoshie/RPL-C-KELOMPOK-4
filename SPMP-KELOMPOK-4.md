@@ -138,21 +138,21 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 
   |  Nama                   |            |            |            |            |
   --------------------------|------------|------------|------------|------------|
-  |  1. Irin Windiyati      | W  V  V  Z | V  V  V  V | x x        |   Z      A |
-  |  2. Yoshie Pangestu     | W  V  V  Z | V  V  V  V |            |   Z      A |
-  |  3. Dina Micela W       | W  V  V  Z | V  V  V  V |            |   Z      A |
-  |  4. Nunung Nurhayati    | W  V  V  B | B          |            |   Z      A |
+  |  1. Irin Windiyati      | A  B  B  E | V  V  V  V | x x        | E        F |
+  |  2. Yoshie Pangestu     | A  B  B  E | V  V  V  V |            | E        F |
+  |  3. Dina Micela W       | A  B  B  E | V  V  V  V |            | E        F |
+  |  4. Nunung Nurhayati    | A  B  B  G | G          |            | E        F |
   
  <br> Kategori Kegiatan :
 
-* (W) : Persiapan projek dan pengumpulan sumber daya yg diperlukan.
-* (V) : Waktu pengerjaan dokumen-dokumen.
-* (X) : Pengecekan hasil projek, berupa pengecekan terhadap error code pada program.
-* (Y) : Melakukan perbaikan projek yang sudah dicek. 
-* (Z) : Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.
-* (A) : Presentasi projek.
-* (B) : Waktu pengerjaan desain moockup
-* (C) : Pengerjaan Laporan
+* (A) : Persiapan projek dan pengumpulan sumber daya yg diperlukan.
+* (B) : Waktu pengerjaan dokumen-dokumen.
+* (C) : Proses Pembuatan Aplikasi
+* (D) : Pengujian Aplikasi 
+* (E) : Pengecekan Hasil Projek
+* (F) : Perbaikan Projek
+* (G) : Pengerjaan Laporan
+* (H) : Presentasi
 
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
