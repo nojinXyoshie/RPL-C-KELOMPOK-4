@@ -23,10 +23,10 @@ Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili d
 * Project manager 
 - Irin Windiyati
 
-* Anggota tim :
-- Yoshie Pnagestu (Programmer)
-- Nunung Nurhayati (Design)
-- Dina micela (Analis)
+* Anggota tim :<br>
+1. Yoshie Pnagestu (Programmer)<br>
+2. Nunung Nurhayati (Design)<br>
+3. Dina micela (Analis)<br>
 
     
 ### BAB II : 
