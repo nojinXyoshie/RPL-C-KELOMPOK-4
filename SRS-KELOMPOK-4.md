@@ -69,7 +69,7 @@ d.  Bagian costumer mempunyai wewenang untuk melakukan pemesanan makanan
 
 #### 2.6 kebutuhan-kebutuhan penyeimbang.
 
-#### BAB III : Kebutuhan Spesifik.
+### BAB III : Kebutuhan Spesifik.
 #### 3.1 Kebutuhan Fungsional
 Kebutuhan fungsional sistem ini terdiri atas beberapa fungsi utama yang
 saling berhubungan dan mendukung satu sama lain, yang meliputi fungsifungsi
