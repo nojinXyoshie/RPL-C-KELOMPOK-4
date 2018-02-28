@@ -152,6 +152,7 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 * (Z) : Pengerjaan projek dari koding dan pencarian referensi hingga dilakukan pengecekan.
 * (A) : Presentasi projek.
 * (B) : Waktu pengerjaan desain moockup
+* (C) : Pengerjaan Laporan
 
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
@@ -201,6 +202,7 @@ Estimasi biaya software
 | 4. Sublime               | Rp. 500.000,-  |
 
 ### 5.5 Jadwal
-Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:
-               Tabel Jadwal
+
+
+![image](http://i63.tinypic.com/1zy8x6t.png)
 
