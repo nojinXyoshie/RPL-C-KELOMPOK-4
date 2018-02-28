@@ -138,10 +138,10 @@ Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat 
 
   |  Nama                   |            |            |            |            |
   --------------------------|------------|------------|------------|------------|
-  |  1. Irin Windiyati      | A  B  B  E | V  V  V  V | x x        | E        F |
-  |  2. Yoshie Pangestu     | A  B  B  E | V  V  V  V |            | E        F |
-  |  3. Dina Micela W       | A  B  B  E | V  V  V  V |            | E        F |
-  |  4. Nunung Nurhayati    | A  B  B  G | G          |            | E        F |
+  |  1. Irin Windiyati      | A  B  B  E | V  V  V  V | C  C  C  C | D  E  F    |
+  |  2. Yoshie Pangestu     | A  B  B  E | V  V  V  V | C  C  C  C | D  E  F    |
+  |  3. Dina Micela W       | A  B  B  E | V  V  V  V | C  C  C  C | D  E  F    |
+  |  4. Nunung Nurhayati    | A  B  B  G | G  C  C  C | C  C  C  C | D  E  F    |
   
  <br> Kategori Kegiatan :
 
