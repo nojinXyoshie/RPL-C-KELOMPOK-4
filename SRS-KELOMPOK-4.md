@@ -41,7 +41,6 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 Antarmuka pengguna menggunakan aplikasi berbasis android. Pengguna berinteraksi dengan perangkat lunak ayo mangan melalui antarmuka aplikasi pada smartphone android.
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
-
 - PC
 - Mouse
 - Keyboard
@@ -57,7 +56,7 @@ Control Protocol/Internet Protocol (TCP/IP).
 - RAM yang kami gunakan adalah 4Gb, tapi untuk kapassitas minimum 2 Gb
 - Memori yang dibutuhkan untuk aplikasi minimal ------
 ### 2.1.7 Operasi-operasi
-operasi-operasi yang ada pada aplikasi (simpan, buka, dll
+operasi-operasi yang ada pada aplikasi (simpan, buka, dll)
 - Order
 - Simpan
 - Tampilan atau Buka
