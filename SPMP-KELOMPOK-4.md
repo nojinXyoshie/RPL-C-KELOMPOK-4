@@ -20,8 +20,7 @@ Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili d
 * DBMS	Data Base Management System
     
 ### 2. Organisasi Proyek
-* Project manager 
-- Irin Windiyati
+* Project manager : Irin Windiyati
 
 * Anggota tim :<br>
 1. Yoshie Pnagestu (Programmer)<br>
