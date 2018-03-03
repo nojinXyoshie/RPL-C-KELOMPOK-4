@@ -52,20 +52,20 @@ Yang dibutuhkan hanya sebuah komputer server dan satu atau
 beberapa komputer client yang terhubung secara client-server dalam
 lingkup jaringan Internet atau intranet berbasis protokol Transmission
 Control Protocol/Internet Protocol (TCP/IP).
-### 2.1.6 Batasan-batasan Memori
-- RAM yang kami gunakan adalah 4Gb, tapi untuk kapassitas minimum 2 Gb
-- Memori yang dibutuhkan untuk aplikasi minimal ------
-### 2.1.7 Operasi-operasi
+#### 2.1.6 Batasan-batasan Memori
+- RAM yang kami gunakan adalah 8Gb, tapi untuk kapassitas minimum 4Gb
+- Memori yang dibutuhkan untuk aplikasi minimal 512Mb
+#### 2.1.7 Operasi-operasi
 operasi-operasi yang ada pada aplikasi (simpan, buka, dll)
 - Order
 - Simpan
 - Tampilan atau Buka
-### 2.1.8 Kebutuhan-kebutuhan dalam tahapan Adaptasi
+#### 2.1.8 Kebutuhan-kebutuhan dalam tahapan Adaptasi
 - Pemakaian data bisa sebagai sarana penyimpanan data.
 - PL menggunakan bahasa Indonesia agar mudah dipahami oleh user.
-### 2.2 Fungsi-fungsi Produk
+#### 2.2 Fungsi-fungsi Produk
 Fungsi produk aplikasi pemesanan aplikasi ini adalah menyediakan kemudahan dalam proses pembelian dan penghitungan pembuatan dalam pembuatan aplikasi yang dinginkan oleh pengguna maupun pembuatan aplikasi tersebut. Serta dapat mensimulasi jangka waktu dalam pembuatan aplikasi tersebut.
-### 2.3 Karakteristik Pengguna
+#### 2.3 Karakteristik Pengguna
 Untuk mengoperasikan sistem ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara pembuatan dan penggunaan dalam sebuah aplikasi ini.
 #### 2.4 Batasan batasan.
 Pengembangan Aplikasi pemesatan tiket berbasis web ini memiliki keterbatasan-keterbatasan yaitu sebagai berikut  :
