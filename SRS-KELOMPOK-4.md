@@ -8,7 +8,7 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 |----------------------|---------------------------------------------------------------------------------------------------------------|
 |   SRS      | Merupakan singkatan dari Software Requirement Specfication      |
 |   Webserver             | Webserver sebuah software yang memberikan layanan berbasis data dan berfungsi menerima permintaan dari HTTP atau HTTPS pada klien yang dikenal dan biasanya kita kenal dengan nama web browser (Mozilla Firefox, Google Chrome) dan untuk mengirimkan kembali yang hasilnya dalam bentuk beberapa halaman web dan pada umumnya akan berbentuk dokumen HTML. |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
-|   Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
+|   SPMP           | Merupakan singkatan dari Software Project Management Plan.                                                    |
 |   Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
 |   Bidang             | Sel dalam bentuk.                                                                                             |
 |   Historical Society | Database keanggotaan yang ada (juga database HS).                                                             |
