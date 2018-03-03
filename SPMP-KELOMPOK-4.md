@@ -77,17 +77,7 @@ Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan ka
 Prioritas jadwal yang dilakuakan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi
 
 ### 3.1.2 Budget
-| No          | Keterangan                                | Satuan | Jumlah Barang | Harga        | Jumlah Harga  |
-|-------------|-------------------------------------------|--------|---------------|--------------|---------------|
-| 1           | Gaji angota                               | bulan  | 3x4           | Rp.1.500.000 | Rp.18.000.000 |
-| 2           | Sublime                                   | buah   | 1             | Rp.5000      | Rp.5000       |
-| 3           | Xampp                                     | buah   | 1             | Rp.5000      | Rp.5000       |
-| 4           | Web Browser                               | buah   | 1             | Rp.5000      | Rp.5000       |
-| 5           | Android Studio , JDK dan plugin-pluginnya | set    | 1             | Rp.5000      | Rp.5000       |
-| 6           | Sewa komputer                             | set    | 3x4           | Rp.500.000   | Rp.6.000.000  |
-| 7           | Sewa mobile                               | buah   | 1             | Rp.380.000   | Rp.380.000    |
-| 8           | Wifi                                      | set    | 1             | Rp.2.000.000 | Rp.2.000.000  |
-| Total Biaya |                                           |        |               |              | Rp.26.400.000 |
+
 
 ### 3.1.3 Kemampuan 
 
@@ -210,18 +200,17 @@ Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat dilihat
 
 ### 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
-
-Estimasi biaya software
-
-            Tabel Estimasi biaya software
-            
-|No    Kebutuhan Software  | Biaya          |
-|--------------------------|----------------|
-| 1. Windows 7 or Higher   | Rp. 1.100.000,-|
-| 2. Android Studio        | Rp. 500.000,-  |
-| 3. Xampp                 | Rp. 500.000,-  |
-| 4. Sublime               | Rp. 500.000,-  |
-
+| No          | Keterangan                                | Satuan | Jumlah Barang | Harga        | Jumlah Harga  |
+|-------------|-------------------------------------------|--------|---------------|--------------|---------------|
+| 1           | Gaji angota                               | bulan  | 3x4           | Rp.1.500.000 | Rp.18.000.000 |
+| 2           | Sublime                                   | buah   | 1             | Rp.5000      | Rp.5000       |
+| 3           | Xampp                                     | buah   | 1             | Rp.5000      | Rp.5000       |
+| 4           | Web Browser                               | buah   | 1             | Rp.5000      | Rp.5000       |
+| 5           | Android Studio , JDK dan plugin-pluginnya | set    | 1             | Rp.5000      | Rp.5000       |
+| 6           | Sewa komputer                             | set    | 3x4           | Rp.500.000   | Rp.6.000.000  |
+| 7           | Sewa mobile                               | buah   | 1             | Rp.380.000   | Rp.380.000    |
+| 8           | Wifi                                      | set    | 1             | Rp.2.000.000 | Rp.2.000.000  |
+| Total Biaya |                                           |        |               |              | Rp.26.400.000 |
 ### 5.5 Jadwal
 
 
