@@ -15,14 +15,7 @@ http://hanungnp.staff.telkomuniversity.ac.id/files/2015/04/contoh-SKPL-Sistem-in
 http://hplover.com
 
 #### 1.5 Overview
-Bab berikutnya, bagian Uraian Keseluruhan, dari dokumen ini memberikan sebuah
-gambaran fungsionalitas produk. Ini menggambarkan persyaratan informal dan
-digunakan untuk menetapkan konteks untuk spesifikasi persyaratan teknis di bab berikutnya.
-Bab ketiga, Bagian Persyaratan Spesifikasi, dari dokumen ini ditulis
-terutama untuk pengembang dan menjelaskan secara teknis rinciannya
-fungsionalitas produk.
-Kedua bagian dokumen tersebut menggambarkan produk perangkat lunak yang sama secara keseluruhan,
-namun ditujukan untuk khalayak yang berbeda dan dengan demikian menggunakan bahasa yang berbeda.
+Pada dokumen ini memberikan penjelasan tentang gambaran umum, termasuk karakterisitik pengguna proyek ini, hardware produk, dan persyaratan fungsional seperti data siswa/guru pada instansi yag terkait yang digunakan untuk persyaratan penginputan data. Gambaran umum ini dibahasan pada bagian 2 yang terdiri dari prespektif produk,antarmuka sistem, antarmuka pengguna,antarmuka perangkat keras,antarmuka perangkat lunak sampe anatrmuka komunikasi. Hal ini juga dapat memberikan suatu kebutuhan yang terdapat pada aplikasi Ayo Mangan.
 ### BAB II : Gambaran Umum
 #### 2.1 Perspektif produk
 Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
