@@ -21,11 +21,6 @@ Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, k
 ### 1.5 Definisi dan akronim (singkatan)
 
 Dalam penulisan dokumen pembuatan projek ini, ada beberapa kata yang mungkin akan sulit dipahami oleh orang awam berikut ini :
-- Android
-
-Android adalah suatu sistem operasi yang berjalan pada smatphone saat ini dan menyesuaikan spesifikasi di kelas low-end hingga high-end. Hampir semua vendor saat ini mengembangkan produknya dengan sistem operasi Android, karena peminatnya yang semakin meningkat tajam.
-
-Seiring berkembangnya jaman tentu kita sebagai manusia butuh peralatan yang canggih dan efisien untuk keperluan sehari-hari. Oleh karena itu ada baiknya anda mulai menggunakan perangkat dengan sistem operasi ini, karena teknologi android pun sudah berkembang pesat dan ini sangat saya sarankan.
 
 Tabel I.1 Akronim
 
@@ -41,6 +36,10 @@ IEEE adalah standar yang mendefinisikan lapisan fisik dan sublapisan media akses
 SPMP adalah salah satu dokumentasi untuk merencanakan pembuatan project
 
 SRS adalah dokumen yang digunakan pada tahap pengumpulan/analisis kebutuhankebutuhan.
+* SRS	Software Requirement Specification
+* DFD	Data Flow Diagram
+* ERD	Entity Relationship Diagram
+* DBMS	Data Base Management System
     
 ### 2. Organisasi Proyek
     
@@ -48,6 +47,7 @@ SRS adalah dokumen yang digunakan pada tahap pengumpulan/analisis kebutuhankebut
 
 ### 2.1 Model proses
 Dalam proyek yang kami buat kita menggunakan model proses V-model.
+Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang yang dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linier, maka dalam model V proses dalikukan bercabang dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya.
 
 ### 2.2 Struktur organisasi
 Project Manajer
@@ -56,18 +56,20 @@ Desain
 Analis
 
 ### 2.3 Batasan dan antarmuka organisasi.
-|     Untuk             |     Dari       |    KAITAN                                                                                                                                                                                                                                                     |
-|-------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Manager           | Anggota    | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat  anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri  tidak berhak semena-mena dengan jabatanya. |
-| Programmer        | Tester     | Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer.                                                                                                      |
-| Analisis          | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada                                                                                                                                                                                            |
-| Programmer        | Desainer   | "Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis                                                                                                                                                                     |
+|     Untuk         |     Dari   |                                          KAITAN                                                     |
+|-------------------|------------|-----------------------------------------------------------------------------------------------------|
+| Manager           | Anggota    | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat  anggota lalai dengan tugas-  | |                   |            | tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk       |
+|                   |            | manager sendiri  tidak berhak semena-mena dengan jabatanya.                                         |
+| Programmer        | Analis     | Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki tanggung jawab untuk        |
+|                   |            | mengecek kesalahan koding-koding yg dilakukan programmer.                                           |
+| Analisis          | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada                                    |
+| Programmer        | Desainer   | "Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis             |
 
 ### 2.4 Lingkup tanggung jawab
 
 | Ketua Tim (Manager) | Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat |
 |---------------------|---------------------------------------------------------------------------------------|
-| Tester              | Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat.        |
+| Alaisis             | Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat.        |
 | Programmer          | Membuat fungsi program projek yang sedang dibuat.                                     |
 | Analisis            | Menganalisa atau  mengoreksi fungsi program                                           |
 | Desainer            | Membuat kerangka desain projek yang sedang dibuat                                     |
