@@ -99,7 +99,7 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 ### 3.3.1 Resiko Proyek
 | Resiko                                    | Teknik manajemen resiko                                           |
 |-------------------------------------------|-------------------------------------------------------------------|
-| Biaya dan waktu tidak sesuai              | membuat biaya estimasi                                            |
+| Biaya dan waktu tidak sesuai              | *membuat biaya estimasi                                            |
 |                                           | menambah waktu dalam pengerjaan projek                            |
 |                                           | menganalisa projek yang akan di buat                              |
 |                                           |                                                                   |
