@@ -89,10 +89,10 @@ Projek yang kami buat saat ini mempunyai kelebihan dalam memudahkan seseorang  u
 
 ### 3.2 Asumsi, Keterkaitan, dan batasan
             
-### 3.2.1 Asumsi
-Adapun aplikasi yang kami buat adalah sejenis aplikasi pemesanan makanan berbasis android , guna memesan dan mengantar makanan pada tempat tujuan pembeli .    
+- Asumsi
+Adapun aplikasi yang kami buat adalah sejenis aplikasi pemesanan makanan berbasis android , guna memesan dan mengantar makanan pada tempat tujuan pembeli .  
 
-### 3.2.2 Keterkaitan dan Batasan
+- Keterkaitan dan Batasan
 Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalui device PC/Laptop yang menggunakan  aplikasi web. Sedangkan penjual , pembeli , dan kurir menggunakan aplikasi android yang diakses melalui device smartphone. 
 
 ### 3.3 Manajemen resiko
@@ -118,10 +118,9 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 
 
 ### 3.4 Mekanisme monitoring dan kontroling 
-### 3.4.1 Monitoring
-Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari senin
-### 3.4.2 Kontroling
-Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
+- Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari senin
+
+-Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
 ### 3.5 Perencanaan staf 
 * Project Manager  	 : Irin Windiyati
 * Programmer		 : Yoshie Pangestu
