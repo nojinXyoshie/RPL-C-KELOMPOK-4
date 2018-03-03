@@ -72,20 +72,10 @@ Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan ka
 
 ### BAB III : PROSES MANAJERIAL
 ### 3.1 Tujuan dan prioritas manajemen 
-#### 3.1.1 Prioritas jadwal
 
-Prioritas jadwal yang dilakuakan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi
+- tujuan proyek ini adalah untuk memudahkan seseorang  untuk mengembangkan dan mengelola bisnisnya di bidang kuliner dan memudahkan orang untuk membeli makanan pesan antar lewat aplikasi android.
 
-### 3.1.2 Budget
-
-
-### 3.1.3 Kemampuan 
-
-Projek yang kami buat saat ini mempunyai kelebihan dalam memudahkan seseorang  untuk mengembangkan dan mengelola bisnisnya di bidang kuliner dan memudahkan orang untuk membeli makanan pesan antar lewat aplikasi android. Kelebihan produk antara lain :
-
-* mampu melihat tracking saat kurir mengirim barang
-* fitur chat dan telepon antara kurir dan pembeli
-
+- Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi
 
 ### 3.2 Asumsi, Keterkaitan, dan batasan
             
@@ -96,35 +86,35 @@ Adapun aplikasi yang kami buat adalah sejenis aplikasi pemesanan makanan berbasi
 Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalui device PC/Laptop yang menggunakan  aplikasi web. Sedangkan penjual , pembeli , dan kurir menggunakan aplikasi android yang diakses melalui device smartphone. 
 
 ### 3.3 Manajemen resiko
-### 3.3.1 Resiko Proyek
+
 | Resiko                                    | Teknik manajemen resiko                                           |
 |-------------------------------------------|-------------------------------------------------------------------|
-| Biaya dan waktu tidak sesuai              |- membuat biaya estimasi                                            |
+| Biaya dan waktu tidak sesuai              |- membuat biaya estimasi                                           |
 |                                           | menambah waktu dalam pengerjaan projek                            |
 |                                           | menganalisa projek yang akan di buat                              |
 |                                           |                                                                   |
-| Pengembangan software yang belum maksimal |- evaluasi untuk meningkatkan projek                                |
+| Pengembangan software yang belum maksimal |- evaluasi untuk meningkatkan projek                               |
 |                                           | membuat metode dan spesifikasi                                    |
 |                                           | buat prototype                                                    |
 |                                           |                                                                   |
-| kegagalan pada komponen-komponen          |- mencari referensi-referensi menganalisis projek yang akan di buat |
+| kegagalan pada komponen-komponen          |- mencari referensi-referensi menganalisis projek yang akan di buat|
 |                                           |                                                                   |
-| kegagalan kinerja realtime                |- prosedur jaminan kualitas                                         |
+| kegagalan kinerja realtime                |- prosedur jaminan kualitas                                        |
 |                                           | membangun kekompakan tim                                          |
 |                                           | kesungguhan dalam tim                                             |
 |                                           |                                                                   |
-| kegagalan memjalankan tugas eksternal     |- analisis teknis                                                   |
+| kegagalan memjalankan tugas eksternal     |- analisis teknis                                                  |
 |                                           | simulasi                                                          |
 
 
 ### 3.4 Mekanisme monitoring dan kontroling 
 - Proses monitoring dilakukan secara tim dan dilaksanakan setiap hari senin
 
--Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
+- Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
 ### 3.5 Perencanaan staf 
 * Project Manager  	 : Irin Windiyati
 * Programmer		 : Yoshie Pangestu
-* Desainer 		: Nunung Nurhayati
+* Desainer 		     : Nunung Nurhayati
 * Analysis	       	 : Dina Micela
 
 ### BAB IV: PROSES TEKNIS
