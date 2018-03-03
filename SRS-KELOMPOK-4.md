@@ -11,8 +11,8 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 |   SPMP           | Merupakan singkatan dari Software Project Management Plan.                                                    |
 
 #### 1.4 Referensi
-IEEE. IEEE Std 830-1998 Praktik yang Direkomendasikan IEEE untuk Persyaratan Perangkat Lunak
-Spesifikasi. IEEE Computer Society, 1998.
+http://hanungnp.staff.telkomuniversity.ac.id/files/2015/04/contoh-SKPL-Sistem-informasi-tugas-akhir-SISTA.pdf
+
 #### 1.5 Overview
 Bab berikutnya, bagian Uraian Keseluruhan, dari dokumen ini memberikan sebuah
 gambaran fungsionalitas produk. Ini menggambarkan persyaratan informal dan
