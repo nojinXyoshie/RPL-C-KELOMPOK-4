@@ -90,7 +90,7 @@ Untuk mengoperasikan aplikasi ini tidak diperlukan tingkat pendidikan tinggi, na
 
 #### 2.4 Batasan-batasan.
 Pengembangan Aplikasi pemesanan makanan berbasis mobile ini memiliki keterbatasan-keterbatasan yaitu sebagai berikut  :
--	Sistem Sistem Administrasi pemesanan makanan ini akan di buat menggunakan Androi studio, MySql, PHP, dan html
+-	Sistem Sistem Administrasi pemesanan makanan ini akan di buat menggunakan Android studio, MySql, PHP, dan html
 -	Aplikasi bersifat android
 - Pengembangan aplikasi Ayo Mangan ini akan meliputi pengelolaan data-data yang ada diadmin yang meliputi data toko, dan seller
 
@@ -134,17 +134,17 @@ Dalam sistem informasi ini, kebutuhan yang mendukung kelancaran
 fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 
 |  Availability 			|  24 jam nonstop, kecuali ada maintenance / perbaikan sistem.   	|
--------------------------------------------|--------------------------------------------------------------------------------------|
-|  Reliability 			  |  Kegagalan yang ditolerir sekitar 5%.			  	|
-|  Ergonomy 			|  Sistem informasi ini harus user friendly.			 	 |
-|  Portability 			|  Aplikasi ini berjalan pada platform atau sistem operasi apa     	 |
-|  				|  saja yang mendukung aplikasi berbasis android.		  |
-| Response 			|  Time Tidak lebih dari 10 detik.				  |
-|  Safety				|  Menggunakan secure socket layer dgn sertifikasi. 		  |
-Security 				Login (manajemen user) dan validasi data sangat penting  	  |
-karena menyangkut pembayaran secara online.		  |
-Bahasa				Menggunakan bahasa Indramayu, kecuali ada penambahan 	  |
-Komunikasi			Fasilitas untuk menggunakan bahasa lain selain bahasa Indramayu.
+|---------------------|-----------------------------------------------------------------|
+|  Reliability 			  |  Kegagalan yang ditolerir sekitar 5%.			  	                  |
+|  Ergonomy 			    |  Sistem informasi ini harus user friendly.			 	              |
+|  Portability 			  |  Aplikasi ini berjalan pada platform atau sistem operasi apa    |
+|  				            |  saja yang mendukung aplikasi berbasis android.		              |
+|  Response 			    |  Time Tidak lebih dari 10 detik.				                        |
+|  Safety				      |  Menggunakan secure socket layer dgn sertifikasi. 		          |
+|  Security 				  |  Login (manajemen user) dan validasi data sangat penting  	    |
+|                     |  karena menyangkut pembayaran secara online.		                |
+|  Bahasa				      |  Menggunakan bahasa Indramayu, kecuali ada penambahan 	        |
+|   Komunikasi			  |  Fasilitas untuk menggunakan bahasa lain selain bahasa Indonesia|
 
 
 
