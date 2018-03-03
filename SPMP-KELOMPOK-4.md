@@ -110,7 +110,7 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 
 ### BAB V : PAKET PEKERJAAN, JADWAL DAN BUDGET
 
-## 5.1 Paket pekerjaan
+### 5.1 Paket pekerjaan
             
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
@@ -133,17 +133,23 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 
 ### 5.3 Kebutuhan-kebutuhan sumber daya
-Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat dilihat pada tabel berikut ini.
-
-            Tabel kebutuhan sumber daya
-
+- kebutuhan SDM
 | No   Nama Personal     |    Job               |
 |------------------------|----------------------|
 | 1.   Irin Windiyati    |   Manager            |
-| 2.   Yoshie Pangestu   |   Programmer         |
+| 2.   Yoshie Pangestu   | Programmer & Database|
 | 3.   Nunung Nurhayati  |   Design             |
 | 4.   Dina Micela       |   Sistem Analis      |
 
+-Kebutuhan Software
+1. XAMPP
+2. Android
+3. Balsamiq moockup
+4. Microsoft visio
+
+-Kebutuhan Hardware 
+1.PC
+2.Smartphone
 
 ### 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
