@@ -112,10 +112,14 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 
 - Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
 ### 3.5 Perencanaan staf 
-* Project Manager  	 : Irin Windiyati
-* Programmer		 : Yoshie Pangestu
-* Desainer 		     : Nunung Nurhayati
-* Analysis	       	 : Dina Micela
+* Project Manager  	 : 
+- Irin Windiyati
+* Programmer		 : 
+- Yoshie Pangestu
+* Desainer 		     : 
+- Nunung Nurhayati
+* Analysis	       	 : 
+- Dina Micela
 
 ### BAB IV: PROSES TEKNIS
 ### 4.1 Metoda,tool,dan teknik
