@@ -12,6 +12,7 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 
 #### 1.4 Referensi
 http://hanungnp.staff.telkomuniversity.ac.id/files/2015/04/contoh-SKPL-Sistem-informasi-tugas-akhir-SISTA.pdf
+http://hplover.com
 
 #### 1.5 Overview
 Bab berikutnya, bagian Uraian Keseluruhan, dari dokumen ini memberikan sebuah
