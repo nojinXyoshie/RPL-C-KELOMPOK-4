@@ -1,5 +1,3 @@
-##Software Requirements Specification##
-
 ### BAB I : Pendahuluan
 #### 1.1 Tujuan
 Tujuan dari penulisan dokumen Softaware Requirement Specification (SRS) untuk mempermudah mengembangkan perangkat lunak yang kami buat dan memberikan gambaran yang spesifik dari kebutuhan softaware. Spesifikasi kebutuhan tersebut termasuk dari segi perangkat lunak dan perangkat keras,untuk memberikan gambaran dan penjelasan mengenai pembuatan produk termasuk kebutuhan fungsional hingga non-fungsional, dan kebutuhan antar muka mulai dari antar muka pengguna hingga antar muka komunikasi.
@@ -8,7 +6,7 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 #### 1.3 Definisi, Akronim, Singkatan
 |      Istilah         |               Definisi                                                                                        |
 |----------------------|---------------------------------------------------------------------------------------------------------------|
-|   Artikel aktif      | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
+
 |   Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
 |   Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
 |   Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
