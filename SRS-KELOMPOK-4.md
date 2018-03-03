@@ -6,7 +6,7 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 #### 1.3 Definisi, Akronim, Singkatan
 |      Istilah         |               Definisi                                                                                        |
 |----------------------|---------------------------------------------------------------------------------------------------------------|
-
+|   SRS      | Merupakan singkatan dari Software Requirement Specfication      |
 |   Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
 |   Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
 |   Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
