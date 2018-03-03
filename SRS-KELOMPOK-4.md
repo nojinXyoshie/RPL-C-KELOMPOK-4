@@ -1,71 +1,108 @@
 ### BAB I : Pendahuluan
+
 #### 1.1 Tujuan
 Tujuan dari penulisan dokumen Softaware Requirement Specification (SRS) untuk mempermudah mengembangkan perangkat lunak yang kami buat dan memberikan gambaran yang spesifik dari kebutuhan softaware. Spesifikasi kebutuhan tersebut termasuk dari segi perangkat lunak dan perangkat keras,untuk memberikan gambaran dan penjelasan mengenai pembuatan produk termasuk kebutuhan fungsional hingga non-fungsional, dan kebutuhan antar muka mulai dari antar muka pengguna hingga antar muka komunikasi.
+
 #### 1.2 Lingkup
 Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartphone. Aplikasi ini perlu dibuatkannya karena untuk mempermudah penjual dan pembeli dalam bertransaksi jarak jauh.
+
 #### 1.3 Definisi, Akronim, Singkatan
 |      Istilah         |               Definisi                                                                                        |
 |----------------------|---------------------------------------------------------------------------------------------------------------|
-|   SRS      | Merupakan singkatan dari Software Requirement Specfication      |
-|   Webserver             | Webserver sebuah software yang memberikan layanan berbasis data dan berfungsi menerima permintaan dari HTTP atau HTTPS pada klien yang dikenal dan biasanya kita kenal dengan nama web browser (Mozilla Firefox, Google Chrome) dan untuk mengirimkan kembali yang hasilnya dalam bentuk beberapa halaman web dan pada umumnya akan berbentuk dokumen HTML. |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
-|   SPMP           | Merupakan singkatan dari Software Project Management Plan.                                                    |
+|   Artikel aktif      | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
+|   Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
+|   Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
+|   Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
+|   Bidang             | Sel dalam bentuk.                                                                                             |
+|   Historical Society | Database keanggotaan yang ada (juga database HS).                                                             |
+|   Database           |                                                                                                               |
+|   Anggota            | Seorang anggota Historical Society terdaftar di HS database                                                   |
+|   Pembaca            | Siapa pun yang mengunjungi situs tersebut untuk membaca artikel.                                              |
+|   Ulasan             | Rekomendasi tertulis tentang kesesuaian sebuah artikel untuk publikasi; mungkin termasuk saran untuk          |  |                      |                                                                                                               |
+|   Reviewer           | Seseorang yang memeriksa sebuah artikel dan memiliki kemampuan untuk melakukannya merekomendasikan persetujuan|  |                      | artikel untuk publikasi atau mohon agar perubahan dilakukan di artikel.                                       |
+| Persyaratan Perangkat| Sebuah dokumen yang benar-benar menggambarkan semua fungsi dari sistem yang diusulkan dan kendala di mana itu |
+| Lunak Spesifikasi    | harus beroperasi Misalnya, dokumen ini.                                                                       |
 
 #### 1.4 Referensi
-http://hanungnp.staff.telkomuniversity.ac.id/files/2015/04/contoh-SKPL-Sistem-informasi-tugas-akhir-SISTA.pdf
-http://hplover.com
+IEEE. IEEE Std 830-1998 Praktik yang Direkomendasikan IEEE untuk Persyaratan Perangkat Lunak
+Spesifikasi. IEEE Computer Society, 1998.
 
 #### 1.5 Overview
-Pada dokumen ini memberikan penjelasan tentang gambaran umum, termasuk karakterisitik pengguna proyek ini, hardware produk, dan persyaratan fungsional seperti data siswa/guru pada instansi yag terkait yang digunakan untuk persyaratan penginputan data. Gambaran umum ini dibahasan pada bagian 2 yang terdiri dari prespektif produk,antarmuka sistem, antarmuka pengguna,antarmuka perangkat keras,antarmuka perangkat lunak sampe anatrmuka komunikasi. Hal ini juga dapat memberikan suatu kebutuhan yang terdapat pada aplikasi Ayo Mangan.
+Bab berikutnya, bagian Uraian Keseluruhan, dari dokumen ini memberikan sebuah
+gambaran fungsionalitas produk. Ini menggambarkan persyaratan informal dan
+digunakan untuk menetapkan konteks untuk spesifikasi persyaratan teknis di bab berikutnya.
+Bab ketiga, Bagian Persyaratan Spesifikasi, dari dokumen ini ditulis
+terutama untuk pengembang dan menjelaskan secara teknis rinciannya
+fungsionalitas produk.
+Kedua bagian dokumen tersebut menggambarkan produk perangkat lunak yang sama secara keseluruhan,
+namun ditujukan untuk khalayak yang berbeda dan dengan demikian menggunakan bahasa yang berbeda.
+
 ### BAB II : Gambaran Umum
+
 #### 2.1 Perspektif produk
 Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
 dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
+
 #### 2.1.1 Antarmuka sistem
+
 #### 2.1.2 Antarmuka pengguna
 Antarmuka pengguna menggunakan aplikasi berbasis android. Pengguna berinteraksi dengan perangkat lunak ayo mangan melalui antarmuka aplikasi pada smartphone android.
+
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
 - PC
 - Mouse
 - Keyboard
 - Smartphone 
+
 #### 2.1.4 Antarmuka perangkat lunak
 Aplikasi dapat diakses jika terhubung dengan internet dan memiliki OS android
+
 #### 2.1.5 Antarmuka komunikasi
 Yang dibutuhkan hanya sebuah komputer server dan satu atau
 beberapa komputer client yang terhubung secara client-server dalam
 lingkup jaringan Internet atau intranet berbasis protokol Transmission
 Control Protocol/Internet Protocol (TCP/IP).
+
 #### 2.1.6 Batasan-batasan Memori
 - RAM yang kami gunakan adalah 8Gb, tapi untuk kapassitas minimum 4Gb
 - Memori yang dibutuhkan untuk aplikasi minimal 512Mb
+
 #### 2.1.7 Operasi-operasi
-operasi-operasi yang ada pada aplikasi (simpan, buka, dll)
-- Order
-- Simpan
-- Tampilan atau Buka
+- Login melalui aplikasi, masuk sebagai customer, kurir dan seller
+- Seller dapat mengupload foto makanan dan menginput data menu makanan melalui aplikasi
+- Login melalui web, masuk sebagai admin untuk mengelola data seller
+- Kurir dapat tracking alamat customer melalui aplikasi
+- Customer dapat mengorder makanan melalui aplikasi, tracking kurir dan konfirmasi orderan telah sampai.
+
 #### 2.1.8 Kebutuhan-kebutuhan dalam tahapan Adaptasi
-- Pemakaian data bisa sebagai sarana penyimpanan data.
-- PL menggunakan bahasa Indonesia agar mudah dipahami oleh user.
+Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat mengetahui informasi aplikasi tersebut.
+
 #### 2.2 Fungsi-fungsi Produk
-Fungsi produk aplikasi pemesanan aplikasi ini adalah menyediakan kemudahan dalam proses pembelian dan penghitungan pembuatan dalam pembuatan aplikasi yang dinginkan oleh pengguna maupun pembuatan aplikasi tersebut. Serta dapat mensimulasi jangka waktu dalam pembuatan aplikasi tersebut.
+- Data Toko dan menu makanan
+- Data Orderan
+- Tracking
+
+Fungsi produk aplikasi pemesanan aplikasi ini adalah menyediakan kemudahan dalam proses pemesanan dan pembuatan, dalam pembuatan aplikasi yang dinginkan oleh pengguna maupun pembuatan aplikasi tersebut. Serta dapat mensimulasi jangka waktu dalam pembuatan aplikasi tersebut.
+
 #### 2.3 Karakteristik Pengguna
-Untuk mengoperasikan sistem ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara pembuatan dan penggunaan dalam sebuah aplikasi ini.
-#### 2.4 Batasan batasan.
-Pengembangan Aplikasi pemesatan tiket berbasis web ini memiliki keterbatasan-keterbatasan yaitu sebagai berikut  :
--	Sistem Sistem Administrasi pemesanan makanan ini akan di buat databasenya menggunakan MySql dan bahasa pemrograman PHP, html dan java script. 
--	 Aplikasi bersifat android
+Untuk mengoperasikan aplikasi ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara menggunakan smartphone dan penggunaan dalam sebuah aplikasi ini.
+
+#### 2.4 Batasan-batasan.
+Pengembangan Aplikasi pemesanan makanan berbasis mobile ini memiliki keterbatasan-keterbatasan yaitu sebagai berikut  :
+-	Sistem Sistem Administrasi pemesanan makanan ini akan di buat menggunakan Androi studio, MySql, PHP, dan html
+-	Aplikasi bersifat android
+- Pengembangan aplikasi Ayo Mangan ini akan meliputi pengelolaan data-data yang ada diadmin yang meliputi data toko, dan seller
 
 #### 2.5 Asumsi dan ketergantungan/keterkaitan.
-Asumsi-asumsi pada pemesanan makanan ini adalah:
-a.   Setiap entitas mempunyai hak akses.
-b.  Admin bisa melihat sistem secara keseluruhan dan tidak dapat merubah data-data. Admin hanya hanya mengatur data-data user.
-c.   Pemilik atau Owner bisa melihat sistem secara keseluruhan dan dapat merubah data-data di dalamnya.
-d.  Bagian costumer mempunyai wewenang untuk melakukan pemesanan makanan
+- Admin bisa melihat sistem secara keseluruhan dan dapat merubah data-data seller, Admin hanya mengatur data-data seller 
+- Seller atau Owner bisa melihat sistem secara keseluruhan dan dapat merubah data-data tokonya sendiri
+- Bagian costumer mempunyai wewenang untuk melakukan pemesanan makanan serta konfirmasi jika orderan telah sampai.
 
 #### 2.6 kebutuhan-kebutuhan penyeimbang.
 
 ### BAB III : Kebutuhan Spesifik.
+
 #### 3.1 Kebutuhan Fungsional
 Kebutuhan fungsional sistem ini terdiri atas beberapa fungsi utama yang
 saling berhubungan dan mendukung satu sama lain, yang meliputi fungsifungsi
