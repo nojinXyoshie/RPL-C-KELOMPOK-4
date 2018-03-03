@@ -13,8 +13,10 @@ Aplikasi Ayo Mangan! adalah sistem pemesanan delivery makanan yang berdomisili d
 ### 1.3 Evolusi SPMP
 
 Segala dokumen yang di buat dalam tahapan pembuatan projek ini dirawat oleh salah satu anggota yang diberikan tanggung jawab untuk dokumentasi, tetapi dalam pembuatannya dokumen ini dikerjakan secara bersama oleh tim. Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal, atapun mengubah dokumen tanpa dasar yang jelas.
+
 ### 1.4 Material acuan
 
+Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.
 ### 1.5 Definisi dan akronim (singkatan)
 * SRS	Software Requirement Specification
 * DFD	Data Flow Diagram
