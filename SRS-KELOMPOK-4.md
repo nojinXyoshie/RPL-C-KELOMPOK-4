@@ -7,7 +7,7 @@ Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartph
 |      Istilah         |               Definisi                                                                                        |
 |----------------------|---------------------------------------------------------------------------------------------------------------|
 |   SRS      | Merupakan singkatan dari Software Requirement Specfication      |
-|   Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
+|   Webserver             | Webserver sebuah software yang memberikan layanan berbasis data dan berfungsi menerima permintaan dari HTTP atau HTTPS pada klien yang dikenal dan biasanya kita kenal dengan nama web browser (Mozilla Firefox, Google Chrome) dan untuk mengirimkan kembali yang hasilnya dalam bentuk beberapa halaman web dan pada umumnya akan berbentuk dokumen HTML. |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
 |   Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
 |   Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
 |   Bidang             | Sel dalam bentuk.                                                                                             |
