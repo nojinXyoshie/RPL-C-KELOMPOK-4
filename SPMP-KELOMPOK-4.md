@@ -41,19 +41,15 @@ SRS adalah dokumen yang digunakan pada tahap pengumpulan/analisis kebutuhankebut
 * ERD	Entity Relationship Diagram
 * DBMS	Data Base Management System
     
-### 2. Organisasi Proyek
-    
-### BAB II : 
+
+### BAB II : Organisasi Proyek
 
 ### 2.1 Model proses
 Dalam proyek yang kami buat kita menggunakan model proses V-model.
 Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang yang dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linier, maka dalam model V proses dalikukan bercabang dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya.
 
 ### 2.2 Struktur organisasi
-Project Manajer
-Programer
-Desain
-Analis
+<div style="text-align:center"><img src ="http://i63.tinypic.com/2n7fjev.jpg" /></div>
 
 ### 2.3 Batasan dan antarmuka organisasi.
 |     Untuk         |     Dari   |                                          KAITAN                                                     |
