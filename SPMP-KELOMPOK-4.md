@@ -20,12 +20,12 @@ Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, k
 
 ### 1.5 Definisi dan akronim (singkatan)
 
-* SRS	Software Requirement Specification
-* DFD	Data Flow Diagram
-* ERD	Entity Relationship Diagram
-* DBMS	Data Base Management System
-* IEEE  The International Institute ofElectronic and Electrical Engineers
-* SPMP  Software Project Management Plan
+* SRS (Software Requirement Specification)
+* DFD (Data Flow Diagram)
+* ERD (Entity Relationship Diagram)
+* DBMS (Data Base Management System)
+* IEEE (The International Institute ofElectronic and Electrical Engineers)
+* SPMP (Software Project Management Plan)
 ### BAB II : Organisasi Proyek
 
 ### 2.1 Model proses
