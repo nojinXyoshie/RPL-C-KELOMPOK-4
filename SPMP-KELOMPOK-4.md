@@ -22,6 +22,7 @@ Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, k
 
 Dalam penulisan dokumen pembuatan projek ini, ada beberapa kata yang mungkin akan sulit dipahami oleh orang awam berikut ini :
 - Android
+
 Android adalah suatu sistem operasi yang berjalan pada smatphone saat ini dan menyesuaikan spesifikasi di kelas low-end hingga high-end. Hampir semua vendor saat ini mengembangkan produknya dengan sistem operasi Android, karena peminatnya yang semakin meningkat tajam.
 
 Seiring berkembangnya jaman tentu kita sebagai manusia butuh peralatan yang canggih dan efisien untuk keperluan sehari-hari. Oleh karena itu ada baiknya anda mulai menggunakan perangkat dengan sistem operasi ini, karena teknologi android pun sudah berkembang pesat dan ini sangat saya sarankan.
@@ -40,10 +41,6 @@ IEEE adalah standar yang mendefinisikan lapisan fisik dan sublapisan media akses
 SPMP adalah salah satu dokumentasi untuk merencanakan pembuatan project
 
 SRS adalah dokumen yang digunakan pada tahap pengumpulan/analisis kebutuhankebutuhan.
-* SRS	Software Requirement Specification
-* DFD	Data Flow Diagram
-* ERD	Entity Relationship Diagram
-* DBMS	Data Base Management System
     
 ### 2. Organisasi Proyek
     
