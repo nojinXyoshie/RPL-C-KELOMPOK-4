@@ -200,6 +200,8 @@ Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (empat) orang, dapat dilihat
 
 ### 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
+
+
 | No          | Keterangan                                | Satuan | Jumlah Barang | Harga        | Jumlah Harga  |
 |-------------|-------------------------------------------|--------|---------------|--------------|---------------|
 | 1           | Gaji angota                               | bulan  | 3x4           | Rp.1.500.000 | Rp.18.000.000 |
@@ -211,6 +213,8 @@ Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat
 | 7           | Sewa mobile                               | buah   | 1             | Rp.380.000   | Rp.380.000    |
 | 8           | Wifi                                      | set    | 1             | Rp.2.000.000 | Rp.2.000.000  |
 | Total Biaya |                                           |        |               |              | Rp.26.400.000 |
+
+
 ### 5.5 Jadwal
 
 
