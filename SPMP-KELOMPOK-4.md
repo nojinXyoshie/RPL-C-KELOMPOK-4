@@ -21,6 +21,21 @@ Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, k
 ### 1.5 Definisi dan akronim (singkatan)
 
 Dalam penulisan dokumen pembuatan projek ini, ada beberapa kata yang mungkin akan sulit dipahami oleh orang awam berikut ini :
+
+Tabel I.1 Akronim
+
+| Singkatan | Arti kata |
+| --------- | --------- |
+| IEEE |	The International Institute ofElectronic and Electrical Engineers |
+| SPMP |	Software Project Management Plan |
+| SRS |	Software Requirement Specification |
+
+
+IEEE adalah standar yang mendefinisikan lapisan fisik dan sublapisan media akses kontrol dari lapisan data-link dari standar Ethernet berkabel.
+
+SPMP adalah salah satu dokumentasi untuk merencanakan pembuatan project
+
+SRS adalah dokumen yang digunakan pada tahap pengumpulan/analisis kebutuhankebutuhan.
 * SRS	Software Requirement Specification
 * DFD	Data Flow Diagram
 * ERD	Entity Relationship Diagram
