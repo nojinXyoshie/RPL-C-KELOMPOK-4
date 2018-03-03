@@ -112,14 +112,10 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 
 - Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
 ### 3.5 Perencanaan staf 
-* Project Manager  	 : 
-- Irin Windiyati
-* Programmer		 : 
-- Yoshie Pangestu
-* Desainer 		     : 
-- Nunung Nurhayati
-* Analysis	       	 : 
-- Dina Micela
+- Irin Windiyati (Project Manager
+- Yoshie Pangestu (Programmer & Database)
+- Nunung Nurhayati (Design)
+- Analysis (Dina Micela)
 
 ### BAB IV: PROSES TEKNIS
 ### 4.1 Metoda,tool,dan teknik
@@ -131,33 +127,7 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 ### BAB V : PAKET PEKERJAAN, JADWAL DAN BUDGET
 
 ## 5.1 Paket pekerjaan
-                    Tabel Paket Pekerjaan
-
-  | Bulan                   |  Februari  |    Maret   |   April    |    Mei     |
-  --------------------------|------------|------------|------------|-------------
-  | Minggu                  | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 |
-  
-  
-                    Kategori Kegiatan      
-
-  |  Nama                   |            |            |            |            |
-  --------------------------|------------|------------|------------|------------|
-  |  1. Irin Windiyati      | A  B  B  E | V  V  V  V | C  C  C  C | D  E  F    |
-  |  2. Yoshie Pangestu     | A  B  B  E | V  V  V  V | C  C  C  C | D  E  F    |
-  |  3. Dina Micela W       | A  B  B  E | V  V  V  V | C  C  C  C | D  E  F    |
-  |  4. Nunung Nurhayati    | A  B  B  G | G  C  C  C | C  C  C  C | D  E  F    |
-  
- <br> Kategori Kegiatan :
-
-* (A) : Persiapan projek dan pengumpulan sumber daya yg diperlukan.
-* (B) : Waktu pengerjaan dokumen-dokumen.
-* (C) : Proses Pembuatan Aplikasi
-* (D) : Pengujian Aplikasi 
-* (E) : Pengecekan Hasil Projek
-* (F) : Perbaikan Projek
-* (G) : Pengerjaan Laporan
-* (H) : Presentasi
-
+            
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
 
