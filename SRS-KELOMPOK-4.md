@@ -1,10 +1,10 @@
 # Software Requirements Spesification
 #### Version 1.0
 #### 4 Maret 2014
-### BAB I : Pendahuluan
+
 ### APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID 
 
-
+### BAB I : Pendahuluan
 #### 1.1 Tujuan
 Tujuan dari penulisan dokumen Softaware Requirement Specification (SRS) untuk mempermudah mengembangkan perangkat lunak yang kami buat dan memberikan gambaran yang spesifik dari kebutuhan softaware. Spesifikasi kebutuhan tersebut termasuk dari segi perangkat lunak dan perangkat keras,untuk memberikan gambaran dan penjelasan mengenai pembuatan produk termasuk kebutuhan fungsional hingga non-fungsional, dan kebutuhan antar muka mulai dari antar muka pengguna hingga antar muka komunikasi.
 
@@ -37,13 +37,22 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 <div style="text-align:center"><img src="http://i66.tinypic.com/1z4g5zb.png"/></div>
 
 #### 2.1.2 Antarmuka pengguna
-##### Kurir
+#### - Kurir
 <div style="text-align:center"><img src="http://i67.tinypic.com/2dh7038.png"/></div>
 Sebelum Kurir memulai tracking kurir harus memilih list orderan terlebih dahulu.
 <div style="text-align:center"><img src="http://i66.tinypic.com/2ngr6vd.png"/></div>
 Proses tracking
 <div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
 Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller bahwa pesanan telah sampai/diterima.
+
+#### - Seller
+<div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
+-	Profil toko : untuk mengetahui informasi toko, seller dapat menedit informasi tokonya sendiri.
+-	Alamat saya : alamat seller/toko
+-	Produkku : menampilkan seluruh jenis makanan yg sudah di upload
+-	Tambah produk baru : untuk mengupload menu baru
+-	Kurirku : untuk mengecek posisi kurir.
+
 
 
 
@@ -66,7 +75,7 @@ Control Protocol/Internet Protocol (TCP/IP).
 
 #### 2.1.6 Batasan-batasan Memori
 - RAM yang kami gunakan adalah 8Gb, tapi untuk kapassitas minimum 4Gb
-- Memori yang dibutuhkan untuk aplikasi minimal 512Mb
+- Kapasitas minimum memori yang dibutuhkan untuk aplikasi minimal 512Mb
 
 #### 2.1.7 Operasi-operasi
 - Login melalui aplikasi, masuk sebagai customer, kurir dan seller
@@ -125,5 +134,4 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |   Komunikasi			  |  Fasilitas untuk menggunakan bahasa lain selain bahasa Indonesia|
 
 
-#### 3.3 Detailed Non-Functional Requirements
-<div style="text-align:center"><img src="http://i67.tinypic.com/11bj66a.png"/></div>
+
