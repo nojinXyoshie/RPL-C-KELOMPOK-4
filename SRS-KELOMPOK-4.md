@@ -29,7 +29,7 @@ Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
 dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.1 Antarmuka sistem
-! [image](http://i66.tinypic.com/1z4g5zb.png)
+! [image]<http://i66.tinypic.com/1z4g5zb.png>
 
 #### 2.1.2 Antarmuka pengguna
 Antarmuka pengguna menggunakan aplikasi berbasis android. Pengguna berinteraksi dengan perangkat lunak ayo mangan melalui antarmuka aplikasi pada smartphone android.
