@@ -1,7 +1,7 @@
 # Software Requirements Spesification
 #### Version 1.0
 #### 4 Maret 2014
-<div style="text-align:center"><img src="http://i67.tinypic.com/2exaon4.jpg"/></div>
+<div style="text-align:center"><img src="http://i68.tinypic.com/nlyf5v.png"/></div>
 #### Nama Anggota Kelompok :
 #### - Dina Micela
 #### - Irin Windiyati
