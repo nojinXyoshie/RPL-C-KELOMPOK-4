@@ -37,7 +37,8 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 <div style="text-align:center"><img src="http://i66.tinypic.com/1z4g5zb.png"/></div>
 
 #### 2.1.2 Antarmuka pengguna
-<div style="text-align:center"><img src="http://i63.tinypic.com/e5jvv4.png"/></div>
+
+![]("http://i63.tinypic.com/e5jvv4.png")
 
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
