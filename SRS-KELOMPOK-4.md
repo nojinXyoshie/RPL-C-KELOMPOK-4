@@ -37,7 +37,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 <div style="text-align:center"><img src="http://i66.tinypic.com/1z4g5zb.png"/></div>
 
 #### 2.1.2 Antarmuka pengguna
-#### - Kurir
+#### * Kurir
 <div style="text-align:center"><img src="http://i67.tinypic.com/2dh7038.png"/></div>
 Sebelum Kurir memulai tracking kurir harus memilih list orderan terlebih dahulu.
 <div style="text-align:center"><img src="http://i66.tinypic.com/2ngr6vd.png"/></div>
@@ -45,8 +45,9 @@ Proses tracking
 <div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
 Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller bahwa pesanan telah sampai/diterima.
 
-#### - Seller
+#### * Seller
 <div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
+
 -	Profil toko : untuk mengetahui informasi toko, seller dapat menedit informasi tokonya sendiri.
 -	Alamat saya : alamat seller/toko
 -	Produkku : menampilkan seluruh jenis makanan yg sudah di upload
