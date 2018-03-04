@@ -116,5 +116,5 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |  Bahasa				      |  Menggunakan bahasa Indramayu, kecuali ada penambahan 	        |
 |   Komunikasi			  |  Fasilitas untuk menggunakan bahasa lain selain bahasa Indonesia|
 
-
+### 3.3 Detailed Non-Functional Requirements
 
