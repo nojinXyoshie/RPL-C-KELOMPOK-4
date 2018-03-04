@@ -143,6 +143,13 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 | 3.  | Nunung Nurhayati  |   Design               |
 | 4.  | Dina Micela       |   Sistem Analis        |
 
+| No          | Nama Personal                                | Job |
+|-------------|-------------------------------------------|--------|
+| 1           | Irin Windiyati                               | Manager  |
+| 2           | Yoshie Pangestu                                   | Programmer & Database   |
+| 3           | Nunung Nurhayati                                     | Designer   |
+| 4           | Dina Micela                               | Sistem Analis   |
+
 -Kebutuhan Software
 1. XAMPP
 2. Android
