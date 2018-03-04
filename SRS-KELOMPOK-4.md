@@ -7,21 +7,12 @@ Tujuan dari penulisan dokumen Softaware Requirement Specification (SRS) untuk me
 Ruang lingkup dalam membangun aplikasi yaitu Delivery online menggunakan smartphone. Aplikasi ini perlu dibuatkannya karena untuk mempermudah penjual dan pembeli dalam bertransaksi jarak jauh.
 
 #### 1.3 Definisi, Akronim, Singkatan
-|      Istilah         |               Definisi                                                                                        |
-|----------------------|---------------------------------------------------------------------------------------------------------------|
-|   Artikel aktif      | Dokumen yang dilacak oleh sistem; itu adalah sebuah cerita yang rencananya akan diposkan ke situs publik      |
-|   Author             | Orang yang mengirimkan artikel untuk ditinjau. Dalam kasus beberapa penulis, istilah ini mengacu pada penulis |  |                      | utama, dengan siapa semua komunikasi dibuat.                                                                  |
-|   Database           | Pengumpulan semua informasi yang dipantau oleh sistem ini.                                                    |
-|   Editor             | Orang yang menerima artikel, mengirimkan artikel untuk ditinjau, dan membuat keputusan akhir untuk publikasi. |
-|   Bidang             | Sel dalam bentuk.                                                                                             |
-|   Historical Society | Database keanggotaan yang ada (juga database HS).                                                             |
-|   Database           |                                                                                                               |
-|   Anggota            | Seorang anggota Historical Society terdaftar di HS database                                                   |
-|   Pembaca            | Siapa pun yang mengunjungi situs tersebut untuk membaca artikel.                                              |
-|   Ulasan             | Rekomendasi tertulis tentang kesesuaian sebuah artikel untuk publikasi; mungkin termasuk saran untuk          |  |                      |                                                                                                               |
-|   Reviewer           | Seseorang yang memeriksa sebuah artikel dan memiliki kemampuan untuk melakukannya merekomendasikan persetujuan|  |                      | artikel untuk publikasi atau mohon agar perubahan dilakukan di artikel.                                       |
-| Persyaratan Perangkat| Sebuah dokumen yang benar-benar menggambarkan semua fungsi dari sistem yang diusulkan dan kendala di mana itu |
-| Lunak Spesifikasi    | harus beroperasi Misalnya, dokumen ini.                                                                       |
+
+Singkatan | Definisi 
+| ------ | ------ |
+| SRS | Merupakan singkatan dari Software Requirement Specfication |
+| Webserver | Webserver sebuah software yang memberikan layanan berbasis data dan berfungsi menerima permintaan dari HTTP atau HTTPS pada klien yang dikenal dan biasanya kita kenal dengan nama web browser (Mozilla Firefox, Google Chrome) dan untuk mengirimkan kembali yang hasilnya dalam bentuk beberapa halaman web dan pada umumnya akan berbentuk dokumen HTML. |
+| SPMP | Merupakan singkatan dari Software Project Management Plan. |
 
 #### 1.4 Referensi
 IEEE. IEEE Std 830-1998 Praktik yang Direkomendasikan IEEE untuk Persyaratan Perangkat Lunak
