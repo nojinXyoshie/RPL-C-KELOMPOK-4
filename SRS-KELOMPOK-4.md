@@ -1,12 +1,16 @@
 # Software Requirements Spesification
 #### Version 1.0
 #### 4 Maret 2014
+
 <div style="text-align:center"><img src="http://i66.tinypic.com/i4en82.png"/></div>
+
+
 #### Nama Anggota Kelompok :
 - Dina Micela
 - Irin Windiyati
 - Nunung Nurhayati
 - Yoshie Pangestu
+
 ### APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID 
 
 ### BAB I : Pendahuluan
