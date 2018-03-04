@@ -136,12 +136,6 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 ### 5.3 Kebutuhan-kebutuhan sumber daya
 - kebutuhan SDM
-| No  | Nama Personal     |      Job               |
-|-----|-------------------|------------------------|
-| 1.  | Irin Windiyati    |   Manager              |
-| 2.  | Yoshie Pangestu   |   Programmer & Database|
-| 3.  | Nunung Nurhayati  |   Design               |
-| 4.  | Dina Micela       |   Sistem Analis        |
 
 | No          | Nama Personal                                | Job |
 |-------------|-------------------------------------------|--------|
