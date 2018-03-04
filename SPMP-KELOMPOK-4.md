@@ -116,10 +116,10 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 
 | No | Nama | Jabatan | Modul | Rincian |
 |----|------|---------|-------|---------|
-|  1  |Irin Windiyati | PROJECT MANAGER |Rekap Absensi, view absensi, API, Logo, Mengoneksi ke email orang tua,API.        |          |
-|  2  |Dina Micela | PROGRAMMER |inpurt data, kirim izin (Mobile), API.        |          |
-|  3  |Nunung Nurhayati | DB ENGINEER  |Membuat database di postgree, view data, delete data, API.        |          |
-|  4  |Yoshie Pangestu | DESIGNER | Tampilan web, tampilan mobile, login (backend), API.       |          |
+|  1  |Irin Windiyati | Project Manager |Design database, Tampilan aplikasi.        |          |
+|  2  |Dina Micela | Analyst | API.        |          |
+|  3  |Nunung Nurhayati | Designer  | Membuat logo, Tampilan aplikasi.        |          |
+|  4  |Yoshie Pangestu | Programmer | Membuat database, Developing aplikasi.       |          |
             
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
