@@ -125,4 +125,5 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |   Komunikasi			  |  Fasilitas untuk menggunakan bahasa lain selain bahasa Indonesia|
 
 
-
+#### 3.3 Detailed Non-Functional Requirements
+<div style="text-align:center"><img src="http://i67.tinypic.com/11bj66a.png"/></div>
