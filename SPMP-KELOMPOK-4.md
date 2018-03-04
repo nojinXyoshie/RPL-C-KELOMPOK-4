@@ -102,7 +102,14 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 - Analysis (Dina Micela)
 
 ### BAB IV: PROSES TEKNIS
+
 ### 4.1 Metoda,tool,dan teknik
+Proyek ini akan dilaksanakan menggunakan beberapa tools, metoda dan teknologi yang mendukung yaitu :
+Bootstrap
+CodeIgniter
+Sublime
+MySql
+android studio
 
 ### 4.2 Dokumentasi perangkat lunak
 
