@@ -104,18 +104,21 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 ### BAB IV: PROSES TEKNIS
 
 ### 4.1 Metoda,tool,dan teknik
+
 Proyek ini akan dilaksanakan menggunakan beberapa tools, metoda dan teknologi yang mendukung yaitu :
-Bootstrap
-CodeIgniter
-Sublime
-MySql
-android studio
+- Bootstrap
+- CodeIgniter
+- ublime
+- MySql
+- Android studio
 
 ### 4.2 Dokumentasi perangkat lunak
 
+Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak.
+
 ### 4.3 Fungsi-fungsi pendukung proyek
 
-
+Kami membutuhkan technical support di bagian desain project sebanyak 1 orang. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian database sebanyak 2 orang.
 
 ### BAB V : PAKET PEKERJAAN, JADWAL DAN BUDGET
 
