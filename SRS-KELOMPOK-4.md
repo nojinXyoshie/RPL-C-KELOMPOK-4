@@ -37,7 +37,15 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 <div style="text-align:center"><img src="http://i66.tinypic.com/1z4g5zb.png"/></div>
 
 #### 2.1.2 Antarmuka pengguna
+##### Kurir
 <div style="text-align:center"><img src="http://i67.tinypic.com/2dh7038.png"/></div>
+Sebelum Kurir memulai tracking kurir harus memilih list orderan terlebih dahulu.
+<div style="text-align:center"><img src="http://i66.tinypic.com/2ngr6vd.png"/></div>
+Proses tracking
+<div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
+Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller bahwa pesanan telah sampai/diterima.
+
+
 
 
 #### 2.1.3 Antarmuka perangkat keras
@@ -117,5 +125,4 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |   Komunikasi			  |  Fasilitas untuk menggunakan bahasa lain selain bahasa Indonesia|
 
 
-### 3.3 Detailed Non-Functional Requirements
 
