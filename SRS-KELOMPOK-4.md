@@ -1,7 +1,12 @@
 # Software Requirements Spesification
 #### Version 1.0
 #### 4 Maret 2014
-
+<div style="text-align:center"><img src="http://i67.tinypic.com/2exaon4.jpg"/></div>
+#### Nama Anggota Kelompok :
+#### - Dina Micela
+#### - Irin Windiyati
+#### - Nunung Nurhayati
+#### - Yoshie Pangestu
 ### APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID 
 
 ### BAB I : Pendahuluan
@@ -143,5 +148,5 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |   Komunikasi			  |  Fasilitas untuk menggunakan bahasa lain selain bahasa Indonesia|
 
 
-#### 3.3 Detail Persyaratan Tidak Berfungsi
+#### 3.3 Detail Persyaratan Tidak Fungsional
 <div style="text-align:center"><img src=http://i67.tinypic.com/11bj66a.jpg"/></div>
