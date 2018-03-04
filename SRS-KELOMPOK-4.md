@@ -38,8 +38,6 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.2 Antarmuka pengguna
 <div style="text-align:center"><img src="http://i67.tinypic.com/2dh7038.png"/></div>
-<div style="text-align:center"><img src="http://i66.tinypic.com/2ngr6vd.png"/></div>
-
 
 
 #### 2.1.3 Antarmuka perangkat keras
@@ -119,4 +117,5 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |   Komunikasi			  |  Fasilitas untuk menggunakan bahasa lain selain bahasa Indonesia|
 
 
+### 3.3 Detailed Non-Functional Requirements
 
