@@ -135,8 +135,7 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 
 ### 5.3 Kebutuhan-kebutuhan sumber daya
-- kebutuhan SDM
-
+1. Kebutuhan SDM :
 | No          | Nama Personal                                | Job |
 |-------------|-------------------------------------------|--------|
 | 1           | Irin Windiyati                               | Manager  |
@@ -144,15 +143,15 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 | 3           | Nunung Nurhayati                                     | Designer   |
 | 4           | Dina Micela                               | Sistem Analis   |
 
--Kebutuhan Software
-1. XAMPP
-2. Android
-3. Balsamiq moockup
-4. Microsoft visio
+2. Kebutuhan Software :
+- XAMPP
+- Android
+- Balsamiq moockup
+- Microsoft visio
 
--Kebutuhan Hardware 
-1.PC
-2.Smartphone
+3. Kebutuhan Hardware :
+- PC/Laptop
+- Smartphone
 
 ### 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
