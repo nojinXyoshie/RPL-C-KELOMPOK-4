@@ -113,6 +113,13 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 ### BAB V : PAKET PEKERJAAN, JADWAL DAN BUDGET
 
 ### 5.1 Paket pekerjaan
+
+| No | Nama | Jabatan | Modul | Rincian |
+|----|------|---------|-------|---------|
+|  1  |Irin Windiyati | PROJECT MANAGER |Rekap Absensi, view absensi, API, Logo, Mengoneksi ke email orang tua,API.        |          |
+|  2  |Dina Micela | PROGRAMMER |inpurt data, kirim izin (Mobile), API.        |          |
+|  3  |Nunung Nurhayati | DB ENGINEER  |Membuat database di postgree, view data, delete data, API.        |          |
+|  4  |Yoshie Pangestu | DESIGNER | Tampilan web, tampilan mobile, login (backend), API.       |          |
             
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
@@ -136,6 +143,7 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 ### 5.3 Kebutuhan-kebutuhan sumber daya
 1. Kebutuhan SDM :
+
 | No          | Nama Personal                                | Job |
 |-------------|-------------------------------------------|--------|
 | 1           | Irin Windiyati                               | Manager  |
