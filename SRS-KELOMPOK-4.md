@@ -34,9 +34,10 @@ Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
 dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.1 Antarmuka sistem
-![image](https://ibb.co/fPcvA7)
+<div style="text-align:center"><img src="http://i66.tinypic.com/1z4g5zb.png"/></div>
+
 #### 2.1.2 Antarmuka pengguna
-<div style="text-align:center"><img src="https://ibb.co/fPcvA7"/></div>
+<div style="text-align:center"><img src="http://i63.tinypic.com/e5jvv4.png"/></div>
 
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
@@ -93,31 +94,9 @@ Pengembangan Aplikasi pemesanan makanan berbasis mobile ini memiliki keterbatasa
 
 ### BAB III : Kebutuhan Spesifik.
 
-#### 3.1 Kebutuhan Fungsional
-Kebutuhan fungsional sistem ini terdiri atas beberapa fungsi utama yang
-saling berhubungan dan mendukung satu sama lain, yang meliputi fungsifungsi
-sebagai berikut:
-1. Input menu makanan dan harga dari user bisnis dan admin.
-2. Pembelian makanan dari user individu / customer.
-3. Perhitungan jumlah pembelian makanan dari user individu / customer.
-4. Pendaftaran untuk user yang ingin menggunakan fasilitas sistem.
-5. Akomodasi untuk user bisnis yang menjual barang dalam jumlah besar.
+#### 3.1 External Interface Requirements
 
-Untuk masing-masing fungsi diatas akan dijelaskan secara mendetil
-sebagai berikut:
-1. Input barang dari customer : sistem menerima input data makanan dan harga dari
-user bisnis dan admin, lengkap dengan gambar dari tiap barang.
-2. Pembelian barang dari user individu / customer : sistem mencatat
-Menu makanan yang dipilih oleh user individu untuk dibeli, dan
-mencatat segala detil pembelian, seperti jumlah menu makanan yang dibeli.
-3. Perhitungan jumlah pembelian barang dari user individu / customer : 
-melakukan perhitungan terhadap harga total dari semua menu makanan yang
-dibeli.
-4. Pendaftaran untuk user yang ingin menggunakan fasilitas sistem :
-mencatat data lengkap dari user individu dan user bisnis untuk
-keperluan administrasi serta pengiriman barang.
-5. Akomodasi untuk user bisnis yang ingin menjual barang dalam jumlah
-besar : menyediakan kurir untuk user bisnis yang mengirim makanan yang udah dipesan dengan jumlah banyak.
+Kebutuhan akan pengelolaan/management pada suatu instansi sangatlah penting dengan menimbang beberapa aspek yang saling mendukung, pada hal ini tertuju pada pebisnis rumahan yang berdomisili di Indramayu dimana penerapan management/pengelolaan pemesanan nya sudah semestinya menggunakan komputerisasi untuk dapat memperkecil terjadinya human error pada pengerjaannya. Seller dan Customer yang bersangkutan sangatlah terbantu untuk meningkatkan efesiensi waktu dikarenakan fitur dari aplikasi ini menunjang kedua pihak antara seller dan customer untuk dapat berjual-beli jarak jauh tanpa harus face to face, dengan ini juga kedua pihak antara seller dan cutomer dapat memantau kurir yang memngantarkan orderan melalui fitur tracking di dalam aplikasi.
 
 #### 3.2 Kebutuhan Non Fungsional
 Dalam sistem informasi ini, kebutuhan yang mendukung kelancaran
