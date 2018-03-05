@@ -115,6 +115,11 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
+2.2.1 Seller
+
+Deskripsi :
+Setelah berhasil login seller dapat mengelola toko nya seperti menambah makanan, menghapus makanan (termasuk harganya), mengedit profil toko. Seller juga dapat mengelola kurir seperti menambah kurir, menghapus kurir, termasuk meneruskan orderan yang diterima ke kurir kemudian seller dapat melakukan tracking lokasi kurir dan melihat status orderan apakah sudah diterima oleh customer atau belum.
+
 #### 2.3 Karakteristik Pengguna
 Untuk mengoperasikan aplikasi ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara menggunakan smartphone dan penggunaan dalam sebuah aplikasi ini.
 
