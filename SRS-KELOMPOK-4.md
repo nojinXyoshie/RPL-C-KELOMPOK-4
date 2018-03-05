@@ -64,7 +64,7 @@ Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller
 -	Kurirku : untuk mengecek posisi kurir.
 
 #### * Costomer
-<div style="text-align:center"><img src="http://i68.tinypic.com/4lodug.png"/></div>
+![]<div style="text-align:center"><img src="http://i68.tinypic.com/4lodug.png"/></div>
 Customer memilih menu makanan
 <div style="text-align:center"><img src="http://i64.tinypic.com/n2hedg.png"/></div>
 Setelah memilih salah satu menu, lalu customer oder jenis menu makanan
