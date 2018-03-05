@@ -108,12 +108,12 @@ Control Protocol/Internet Protocol (TCP/IP).
 #### 2.1.8 Kebutuhan-kebutuhan dalam tahapan Adaptasi
 Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat mengetahui informasi aplikasi tersebut.
 
-#### 2.2 Fungsi-fungsi Produk
-- Data Toko dan menu makanan
-- Data Orderan
-- Tracking
+#### 2.2 Spesifikasi kebutuhan fungsional
 
-Fungsi produk aplikasi pemesanan aplikasi ini adalah menyediakan kemudahan dalam proses pemesanan dan pembuatan, dalam pembuatan aplikasi yang dinginkan oleh pengguna maupun pembuatan aplikasi tersebut. Serta dapat mensimulasi jangka waktu dalam pembuatan aplikasi tersebut.
+2.2.1 Customer
+
+Deskripsi :
+Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
 #### 2.3 Karakteristik Pengguna
 Untuk mengoperasikan aplikasi ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara menggunakan smartphone dan penggunaan dalam sebuah aplikasi ini.
