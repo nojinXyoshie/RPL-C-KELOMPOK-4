@@ -83,7 +83,10 @@ Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi 
 - Smartphone 
 
 #### 2.1.4 Antarmuka perangkat lunak
-Aplikasi dapat diakses jika terhubung dengan internet dan memiliki OS android
+- Aplikasi dapat diakses jika terhubung dengan internet dan memiliki OS android
+- Webserver
+Untuk Web admin dapat di akses menggunakan semua jenis browser, dan harus menggunakan akses internet untuk mengakses data pada Firebase.
+
 
 #### 2.1.5 Antarmuka komunikasi
 Yang dibutuhkan hanya sebuah komputer server dan satu atau
