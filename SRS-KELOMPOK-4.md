@@ -115,16 +115,6 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
-2.2.2 Seller
-
-Deskripsi :
-Setelah berhasil login seller dapat mengelola toko nya seperti menambah makanan, menghapus makanan (termasuk harganya), mengedit profil toko. Seller juga dapat mengelola kurir seperti menambah kurir, menghapus kurir, termasuk meneruskan orderan yang diterima ke kurir kemudian seller dapat melakukan tracking lokasi kurir dan melihat status orderan apakah sudah diterima oleh customer atau belum.
-
-2.2.3 Kurir
-
-Deskripsi :
-Setelah kurir berhasil login maka kurir dapat menerima data orderan yang diteruskan dari seller kemudian dari data tersebut kurir dapat tracking alamat customer. Setelah orderan sampai, kurir akan menkonfirmasi melalui fitur di aplikasi bahwa orderan telah diterima oleh customer.
-
 #### 2.3 Karakteristik Pengguna
 Untuk mengoperasikan aplikasi ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara menggunakan smartphone dan penggunaan dalam sebuah aplikasi ini.
 
@@ -168,3 +158,37 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 #### 3.3 Detail Persyaratan Non-Fungsional
 #### 3.3.1 Struktur data logis
 <div style="text-align:center"><img src=http://i67.tinypic.com/11bj66a.jpg"/></div>
+  
+### Entitas Data Customer
+|  Data Item   |   Type   |        Deskripsi                                                            |
+|--------------|----------|-----------------------------------------------------------------------------|
+| Id_pembeli   | Varchar  | Sebagai identitas unik untuk membedakan antara customer-customer yg lainnya |
+| No hp        | Varchar  | Nomor Hp customer                                                           |
+| Nama         | Varchar  | Nama customer                                                               |
+| Email        | Varchar  | Email untuk registrasi akun                                                 |
+| Alamat       | Varchar  | Alamat customer                                                             |
+| Keranjang    | Varchar  | Untuk menampung orderan                                                     |
+
+#### Entitas Data Seller
+|  Data Item   |   Type   |          Deskripsi                                                          |
+|--------------|----------|-----------------------------------------------------------------------------|
+| Id_toko      | Varchar  | Sebagai identitas untuk membedakan antara toko-toko yg lainnya, agar tidak  |
+|              |          | terjadi kesamaan nama toko.                                                 |
+| Id_penjual   | Varchar  | Sebagai identitas unik untuk membedakan antara seller-seller yg lainnya     |
+| No_hp        | Varchar  | Nomor hp Seller                                                             |
+| Nama         | Varchar  | Nama Seller                                                                 |
+| Email        | Varchar  | Email untuk registrasi akun                                                 |
+
+#### Entitas Data Admin
+|   Data Item  |   Type   |         Deskripsi                                                           |
+|--------------|----------|-----------------------------------------------------------------------------|
+| Id_admin     | Varchar  | Sebagai identitas unik untuk membedakan antara admin-admin yg lainnya       |
+| Nama         | Varchar  | Nama admin                                                                  |
+| No_hp        | Varchar  | Nomor hp admin                                                              |
+
+#### Entitas Data Kurir
+|   Data Item  |   Type   |         Deskripsi                                                           |
+|--------------|----------|-----------------------------------------------------------------------------|
+| Id_kurir     | Varchar  | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya       |
+| No_hp        | Varchar  | Nomor hp kurir                                                              |
+| Nama         | Varchar  | Nama kurir                                                                  |
