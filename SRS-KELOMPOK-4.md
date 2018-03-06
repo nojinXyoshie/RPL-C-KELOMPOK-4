@@ -10,7 +10,7 @@
 
 <br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
 
-<p align="center"><b>Kelompok 4</b><br>
+<p align="center">Kelompok 2<br>
  Irin Windiyati 			(1603173)<br>
  Dina Micela				  (1603066)<br>
  Nunung Nurhayati			(1603081)<br>
@@ -68,7 +68,7 @@ Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller
 #### * Seller
 <div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
 
--	Profil toko : untuk mengetahui informasi toko, seller dapat menedit informasi tokonya sendiri.
+-	Profil toko : untuk mengetahui informasi toko, seller dapat mengedit informasi tokonya sendiri.
 -	Alamat saya : alamat seller/toko
 -	Produkku : menampilkan seluruh jenis makanan yg sudah di upload
 -	Tambah produk baru : untuk mengupload menu baru
