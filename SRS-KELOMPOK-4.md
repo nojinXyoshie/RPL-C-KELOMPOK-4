@@ -66,7 +66,7 @@ Proses tracking
 Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller bahwa pesanan telah sampai/diterima.
 
 #### * Seller
-<div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
+<div style="text-align:center"><img src="http://i66.tinypic.com/2ap5cj.jpg"/></div>
 
 -	Profil toko : untuk mengetahui informasi toko, seller dapat mengedit informasi tokonya sendiri.
 -	Alamat saya : alamat seller/toko
