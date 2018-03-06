@@ -10,7 +10,7 @@
 
 <br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
 
-<p align="center">Kelompok 2<br>
+<p align="center">Kelompok 4<br>
  Irin Windiyati 			(1603173)<br>
  Dina Micela				  (1603066)<br>
  Nunung Nurhayati			(1603081)<br>
