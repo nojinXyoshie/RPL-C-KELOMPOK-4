@@ -126,27 +126,36 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
-#### 2.3 Karakteristik Pengguna
-Untuk mengoperasikan aplikasi ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara menggunakan smartphone dan penggunaan dalam sebuah aplikasi ini.
+#### 2.3. Spesifikasi kebutuhan non-fungsional
+-	Ganti password.
+-	Tampilan layout service.
+-	Lupa password.
+- Edit profile.
 
-#### 2.4 Batasan-batasan.
+#### 2.4 Karakteristik Pengguna
+Untuk mengoperasikan aplikasi ini tidak diperlukan tingkat pendidikan tinggi, namun pengguna cukup memahami cara menggunakan smartphone dan penggunaan dalam sebuah aplikasi ini.
+karakteristik pengguna dari aplikasi Ayo Mangan  adalah semua yang ingin menggunakan aplikasi ini diantaranya pedagang perumahan, maupun yang sudah memiliki tempat berjualan dan masyarakat  yang membedakan adalah pengguna yang berinteraksi dengan aplikasi yang dihubungkan dengan hak akses dan  autentifikasi sesuai aturan yang terdapat pada aplikasi ini, dimana aplikasi ini cara kerja nya ialah memesan makanan lewat online.
+
+#### 2.5 Batasan-batasan.
 Pengembangan Aplikasi pemesanan makanan berbasis mobile ini memiliki keterbatasan-keterbatasan yaitu sebagai berikut  :
 -	Sistem Sistem Administrasi pemesanan makanan ini akan di buat menggunakan Android studio, MySql, PHP, dan html
 -	Aplikasi bersifat android
 - Pengembangan aplikasi Ayo Mangan ini akan meliputi pengelolaan data-data yang ada diadmin yang meliputi data toko, dan seller
 
-#### 2.5 Asumsi dan ketergantungan/keterkaitan.
+#### 2.6 Asumsi dan ketergantungan/keterkaitan.
 - Admin bisa melihat sistem secara keseluruhan dan dapat merubah data-data seller, Admin hanya mengatur data-data seller 
 - Seller atau Owner bisa melihat sistem secara keseluruhan dan dapat merubah data-data tokonya sendiri
 - Bagian costumer mempunyai wewenang untuk melakukan pemesanan makanan serta konfirmasi jika orderan telah sampai.
 
-#### 2.6 kebutuhan-kebutuhan penyeimbang.
+#### 2.7 kebutuhan-kebutuhan penyeimbang.
 
 ### BAB III : Kebutuhan Spesifik.
 
 #### 3.1 External Interface Requirements
 
 Kebutuhan akan pengelolaan/management pada suatu instansi sangatlah penting dengan menimbang beberapa aspek yang saling mendukung, pada hal ini tertuju pada pebisnis rumahan yang berdomisili di Indramayu dimana penerapan management/pengelolaan pemesanan nya sudah semestinya menggunakan komputerisasi untuk dapat memperkecil terjadinya human error pada pengerjaannya. Seller dan Customer yang bersangkutan sangatlah terbantu untuk meningkatkan efesiensi waktu dikarenakan fitur dari aplikasi ini menunjang kedua pihak antara seller dan customer untuk dapat berjual-beli jarak jauh tanpa harus face to face, dengan ini juga kedua pihak antara seller dan cutomer dapat memantau kurir yang memngantarkan orderan melalui fitur tracking di dalam aplikasi.
+
+Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang kuliner sangatlah penting dengan menimbang beberapa aspek yang saling mendukung, pada hal ini tertuju pada pedagang rumahan maupun yang sudah memiliki tempat jualan/lapak dimana penerapan management/pengelolaan pemasaran sudah semestinya menggunakan komputerisasi untuk dapat menghindari  terjadinya kesalahan dalam pelayanan secara manual, pedagang rumahan sangatlah terbantu untuk meningkatkan perekonomian di era global. Selain hal demikian, management/pengelolaan pemesanan makanan yang terkomputerisasi dapat membantu masyarakat yang malas keluar rumah untuk mencari makan yang  dimana harus mendatangi rumah makan dan mengantri , sekarang bisa menggunakan cara praktis dengan cara pemesanan makanan melalui aplikasi “AYO MANGAN”
 
 #### 3.2 Kebutuhan Non Fungsional
 Dalam sistem informasi ini, kebutuhan yang mendukung kelancaran
