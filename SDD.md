@@ -1,7 +1,5 @@
 <html>
-<body>
-<p align="center"><h1> Software Design Document </h1></p>
-
+<body><div align="center"><h1>Software Design Document</h1></div>
 <p align="center"><b>Version 1.0 </b><br>
 <p align="center">11 Maret 2018<br><br>
 <p align="center">
@@ -10,7 +8,7 @@
 
 <br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
 
-<p align="center">Kelompok 4<br>
+<p align="center"><b>Kelompok 4</b><br>
  Irin Windiyati 			(1603173)<br>
  Dina Micela				  (1603066)<br>
  Nunung Nurhayati			(1603081)<br>
@@ -43,9 +41,9 @@ perangkat lunak tersebut.
 
 ### 2. REFERENSI
 
-IEEE, IEEE Draft Standard for Software Design Descriptions. IEEE P1 01 6/D5.0; 1 2 December 2005<br>
-Eka Ismantohadi & Moh. Yani, Software Design Document (SDD). 2018<br>
-Tri Suwarno, Dokumen Persyratan Perangkat Lunak. 2013<br>
+* IEEE, IEEE Draft Standard for Software Design Descriptions. IEEE P1 01 6/D5.0; 1 2 December 2005<br>
+* Eka Ismantohadi & Moh. Yani, Software Design Document (SDD). 2018<br>
+* Tri Suwarno, Dokumen Persyratan Perangkat Lunak. 2013<br>
 
 ### DFD
 <div style="text-align:center"><img src="http://i66.tinypic.com/xqcavn.png"/></div>
