@@ -121,9 +121,7 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 #### 2.2 Spesifikasi kebutuhan fungsional
 
 2.2.1 Customer
-<p align="center">
-<img src="https://ibb.co/cGYkQH"/>
-</p>
+<div style="text-align:center"><img src="https://ibb.co/cGYkQH"/></div>
 
 
 Deskripsi :
