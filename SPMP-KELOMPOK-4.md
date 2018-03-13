@@ -20,8 +20,6 @@
 </body>
 </html>
 
-
-# SPMP : PEMESANAN MAKANAN BERBASIS ANDROID 
 ### BAB I : Pendahuluan
 
 ### 1.1 Gambaran Proyek
