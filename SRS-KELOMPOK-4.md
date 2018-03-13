@@ -1,6 +1,6 @@
 <html>
 <body>
-<body><div align="center"><h1>Software Design Document</h1></div>
+<body><div align="center"><h1>Software Requirement Spesification</h1></div>
 <p align="center"><b>Version 1.0 </b><br>
 <p align="center">4 Maret 2014><br><br>
 <p align="center">
