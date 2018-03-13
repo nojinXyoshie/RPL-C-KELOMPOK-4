@@ -1,6 +1,6 @@
 <html>
 <body>
-<body><div align="center"><h1>Software Project Management Plan</h1></div>
+<body><div align="center"><h1>Software Project Management Plan</h1></div><br><br><br>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
 </p>
