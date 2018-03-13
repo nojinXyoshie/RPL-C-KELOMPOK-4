@@ -54,7 +54,7 @@ Dalam proyek yang kami buat kita menggunakan model proses V-model.
 Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang yang dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linier, maka dalam model V proses dalikukan bercabang dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya.
 
 ### 2.2 Struktur organisasi
-<div style="text-align:center"><img src="http://i65.tinypic.com/2mzje38.jpg"/></div>
+<div style="text-align:center"><img src="http://i67.tinypic.com/2q1ussz.jpg"/></div>
 
 ### 2.3 Batasan dan antarmuka organisasi.
 |     Untuk         |     Dari   |                                          KAITAN                                                     |
