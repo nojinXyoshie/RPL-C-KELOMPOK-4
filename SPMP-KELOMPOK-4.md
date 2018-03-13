@@ -1,6 +1,25 @@
 <html>
 <body>
-<body><div align="center"><h1>Software Project Management Plan</h1></div><br><br>
+<body><div align="center"><h1>Software Project Management Plan</h1></div>
+<p align="center">
+<img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
+</p>
+
+<br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
+
+<p align="center"><b>Kelompok 4</b><br>
+ Irin Windiyati 			(1603173)<br>
+ Dina Micela				  (1603066)<br>
+ Nunung Nurhayati			(1603081)<br>
+ Yoshie Pangestu    	(1603089)<br><br><br>
+
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b><br>
+<p align="center"><b>2018</b><br><br>
+</p>
+</body>
+</html>
+
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
 </p>
 
