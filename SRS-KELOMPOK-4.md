@@ -121,6 +121,10 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 #### 2.2 Spesifikasi kebutuhan fungsional
 
 2.2.1 Customer
+<p align="center">
+<img src="https://ibb.co/cGYkQH"/>
+</p>
+
 
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
