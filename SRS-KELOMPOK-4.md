@@ -127,6 +127,19 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
+2.2.2 Seller
+<div style="text-align:center"><img src="http://i63.tinypic.com/opmigz.png"/></div>
+
+
+2.2.3 Kurir
+<div style="text-align:center"><img src="http://i68.tinypic.com/5bai3d.png"/></div>
+
+2.2.4 Admin
+<div style="text-align:center"><img src="http://i64.tinypic.com/jzdqv.png"/></div>
+
+
+
+
 #### 2.3. Spesifikasi kebutuhan non-fungsional
 -	Ganti password.
 -	Tampilan layout service.
