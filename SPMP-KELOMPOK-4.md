@@ -184,6 +184,7 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 ### 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
+
 | No          | Keterangan    | Satuan | Jumlah | Harga       | Jumlah Harga   |
 |-------------|---------------|--------|--------|-------------|----------------|
 | 1           | Gaji angota   | hari   | 90x4   | Rp. 50.000  | Rp. 18.000.000 |
