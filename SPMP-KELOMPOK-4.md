@@ -65,12 +65,9 @@ Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan ka
 
 ### 2.4 Lingkup tanggung jawab
 
-| Ketua Tim (Manager) | Bertanggung jawab, mengarahkan, mengatur anggota tim atas  projek  yang sedang dibuat |
-|---------------------|---------------------------------------------------------------------------------------|
-| Alaisis             | Menguji dan mencari kesalahan hasil program program projek yang sedang dibuat.        |
-| Programmer          | Membuat fungsi program projek yang sedang dibuat.                                     |
-| Analisis            | Menganalisa atau  mengoreksi fungsi program                                           |
-| Desainer            | Membuat kerangka desain projek yang sedang dibuat                                     |
+- Project manager <br> adalah orang yang ditunjuk untuk menggerakkan organisasi proyek dan memimpinnya dalam mencapai objective proyek. 
+Tanggung jawab project manager adalah untuk memenuhi kebutuhan yang berupa kebutuhan tugas, kebutuhan team, dan kebutuhan individual. Project manager menjadi penghubung antara strategi dan tim. Peran project manager dalam perkembangan bisnis dan keberlangsungan hidup perusahaan menjadi semakin lebih strategis.
+
 
 ### BAB III : PROSES MANAJERIAL
 ### 3.1 Tujuan dan prioritas manajemen 
