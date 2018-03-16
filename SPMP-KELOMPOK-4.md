@@ -127,7 +127,7 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 Proyek ini akan dilaksanakan menggunakan beberapa tools, metoda dan teknologi yang mendukung yaitu :
 - Bootstrap
 - CodeIgniter
-- ublime
+- Sublime
 - MySql
 - Android studio
 
