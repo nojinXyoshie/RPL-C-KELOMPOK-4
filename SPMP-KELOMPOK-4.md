@@ -153,21 +153,13 @@ Kami membutuhkan technical support di bagian desain project sebanyak 1 orang. Ka
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
 
-            Tabel ketergantungan dan keterkaitan
-
-|  Dari       |  Tugas Untuk  |   Keterkaitan                                                          |
---------------|---------------|-------------------------------------------------------------------------
-| Manager     | Anggota       | Tugas manager adalah mengawasi anggota-anggotanya jika saat mengerjakan|
-|             |               | projek anggotanya lalai dalam mengerjakan tugas tersebut berhak untuk  |
-|             |               | menegur anggota dan yg menjadi anggota tidak berhak untuk melawan.     |
-| Programmer  | Manager       | Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah|
-|             |               | dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.  |
-| Analisis    | Programmer    | Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan |
-|             |               | pengkodian pada programer.                                             |
-| Manager     | Programmer    | Bertugas sebagai memberi masukan-masukan kepada Programer untuk membuat|
-|             |               | program yang sedang di buat.                                           |
-| Design      | Programmer    | Bertugas mendesign tampilan aplikasi lalu dedign tersebut diberikan ke |
-|             |               | programmer agar tampilan aplikasi sesuai dengan design yg dibuat.      |
+| Dari            | Tugas Untuk | Keterkaitan                                                                                                                                                                                                               |
+|-----------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project manager | Anggota     | Tugas manager adalah untuk mengawasi anggota-anggotanya jika saat mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan. |
+| Analisis        | Programmer  | Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer.                                                                                                                         |
+| Tester          | Programer   | Bertugas sebagai memberi masukan-masukan kepada Programer untuk membuat program yang sedang di buat supaya bisa menarik konsumen juga bisa menarik konsumen saat program yang dibuat sudah selesai.                       |
+| Programmer      | Tester      | Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.                                                                             |
+| Design          | Programmer  | Bertugas mendesign tampilan aplikasi lalu design tersebut diberikan ke  programmer agar tampilan aplikasi sesuai dengan design yg dibuat.                                                                                 |
 
 
 ### 5.3 Kebutuhan-kebutuhan sumber daya
@@ -175,10 +167,10 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 | No          | Nama Personal                                | Job |
 |-------------|-------------------------------------------|--------|
-| 1           | Irin Windiyati                               | Manager  |
+| 1           | Irin Windiyati                               | Project Manager  |
 | 2           | Yoshie Pangestu                                   | Programmer & Database   |
 | 3           | Nunung Nurhayati                                     | Designer   |
-| 4           | Dina Micela                               | Sistem Analis   |
+| 4           | Dina Micela                               |Analys & Tester   |
 
 2. Kebutuhan Software :
 - XAMPP
