@@ -57,14 +57,11 @@ Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan ka
 ![Struk](http://i67.tinypic.com/2q1ussz.jpg)
 
 ### 2.3 Batasan dan antarmuka organisasi.
-|     Untuk         |     Dari   |                                          KAITAN                                                     |
-|-------------------|------------|-----------------------------------------------------------------------------------------------------|
-| Manager           | Anggota    | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat  anggota lalai dengan tugas-  | |                   |            | tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk       |
-|                   |            | manager sendiri  tidak berhak semena-mena dengan jabatanya.                                         |
-| Programmer        | Analis     | Dikala programmer melakukan kesalahan dalam mengkoding, tester memiliki tanggung jawab untuk        |
-|                   |            | mengecek kesalahan koding-koding yg dilakukan programmer.                                           |
-| Analisis          | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada                                    |
-| Programmer        | Desainer   | "Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis             |
+- Ketua dimana harus mejadi memanage pembuatan project dengan sebaik-baiknya, pengawas dari anggota – anggotanya bilamana saat anggota lalai dengan tugas – tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya.<br>
+- Programmer & Database dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program beserta databasenya.<br>
+- Analys dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer.<br>
+- Design dimana bertugas membuat desain pada project yang dibuat baik itu design perancangan , maupun desain pada UI dan kebutuhan design lainnya.<br>
+          |
 
 ### 2.4 Lingkup tanggung jawab
 
