@@ -184,19 +184,15 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 ### 5.4 Alokasi budget dan sumber daya
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
-
-
-| No          | Keterangan                                | Satuan | Jumlah Barang | Harga        | Jumlah Harga  |
-|-------------|-------------------------------------------|--------|---------------|--------------|---------------|
-| 1           | Gaji angota                               | bulan  | 3x4           | Rp.1.500.000 | Rp.18.000.000 |
-| 2           | Sublime                                   | buah   | 1             | Rp.5000      | Rp.5000       |
-| 3           | Xampp                                     | buah   | 1             | Rp.5000      | Rp.5000       |
-| 4           | Web Browser                               | buah   | 1             | Rp.5000      | Rp.5000       |
-| 5           | Android Studio , JDK dan plugin-pluginnya | set    | 1             | Rp.5000      | Rp.5000       |
-| 6           | Sewa komputer                             | set    | 3x4           | Rp.500.000   | Rp.6.000.000  |
-| 7           | Sewa mobile                               | buah   | 1             | Rp.380.000   | Rp.380.000    |
-| 8           | Wifi                                      | set    | 1             | Rp.2.000.000 | Rp.2.000.000  |
-| Total Biaya |                                           |        |               |              | Rp.26.400.000 |
+| No          | Keterangan    | Satuan | Jumlah | Harga       | Jumlah Harga   |
+|-------------|---------------|--------|--------|-------------|----------------|
+| 1           | Gaji angota   | hari   | 90x4   | Rp. 50.000  | Rp. 18.000.000 |
+| 2           | Transportasi  | minggu | 16     | Rp. 50.000  | Rp. 800.000    |
+| 3           | Sewa komputer | set    | 4      | Rp. 500.000 | Rp. 2.000.000  |
+| 4           | Listrik       | bulan  | 4      | Rp. 300.000 | Rp. 1.200.000  |
+| 5           | Wifi          | bulan  | 4      | Rp. 500.000 | Rp.2.000.000   |
+| 6           | Makan         | hari   | 90x4   | Rp.15.000   | Rp.5.400.000   |
+| Total Biaya |               |        |        |             | Rp. 29.400.000 |
 
 
 ### 5.5 Jadwal
