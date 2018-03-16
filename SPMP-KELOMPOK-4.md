@@ -61,7 +61,7 @@ Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan ka
 - Programmer & Database dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program beserta databasenya.<br>
 - Analys dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer.<br>
 - Design dimana bertugas membuat desain pada project yang dibuat baik itu design perancangan , maupun desain pada UI dan kebutuhan design lainnya.<br>
-          |
+          
 
 ### 2.4 Lingkup tanggung jawab
 
