@@ -67,6 +67,12 @@ Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan ka
 
 - Project manager <br> adalah orang yang ditunjuk untuk menggerakkan organisasi proyek dan memimpinnya dalam mencapai objective proyek. 
 Tanggung jawab project manager adalah untuk memenuhi kebutuhan yang berupa kebutuhan tugas, kebutuhan team, dan kebutuhan individual. Project manager menjadi penghubung antara strategi dan tim. Peran project manager dalam perkembangan bisnis dan keberlangsungan hidup perusahaan menjadi semakin lebih strategis.
+- Analys <br> adalah  seseorang yang bertanggung jawab atas penelitian, perencanaan, pengkoordinasian, dan merekomendasikan pemilihan perangkat lunak dan sistem yang paling sesuai dengan kebutuhan organisasi bisnis atau perusahaan. Analis sistem memegang peranan yang sangat penting dalam proses pengembangan sistem. Seorang analis sistem harus memiliki setidaknya empat keahlian: analisis, teknis, manajerial, dan interpersonal (berkomunikasi dengan orang lain). Kemampuan analisis memungkinkan seorang analis sistem untuk memahami perilaku organisasi beserta fungsi-fungsinya, pemahaman tersebut akan membantu dalam mengidentifikasi kemungkinan terbaik serta menganalisis penyelesaian permasalahan. Keahlian teknis akan membantu seorang analis sistem untuk memahami potensi dan keterbatasan dari teknologi informasi. Seorang analis sistem harus mampu untuk bekerja dengan berbagai jenis bahasa pemrograman, sistem operasi, serta perangkat keras yang digunakan. Keahlian manajerial akan membantu seorang analis sistem mengelola proyek, sumber daya, risiko, dan perubahan. Keahlian interpersonal akan membantu analis sistem dalam berinteraksi dengan pengguna akhir sebagaimana halnya dengan analis, programer, dan profesi sistem lainnya.
+- Tester <br> Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.
+- Programer <br> adalah profesi inti dalam software development karena tidak akan terwujud sebuah software aplikasi tanpa adanya programmer,Tugas programmer dalam sebuah proyek dasarnya adalah membangun/mengembangkan software terutama pada tahap construction dengan melakukan coding dengan bahasa pemprograman yang ditentukan , Mengimplementasikan requiremant dan desain proses bisnis ke komputer dengan menggunakan algoritma /logika dan bahasa pemprograman
+
+ 
+
 
 
 ### BAB III : PROSES MANAJERIAL
