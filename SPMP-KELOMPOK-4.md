@@ -2,7 +2,7 @@
 <body>
 <body><div align="center"><h1>Software Project Management Plan</h1></div><br><br><br>
 <p align="center">
-<img src="http://i67.tinypic.com/2exaon4.jpg"/>
+<img src="http://i68.tinypic.com/nlyf5v.jpg"/>
 </p>
 
 <br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
