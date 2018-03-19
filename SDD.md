@@ -33,12 +33,12 @@ perangkat lunak tersebut.
 #### 1.2 Lingkup
 Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management proyek RPL berbasis dekstop, ruang lingkup system ini mencangkup informasi mengenai antarmuka dari system tersebut.
 #### 1.3 Definisi, akronim, dan singkatan
-SRS (Software Requirement Specification)
-DFD (Data Flow Diagram)
-ERD (Entity Relationship Diagram)
-DBMS (Data Base Management System)
-IEEE (The International Institute ofElectronic and Electrical Engineers)
-SPMP (Software Project Management Plan)
+- SRS (Software Requirement Specification)
+- DFD (Data Flow Diagram)
+- ERD (Entity Relationship Diagram)
+- DBMS (Data Base Management System)
+- IEEE (The International Institute ofElectronic and Electrical Engineers)
+- SPMP (Software Project Management Plan)
 #### 1.4 Referensi
 * IEEE, IEEE Draft Standard for Software Design Descriptions. IEEE P1 01 6/D5.0; 1 2 December 2005<br>
 * Eka Ismantohadi & Moh. Yani, Software Design Document (SDD). 2018<br>
