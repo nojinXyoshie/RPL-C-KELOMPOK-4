@@ -22,7 +22,7 @@
 </html>
  
 
-### Bab 1 : Pendahuluan###
+### Bab 1 : Pendahuluan ###
 #### 1.1 Tujuan Penulisan Dokumen
 
 Dokumen SDD ini disusun dengan tujuanuntuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan di terapkan pada aplikasi simulasi management proyek RPL dan juga memberi definisi kebutuhan untuk sistem spesifikasi kebutuhan fungsional. dan juga dokumen ini digunakan sebagai landasan yang diperlukan dalam
@@ -39,7 +39,7 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 * Tri Suwarno, Dokumen Persyratan Perangkat Lunak. 2013<br>
 #### 1.5 Ikhtisar dokumen
 
-### Bab 2 : Deskripsi Perancangan Global###
+### Bab 2 : Deskripsi Perancangan Global ###
 #### 2.1 Rancangan Lingkungan Implementasi
 #### 2.2 Deskripsi Data
 #### 2.2.1 Definisi Domain/type
@@ -48,9 +48,10 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 #### 2.2.4 Daftar Tabel Aplikasi
 #### 2.3 Deskripsi Modul
 
-### Bab 3 : Deskripsi Perancangan Rinci###
+### Bab 3 : Deskripsi Perancangan Rinci ###
 #### 3.1 Diagram Konteks
 <div style="text-align:center"><img src="http://i66.tinypic.com/xqcavn.png"/></div>
+
 #### 3.1.1 DFD Level 0
 #### 3.1.1.1 DFD Level 1 Proses M
 #### 3.1.1.2 DFD Level 1 Proses M
