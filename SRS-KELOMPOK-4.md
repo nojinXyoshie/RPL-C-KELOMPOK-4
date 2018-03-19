@@ -52,7 +52,9 @@ Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
 dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.1 Antarmuka sistem
-<div style="text-align:center"><img src="http://i68.tinypic.com/104gkn5.jpg"/></div>
+<p align="center">
+<img src="http://i64.tinypic.com/14jvlzd.jpg"/>
+</p>
 
 #### 2.1.2 Antarmuka pengguna
 #### * Kurir
