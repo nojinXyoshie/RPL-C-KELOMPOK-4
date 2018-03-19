@@ -96,7 +96,9 @@ Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi 
 #### 2.1.4 Antarmuka perangkat lunak
 - Aplikasi dapat diakses jika terhubung dengan internet dan memiliki OS android
 - Webserver
-Untuk Web admin dapat di akses menggunakan semua jenis browser, dan harus menggunakan akses internet untuk mengakses data pada Firebase.
+Untuk Web admin dapat di akses menggunakan semua jenis browser, dan harus menggunakan akses internet .
+- Bahasa pemrograman menggunakan JAVA
+- Database Engine Xampp
 
 
 #### 2.1.5 Antarmuka komunikasi
@@ -117,6 +119,8 @@ Control Protocol/Internet Protocol (TCP/IP).
 - Customer dapat mengorder makanan melalui aplikasi, tracking kurir dan konfirmasi orderan telah sampai.
 
 #### 2.1.8 Kebutuhan-kebutuhan dalam tahapan Adaptasi
+- Pemakaian database sebagai sarana penyimpanan data.
+- PL menggunakan bahasa Indonesia agar mudah dipahami oleh user tetapi ada juga beberapa yang menggunakan bahasa inggris.
 Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat mengetahui informasi aplikasi tersebut.
 
 #### 2.2 Spesifikasi kebutuhan fungsional
