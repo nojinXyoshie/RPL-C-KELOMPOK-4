@@ -4,9 +4,8 @@
 <p align="center"><b>Version 1.0 </b><br>
 <p align="center">4 Maret 2018<br><br>
 <p align="center">
-<img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
+<img src="http://i68.tinypic.com/nlyf5v.jpg"/>
 </p>
-
 <br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
 
 <p align="center"><b>Kelompok 4</b><br>
