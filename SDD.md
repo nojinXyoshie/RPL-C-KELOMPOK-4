@@ -58,10 +58,21 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 #### 3.1 Diagram Konteks
 <div style="text-align:center"><img src="http://i66.tinypic.com/xqcavn.png"/></div>
 
-#### 3.1.1 DFD Level 0
-#### 3.1.1.1 DFD Level 1 Proses M
-#### 3.1.1.2 DFD Level 1 Proses M
-#### 3.2 Deskripsi Rinci Tabel
-#### 3.2.1 Tabel A
+#### 3.1.1 Diagram Konteks
+#### 3.1.2 DFD level 0
+#### 3.2 Dekommposisi Proses Konkuren
+#### 3.2.1 DFD Level 1 : Proses 1
+DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+#### 3.2.2 DFD Level 1 : Proses 2
+DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+#### 3.3 Dekommposisi Data
+(tabel-tabel database yang digunakan pada DFD)
+#### 3.3.1.1 Fungsi Modul
+#### 3.3.1.2 Spesifikasi Layar Utama
+prototype belum jadi
+#### 3.3.1.3 Spesifikasi Query
+ID-QUERY , DESKRIPSI , EKSPRESI QUERY
+
+
 
 
