@@ -222,6 +222,8 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |   Data Item  |   Type   |         Deskripsi                                                           |
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_admin     | Varchar  | Sebagai identitas unik untuk membedakan antara admin-admin yg lainnya       |
+| Email        | Varchar  | Email untuk registrasi akun                                                 |
+| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
 | Nama         | Varchar  | Nama admin                                                                  |
 | No_hp        | Varchar  | Nomor hp admin                                                              |
 
@@ -231,3 +233,5 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 | Id_kurir     | Varchar  | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya       |
 | No_hp        | Varchar  | Nomor hp kurir                                                              |
 | Nama         | Varchar  | Nama kurir                                                                  |
+| Email        | Varchar  | Email untuk registrasi akun                                                 |
+| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
