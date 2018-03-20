@@ -201,8 +201,9 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_pembeli   | Varchar  | Sebagai identitas unik untuk membedakan antara customer-customer yg lainnya |
 | No hp        | Varchar  | Nomor Hp customer                                                           |
-| Nama         | Varchar  | Nama customer                                                               |
+| Nama         | Varchar  | Nama lengkap customer                                                       |
 | Email        | Varchar  | Email untuk registrasi akun                                                 |
+| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
 | Alamat       | Varchar  | Alamat customer                                                             |
 | Keranjang    | Varchar  | Untuk menampung orderan                                                     |
 
@@ -215,6 +216,7 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 | No_hp        | Varchar  | Nomor hp Seller                                                             |
 | Nama         | Varchar  | Nama Seller                                                                 |
 | Email        | Varchar  | Email untuk registrasi akun                                                 |
+| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
 
 #### Entitas Data Admin
 |   Data Item  |   Type   |         Deskripsi                                                           |
