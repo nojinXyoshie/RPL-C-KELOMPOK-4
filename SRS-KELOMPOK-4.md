@@ -3,7 +3,9 @@
 <body><div align="center"><h1>Software Requirement Spesification</h1></div>
 <p align="center"><b>Version 1.0 </b><br>
 <p align="center">4 Maret 2018<br><br>
-<p align="center"><img src="http://i68.tinypic.com/nlyf5v.jpg"/></p>
+<p align="center">
+<img src="http://i68.tinypic.com/nlyf5v.jpg"/>
+</p>
 <br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
 
 <p align="center"><b>Kelompok 4</b><br>
@@ -55,6 +57,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 </p>
 
 #### 2.1.2 Antarmuka pengguna
+### Customer
 ##### 2.1 Login
 
 | Nama Fungsi    | Login                                                                      |
@@ -69,7 +72,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 | Exception Push | Tidak ada koneksi                                                          |
 |                | User belum mendaftar ke aplikasi                                           |
 
-##### 2.2 Melihat Home/Dashboard
+##### 2.2 
 
 | Nama Fungsi    | Melihat menu makanan dan toko                                              |
 |----------------|----------------------------------------------------------------------------|
