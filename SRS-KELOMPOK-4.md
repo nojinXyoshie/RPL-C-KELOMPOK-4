@@ -57,6 +57,49 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 </p>
 
 #### 2.1.2 Antarmuka pengguna
+##### 2.1 Login
+
+| Nama Fungsi    | Login                                                                      |
+|----------------|----------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Login                                                           |
+|----------------|----------------------------------------------------------------------------|
+| Trigger        | Membuka Aplikasi Ayo Mangan!, dan sudah terdaftar                          |
+|----------------|----------------------------------------------------------------------------|
+| Precondition   | Login untuk Customer,Seller,Kurir dan Admin                                |
+|----------------|----------------------------------------------------------------------------|
+| Basic Path     | User sudah terdaftar, jika sudah terdaftar maka bisa langsung menggunakan  |
+|                | aplikasi yang menampilkan Home/Dashboard sebagai halaman utamanya          |
+|----------------|----------------------------------------------------------------------------|
+| Alternative    | Tidak Ada                                                                  |
+|----------------|----------------------------------------------------------------------------|
+| Post Condition | User dapat melihat Halaman utama Aplikasi dan dapat mengakses yang lainnya |
+|----------------|----------------------------------------------------------------------------|
+| Exception Push | Tidak ada koneksi                                                          |
+|                | User belum mendaftar ke aplikasi                                           |
+|----------------|----------------------------------------------------------------------------|
+
+##### 2.2 Melihat Home/Dashboard
+
+| Nama Fungsi    | Melihat menu makanan dan toko                                              |
+|----------------|----------------------------------------------------------------------------|
+| Referensi      | Bagian 2.2 Melihat Home/Dashboard                                          |
+|----------------|----------------------------------------------------------------------------|
+| Trigger        | Membuka Aplikasi Ayo Mangan!, dan sudah terdaftar                          |
+|----------------|----------------------------------------------------------------------------|
+| Precondition   | Menampilkan data menu makanan dan toko                                     |
+|----------------|----------------------------------------------------------------------------|
+| Basic Path     | Customer Login ke dalam Aplikasi                                           |
+|                | Customer Melihat Menu Makanan dan profile toko                             |
+|                | Aplikasi dapat menampilkan Menu makanan dan List orderan                   |
+|----------------|----------------------------------------------------------------------------|
+| Alternative    | Tidak Ada                                                                  |
+|----------------|----------------------------------------------------------------------------|
+| Post Condition | User dapat melihat Halaman utama Aplikasi dan dapat mengakses yang lainnya |
+|----------------|----------------------------------------------------------------------------|
+| Exception Push | Tidak ada koneksi                                                          |
+|                | User belum mendaftar ke aplikasi                                           |
+|----------------|----------------------------------------------------------------------------|
+
 #### * Kurir
 <div style="text-align:center"><img src="http://i67.tinypic.com/2dh7038.png"/></div>
 Sebelum Kurir memulai tracking kurir harus memilih list orderan terlebih dahulu.
@@ -201,9 +244,8 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_pembeli   | Varchar  | Sebagai identitas unik untuk membedakan antara customer-customer yg lainnya |
 | No hp        | Varchar  | Nomor Hp customer                                                           |
-| Nama         | Varchar  | Nama lengkap customer                                                       |
+| Nama         | Varchar  | Nama customer                                                               |
 | Email        | Varchar  | Email untuk registrasi akun                                                 |
-| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
 | Alamat       | Varchar  | Alamat customer                                                             |
 | Keranjang    | Varchar  | Untuk menampung orderan                                                     |
 
@@ -216,14 +258,11 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 | No_hp        | Varchar  | Nomor hp Seller                                                             |
 | Nama         | Varchar  | Nama Seller                                                                 |
 | Email        | Varchar  | Email untuk registrasi akun                                                 |
-| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
 
 #### Entitas Data Admin
 |   Data Item  |   Type   |         Deskripsi                                                           |
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_admin     | Varchar  | Sebagai identitas unik untuk membedakan antara admin-admin yg lainnya       |
-| Email        | Varchar  | Email untuk registrasi akun                                                 |
-| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
 | Nama         | Varchar  | Nama admin                                                                  |
 | No_hp        | Varchar  | Nomor hp admin                                                              |
 
@@ -233,5 +272,3 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 | Id_kurir     | Varchar  | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya       |
 | No_hp        | Varchar  | Nomor hp kurir                                                              |
 | Nama         | Varchar  | Nama kurir                                                                  |
-| Email        | Varchar  | Email untuk registrasi akun                                                 |
-| Password     | Varchar  | Password akun yang digunakan untuk login                                    |
