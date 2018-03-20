@@ -57,8 +57,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 </p>
 
 #### 2.1.2 Antarmuka pengguna
-### Customer
-##### 2.1 Login
+##### Login
 
 | Nama Fungsi    | Login                                                                      |
 |----------------|----------------------------------------------------------------------------|
@@ -72,20 +71,145 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 | Exception Push | Tidak ada koneksi                                                          |
 |                | User belum mendaftar ke aplikasi                                           |
 
-##### 2.2 
+##### Order Makanan
 
-| Nama Fungsi    | Melihat menu makanan dan toko                                              |
+| Nama Fungsi    | Order Makanan                                                              |
 |----------------|----------------------------------------------------------------------------|
-| Referensi      | Bagian 2.2 Melihat Home/Dashboard                                          |
+| Referensi      | Bagian 2.1 Oder Makanan                                                    |
 | Trigger        | Membuka Aplikasi Ayo Mangan!, dan sudah terdaftar                          |
-| Precondition   | Menampilkan data menu makanan dan toko                                     |
+| Precondition   | Menampilkan data menu makanan dan list orderan                             |
 | Basic Path     | Customer Login ke dalam Aplikasi                                           |
-|                | Customer Melihat Menu Makanan dan profile toko                             |
+|                | Customer Melihat Menu Makanan dan dan order makanan                        |
 |                | Aplikasi dapat menampilkan Menu makanan dan List orderan                   |
 | Alternative    | Tidak Ada                                                                  |
 | Post Condition | User dapat melihat Halaman utama Aplikasi dan dapat mengakses yang lainnya |
 | Exception Push | Tidak ada koneksi                                                          |
 |                | User belum mendaftar ke aplikasi                                           |
+
+##### Tracking Kurir
+
+| Nama Fungsi    | Tracking Kurir                                                                 |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Oder Tracking Kurir                                                 |
+| Trigger        | Untuk melihat lokasi kurir                                                     |
+| Precondition   | Menampilkan tracking kurir                                                     |
+| Basic Path     | Customer dan Seller login ke dalam Aplikasi                                    |
+|                | Customer dan Seller dapat melihat lokasi kurir dengan tracking kurir           |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Customer dan Seller dapat melihat tracking kurir                               |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | User belum mendaftar ke aplikasi                                               |
+
+##### Telepon
+
+| Nama Fungsi    | Telepon                                                                        |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Telepon                                                             |
+| Trigger        | Untuk menghubungi seller dan kurir melalui telpon                              |
+| Precondition   | Menghubungi seller dan kurir melalui telpon                                    |
+| Basic Path     | Untuk telpon Customer tidak harus login ke dalam Aplikasi                      |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Customer dapat menghubungi seller dan kurir                                    |
+| Exception Push | Tidak ada jaringan                                                             |
+
+##### Konfirmasi Orderan Sampai
+
+| Nama Fungsi    | Konfirmasi Orderan Sampai                                                      |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Konfirmasi Orderan Sampai                                           |
+| Trigger        | Customer mengkonfirmasi bahwa pesanan sudah diterima                           |
+| Precondition   | Menampilkan notifikasi barang sudah diterima/dikonfirmasi                      |
+| Basic Path     | User Login ke dalam Aplikasi                                                   |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Seller dapat melihat list orderan yg sudah sampai                              |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | User belum mendaftar ke aplikasi                                               |
+
+##### Kelola Toko
+
+| Nama Fungsi    | Kelola Toko                                                                    |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Kelola Toko                                                         |
+| Trigger        | Untuk menambah menu makanan,update profile toko,menambahkan kurir,menampilkan  |
+|                | menu makanan dan menampilkan alamat toko                                       |
+| Precondition   | Menampilkan Profile toko                                                       |
+| Basic Path     | Seller Login ke dalam Aplikasi                                                 |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Seller dapat mengelola toko sendiri                                            |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | User belum mendaftar ke admin/aplikasi                                         |
+
+##### Tambah Kurir
+
+| Nama Fungsi    | Tambah Kurir                                                                   |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Tambah Kurir                                                        |
+| Trigger        | Untuk menambahkan kurir                                                        |
+| Precondition   | Membuka profil seller klik kurir                                               |
+|                | Menginputkan data dan melihat data kurir                                       |
+| Basic Path     | Seller Login ke dalam Aplikasi                                                 |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Seller dapat mengelola kurir                                                   |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | Seller belum mendaftar ke admin/aplikasi                                       |
+
+##### Terima Order
+
+| Nama Fungsi    | Terima Order                                                                   |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Terima Order                                                        |
+| Trigger        | Seller menerima Orderan dari customer                                          |
+| Precondition   | Membuka profil seller klik Orderan                                             |
+|                | Teruskan ke kurir                                                              |
+| Basic Path     | Seller Login ke dalam Aplikasi                                                 |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Seller dapat melihat orderan masuk                                             |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | Seller belum mendaftar ke admin/aplikasi                                       |
+
+##### Teruskan Orderan Ke Kurir
+
+| Nama Fungsi    | Teruskan Orderan Ke Kurir                                                      |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Teruskan Orderan Ke Kurir                                           |
+| Trigger        | Seller meneruskan Orderan ke kurir                                             |
+| Precondition   | Membuka profil seller klik Orderan                                             |
+|                | Teruskan ke kurir                                                              |
+|                | Kurir memulai tracking                                                         |
+| Basic Path     | User Login ke dalam Aplikasi                                                   |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Seller dapat melihat tracking kurir                                            |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | Seller belum mendaftar ke admin/aplikasi                                       |
+
+##### Terima teruskan order dari seller
+
+| Nama Fungsi    | Terima teruskan order dari seller                                              |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Terima teruskan order dari seller                                   |
+| Trigger        | Kurir menerima orderan yg diteruskan dari seller                               |
+| Precondition   | Membuka detail Orderan                                                         |
+| Basic Path     | User Login ke dalam Aplikasi                                                   |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | User dapat melihat detail orderan                                              |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | User belum mendaftar ke admin/aplikasi                                         |
+
+##### Tracking Alamat Customer
+
+| Nama Fungsi    | Tracking Alamat Customer                                                       |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Tracking Alamat Customer                                            |
+| Trigger        | Kurir melakukan tracking                                                       |
+| Precondition   | Dapat melihat rute jalan dengan maps                                           |
+| Basic Path     | User Login ke dalam Aplikasi                                                   |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Seller dapat melihat tracking kurir                                            |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | Seller belum mendaftar ke admin/aplikasi                                       |
+
+
+
 
 #### * Kurir
 <div style="text-align:center"><img src="http://i67.tinypic.com/2dh7038.png"/></div>
