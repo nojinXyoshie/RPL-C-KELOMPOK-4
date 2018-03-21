@@ -377,7 +377,7 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
 
 #### 3.3 Detail Persyaratan Non-Fungsional
 #### 3.3.1 Struktur data logis
-<div style="text-align:center"><img src=http://i67.tinypic.com/11bj66a.jpg"/></div>
+<div style="text-align:center"><img src=http://i67.tinypic.com/orrqdz.jpg"/></div>
   
 ### Entitas Data Customer
 |  Data Item   |   Type   |        Deskripsi                                                            |
