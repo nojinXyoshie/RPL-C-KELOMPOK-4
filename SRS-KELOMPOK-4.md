@@ -379,7 +379,7 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 
 #### 3.3 Detail Persyaratan Non-Fungsional
 #### 3.3.1 Struktur data logis
-<div style="text-align:center"><img src=http://i67.tinypic.com/11bj66a.jpg"/></div>
+<p align="center"><img src="http://i67.tinypic.com/orrqdz.jpg"/></p>
   
 ### Entitas Data Customer
 |  Data Item   |   Type   |        Deskripsi                                                            |
