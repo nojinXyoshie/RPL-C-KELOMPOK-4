@@ -188,7 +188,7 @@ Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, 
 <p align="center"><img src="http://i66.tinypic.com/xkpzpe.png"/></p>
 
 2.2.4 Admin
-<p align="center"><img src="http://i68.tinypic.com/mvkd4y.png"/></p>
+<p align="center"><img src="http://i68.tinypic.com/1pjolc.png"/></p>
 
 
 #### 2.3. Spesifikasi kebutuhan non-fungsional
