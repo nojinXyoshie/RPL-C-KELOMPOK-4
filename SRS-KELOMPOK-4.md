@@ -212,12 +212,18 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 
 #### * Kurir
-<p align="center"> <img src="http://i67.tinypic.com/2dh7038.png"/> </p>
-Sebelum Kurir memulai tracking kurir harus memilih list orderan terlebih dahulu.
-<div style="text-align:center"><img src="http://i66.tinypic.com/2ngr6vd.png"/></div>
+<p align="center">
+<img src="http://i67.tinypic.com/wu4cx2.png"/>
+</p>
+Detail order
+<p align="center">
+<img src="http://i66.tinypic.com/avpv2x.png"/>
+</p>
 Proses tracking
-<div style="text-align:center"><img src="http://i64.tinypic.com/jrvinp.png"/></div>
-Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller bahwa pesanan telah sampai/diterima.
+<p align="center">
+<img src="http://i64.tinypic.com/vipudc.png"/>
+</p>
+Setelah kurir mengantarkan pesanan, lalu diterima customer, maka kurir harus mengkonfirmasi kepada seller bahwa pesanan telah sampai/diterima.
 
 #### * Seller
 <div style="text-align:center"><img src="http://i66.tinypic.com/2ap5cj.jpg"/></div>
