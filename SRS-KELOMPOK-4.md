@@ -206,7 +206,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 | Alternative    | Tidak Ada                                                                      |
 | Post Condition | Seller dapat melihat tracking kurir                                            |
 | Exception Push | Tidak ada koneksi                                                              |
-|                | Seller belum mendaftar ke admin/aplikasi                                       |
+|                |User belum mendaftar ke admin/aplikasi                                          |
 
 
 
