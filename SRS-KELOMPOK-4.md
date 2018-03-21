@@ -223,13 +223,14 @@ Kebutuhan akan pengelolaan/management pada suatu instansi sangatlah penting deng
 Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang kuliner sangatlah penting dengan menimbang beberapa aspek yang saling mendukung, pada hal ini tertuju pada pedagang rumahan maupun yang sudah memiliki tempat jualan/lapak dimana penerapan management/pengelolaan pemasaran sudah semestinya menggunakan komputerisasi untuk dapat menghindari  terjadinya kesalahan dalam pelayanan secara manual, pedagang rumahan sangatlah terbantu untuk meningkatkan perekonomian di era global. Selain hal demikian, management/pengelolaan pemesanan makanan yang terkomputerisasi dapat membantu masyarakat yang malas keluar rumah untuk mencari makan yang  dimana harus mendatangi rumah makan dan mengantri , sekarang bisa menggunakan cara praktis dengan cara pemesanan makanan melalui aplikasi “AYO MANGAN”
 
 #### 3.2 Kebutuhan Fungsional
+### Customer
 ##### Login
 
 | Nama Fungsi    | Login                                                                      |
 |----------------|----------------------------------------------------------------------------|
 | Referensi      | Bagian 2.1 Login                                                           |
 | Trigger        | Membuka Aplikasi Ayo Mangan!, dan sudah terdaftar                          |
-| Precondition   | Login untuk Customer,Seller,Kurir dan Admin                                |
+| Precondition   | Login untuk Customer                                |
 | Basic Path     | User sudah terdaftar, jika sudah terdaftar maka bisa langsung menggunakan  |
 |                | aplikasi yang menampilkan Home/Dashboard sebagai halaman utamanya          |
 | Alternative    | Tidak Ada                                                                  |
@@ -291,6 +292,7 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
 | Exception Push | Tidak ada koneksi                                                              |
 |                | User belum mendaftar ke aplikasi                                               |
 
+### Seller
 ##### Kelola Toko
 
 | Nama Fungsi    | Kelola Toko                                                                    |
@@ -348,6 +350,7 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
 | Exception Push | Tidak ada koneksi                                                              |
 |                | Seller belum mendaftar ke admin/aplikasi                                       |
 
+### Kurir
 ##### Terima teruskan order dari seller
 
 | Nama Fungsi    | Terima teruskan order dari seller                                              |
