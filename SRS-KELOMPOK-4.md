@@ -172,21 +172,23 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 #### 2.2 Spesifikasi kebutuhan fungsional
 
 2.2.1 Customer
-<p align="center"><img src="http://i66.tinypic.com/263x4kp.png"/></p>
+<p align="center"><img src="http://i64.tinypic.com/n62kj8.png"/></p>
 
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
 2.2.2 Seller
 
-<p align="center"><img src="http://i63.tinypic.com/opmigz.png"/></p>
+<p align="center">
+ <img src="http://i68.tinypic.com/11qts9g.png"/>
+</p>
 
 
 2.2.3 Kurir
-<p align="center"><img src=http://i68.tinypic.com/5bai3d.png"/></p>
+<p align="center"><img src="http://i66.tinypic.com/xkpzpe.png"/></p>
 
 2.2.4 Admin
-<p align="center"><img src="http://i64.tinypic.com/jzdqv.png"/></p>
+<p align="center"><img src="http://i68.tinypic.com/mvkd4y.png"/></p>
 
 
 #### 2.3. Spesifikasi kebutuhan non-fungsional
