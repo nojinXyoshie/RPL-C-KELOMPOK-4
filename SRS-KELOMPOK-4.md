@@ -268,7 +268,22 @@ Tampilan Keranjang
 Profil Customer
 
 #### * Admin
-<div style="text-align:center"><img src=http://i67.tinypic.com/nmhkcz.png"/></div>
+<p align="center">
+<img src="http://i64.tinypic.com/21mfbqa.png"/>
+</p>
+Login admin
+<p align="center">
+<img src="http://i64.tinypic.com/bdqtqu.png"/>
+</p>
+Dashboard admin
+<p align="center">
+<img src="http://i67.tinypic.com/15qdxcl.png"/>
+</p>
+Data makanan
+<p align="center">
+<img src="http://i67.tinypic.com/1zohtht.png"/>
+</p>
+Data seller
 
 
 #### 2.1.3 Antarmuka perangkat keras
@@ -379,7 +394,7 @@ fungsi-fungsi utama dapat didefinisikan pada Tabel 1.
 
 #### 3.3 Detail Persyaratan Non-Fungsional
 #### 3.3.1 Struktur data logis
-<p align="center"><img src="http://i67.tinypic.com/orrqdz.jpg"/></p>
+<div style="text-align:center"><img src=http://i67.tinypic.com/11bj66a.jpg"/></div>
   
 ### Entitas Data Customer
 |  Data Item   |   Type   |        Deskripsi                                                            |
