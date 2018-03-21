@@ -212,7 +212,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 
 #### * Kurir
-<div style="text-align:center"><img src="http://i67.tinypic.com/2dh7038.png"/></div>
+<p align="center"> <img src="http://i67.tinypic.com/2dh7038.png"/> </p>
 Sebelum Kurir memulai tracking kurir harus memilih list orderan terlebih dahulu.
 <div style="text-align:center"><img src="http://i66.tinypic.com/2ngr6vd.png"/></div>
 Proses tracking
@@ -228,13 +228,31 @@ Setelah pesanan diterima oleh customer, kurir harus mengkonfirmasi kepada seller
 -	Tambah produk baru : untuk mengupload menu baru
 -	Kurirku : untuk mengecek posisi kurir.
 
-#### * Costomer
-<div style="text-align:center"><img src="http://i68.tinypic.com/4lodug.png"/></div>
-Customer memilih menu makanan
-<div style="text-align:center"><img src="http://i64.tinypic.com/n2hedg.png"/></div>
-Setelah memilih salah satu menu, lalu customer oder jenis menu makanan
-<div style="text-align:center"><img src="http://i65.tinypic.com/35c2wrl.png"/></div>
-Customer memasukan jumlah orderan dan alamat orderan.
+#### * Customer
+<p align="center">
+<img src="http://i65.tinypic.com/16ixkk4.jpg"/>
+</p>
+Customer harus login/masuk terlebih dahulu sebelum masuk ke menu home
+<p align="center">
+<img src="http://i65.tinypic.com/2ziygzt.png"/>
+</p>
+Setelah login/masuk muncul tampilan home
+<p align="center">
+<img src="http://i64.tinypic.com/2dipwlv.png"/>
+</p>
+Tampilan timeline akan menampilkan menu-menu makanan
+<p align="center">
+<img src="http://i65.tinypic.com/23uafjt.png"/>
+</p>
+Setelah memilih menu makanan, customer melakukan order makanan
+<p align="center">
+<img src="http://i66.tinypic.com/dbtzc1.png"/>
+</p>
+Tampilan Keranjang
+<p align="center">
+<img src="http://i65.tinypic.com/20j2wb9.png"/>
+</p>
+Profil Customer
 
 #### * Admin
 <div style="text-align:center"><img src=http://i67.tinypic.com/nmhkcz.png"/></div>
