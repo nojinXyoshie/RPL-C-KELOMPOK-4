@@ -379,6 +379,7 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
 #### 3.3.1 Struktur data logis
 <div style="text-align:center"><img src=http://i67.tinypic.com/orrqdz.jpg"/></div>
   
+Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 ### Entitas Data Customer
 |  Data Item   |   Type   |        Deskripsi                                                            |
 |--------------|----------|-----------------------------------------------------------------------------|
