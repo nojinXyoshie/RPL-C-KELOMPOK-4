@@ -377,6 +377,33 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
 | Exception Push | Tidak ada koneksi                                                              |
 |                |User belum mendaftar ke admin/aplikasi                                          |
 
+##### Telepon
+
+| Nama Fungsi    | Telepon                                                                        |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Telepon                                                             |
+| Trigger        | Untuk menghubungi seller dan customer melalui telpon                           |
+| Precondition   | Menghubungi seller dan customer melalui telpon                                 |
+| Basic Path     | Untuk telpon kurir tidak harus login ke dalam Aplikasi                         |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Kurir dapat menghubungi seller dan customer                                    |
+| Exception Push | Tidak ada jaringan                                                             |
+
+##### Konfirmasi Orderan Sampai
+
+| Nama Fungsi    | Konfirmasi orderan sampai                                                      |
+|----------------|--------------------------------------------------------------------------------|
+| Referensi      | Bagian 2.1 Konfirmasi orderan sampai                                           |
+| Trigger        | Untuk mengkonfirmasi kepada seller bahwa pesanan sudah sampai                  |
+| Precondition   | Kurir dan Customer harus konfirmasi ke seller bahwa pesanan sudah sampai       |
+| Basic Path     | Kurir harus login ke dalam Aplikasi                                            |
+| Alternative    | Tidak Ada                                                                      |
+| Post Condition | Kurir dapat mengklik tombol konfirmasi                                         |
+| Exception Push | Tidak ada koneksi                                                              |
+|                | User belum mendaftar ke admin/aplikasi
+
+
+
 
 
 
