@@ -62,7 +62,6 @@ Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan ka
 - Analys & Tester dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer serta menguji aplikasi dimana saat programmer melakukan kesalahan dalam mengkoding tester memiliki tanggung jawab untuk mengecek kesalahan koding – koding yang dilakukan programmer. .<br>
 - Design dimana bertugas membuat desain pada project yang dibuat baik itu design perancangan , maupun desain pada UI dan kebutuhan design lainnya.<br>
           
-
 ### 2.4 Lingkup tanggung jawab
 
 - Project manager <br> adalah orang yang ditunjuk untuk menggerakkan organisasi proyek dan memimpinnya dalam mencapai objective proyek. 
