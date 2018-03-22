@@ -56,9 +56,10 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 
 ### Bab 3 : Deskripsi Perancangan Rinci ###
 #### 3.1 Diagram Konteks
-#### 3.1.1 Diagram Konteks
-#### 3.1.2 DFD level 0
-<div style="text-align:center"><img src="http://i67.tinypic.com/6egbom.jpg"/></div>
+<div style="text-align:center"><img src="http://i68.tinypic.com/mhqbro.jpg"/></div>
+
+#### 3.1.1 DFD level 0
+<div style="text-align:center"><img src="http://i63.tinypic.com/2lxcx85.jpg"/></div>
 
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1
