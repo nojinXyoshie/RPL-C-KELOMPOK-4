@@ -59,6 +59,7 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 #### 3.1.1 Diagram Konteks
 #### 3.1.2 DFD level 0
 <div style="text-align:center"><img src="http://i67.tinypic.com/6egbom.jpg"/></div>
+
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
