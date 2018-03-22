@@ -413,43 +413,43 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
   
 Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 
-### Entitas Data Customer
+### Entitas Customer
 |  Data Item   |   Type   |        Deskripsi                                                            |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_customer  | Integer  | Sebagai identitas unik untuk membedakan antara customer-customer yg lainnya |
+| Id_customer  | varchar  | Sebagai identitas unik untuk membedakan antara customer-customer yg lainnya |
 | Nama         | Varchar  | Nama customer                                                               |
 | Email        | Varchar  | Email untuk registrasi akun                                                 |
 | Password     | Varchar  | Password sebagai registrasi akun                                            |
 | No hp        | Varchar  | Nomor Hp customer                                                           |
-| Alamat       | Varchar  | Alamat customer                                                             |
+| Alamat       | integer  | Alamat customer                                                             |
 | Status       | Varchar  | Untuk menandakan bahwa data sudah valid menjadi customer                    |
 
 ### Entitas Data_Order
 |  Data Item   |   Type   |        Deskripsi                                                            |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_Order     |  Integer |  identitas order                                                            |
-| Id_Costomer  | Integer  |Identitas customer                                                           |
-| Id_Kurir     |  Integer | Identitas kurir                                                             |
-| Id_Seller    | Integer  | Identitas seller yang mempunyai toko                                        |
-|Status_Penjualan | Varchar | penjualan ini sistemnya online                                            |
-| Status_pengirimanan    | Varchar  | data alamat dan jarak                                             |
-| Konfirmasi_kurir  | Varchar  | kurir yang sudah ditentukan oleh seller/pemilik toko                   |
-| Konfirmasi_customer  | Varchar | validasi orderan                                                     |
+| Id_Order     | Varchar |  identitas order                                                            |
+| Id_Costomer  | Varchar  |Identitas customer                                                           |
+| Id_Kurir     | Varchar | Identitas kurir                                                             |
+| Id_Seller    | Varchar  | Identitas seller yang mempunyai toko                                        |
+|Status_Penjualan | Boolean | penjualan ini sistemnya online                                            |
+| Status_pengirimanan    | Boolean | data alamat dan jarak                                             |
+| Konfirmasi_kurir  | Boolean  | kurir yang sudah ditentukan oleh seller/pemilik toko                   |
+| Konfirmasi_customer  | Boolean | validasi orderan                                                     |
 
 ### Entitas Detail_Order
 |  Data Item   |   Type   |        Deskripsi                                                            |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_detail    | Integer  | Jumlah keterangan barangan                                                  |
-| Id_makanan   | Integer  | menu makanan yang dipilih                                                   |
-| Id_order     | Integer  | identitas order                                                             |
+| Id_detail    | Varchar  | Jumlah keterangan barangan                                                  |
+| Id_makanan   | Varchar  | menu makanan yang dipilih                                                   |
+| Id_order     | Varchar  | identitas order                                                             |
 | Kuantitas    | Varchar  | memberikan feedback/ratting                                                 |
 | Keterangan   | Varchar  | keterangan lainnya sebagai pelengkap order                                  |
 
-#### Entitas Data_Seller
+#### Entitas Seller
 |  Data Item   |   Type   |          Deskripsi                                                          |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_seller  | Integer  | Sebagai identitas unik untuk membedakan antara seller-seller yg lainnya       |
-| No_hp        | Number | Nomor hp Seller                                                               |
+| Id_seller    | Varchar| Sebagai identitas unik untuk membedakan antara seller-seller yg lainnya       |
+| No_hp        | integer| Nomor hp Seller                                                               |
 | Nama         | Varchar| Nama Seller                                                                   |
 | Email        | Varchar| Email untuk registrasi akun                                                   |
 | Password     | Varchar| Password untuk registrasi akun			                                          	  |
@@ -458,8 +458,8 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 ### Entitas Data_toko
 |  Data Item   |   Type   |          Deskripsi                                                          |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_toko      | Integer  | sebagai identitas untuk membedakan denan toko-toko lain nya                 |
-| Id_seller    | integer  | Sebagai identitas unik untuk membedakan antara seller-seller yg lainnya     |
+| Id_toko      | Varchar  | sebagai identitas untuk membedakan denan toko-toko lain nya                 |
+| Id_seller    | Varchar  | Sebagai identitas unik untuk membedakan antara seller-seller yg lainnya     |
 | Nama_toko    | Varchar  | nama toko itu sendiri                                                       |
 | Alamat       | Varchar  | Alamat Toko                                                                 |
 | Keterangan   | Varchar  | data lainnya yang penting                                                   |
@@ -468,28 +468,28 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 ### Entitas Data_makanan
 |  Data Item   |   Type   |          Deskripsi                                                          |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_makanan   | Integer  |  daftar makanan yang akan dijual                                            |
+| Id_makanan   | Varchar  |  daftar makanan yang akan dijual                                            |
 | Nama_makanan | Varchar  | sebagai identitas unik nama makanan                                         |
 | Harga_makanan| Number   | Harga makanan                                                               |
-| Foto         | Varchar  |  foto makanan agar menarik customer                                         |
+| Foto         | Blob     |  foto makanan agar menarik customer                                         |
 | keterangan   |Varchar   | ketrangan lainnya sebagai pelengkap                                         |
 
-#### Entitas Data_Admin
+#### Entitas Admin
 |   Data Item  |   Type   |         Deskripsi                                                           |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_admin     | Integer  | Sebagai identitas unik untuk membedakan antara admin-admin yg lainnya       |
+| Id_admin     | Varchar  | Sebagai identitas unik untuk membedakan antara admin-admin yg lainnya       |
 | Nama         | Varchar  | Nama admin                                                                  |
 | Email        | Varchar  | untuk registrasi akun                                                       |
 | Password     | Varchar  | untuk registrasi akun                                                       |
-| No_hp        | Number   | Nomor hp admin                                                              |
+| No_hp        | integer  | Nomor hp admin                                                              |
 
-#### Entitas Data_Kurir
+#### Entitas Kurir
 |   Data Item  |   Type   |         Deskripsi                                                           |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_kurir     | Integerr | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya       |
-| id_seller    | Integer  | Nama toko yang bekerja sama                                                 |
+| Id_kurir     | Varchar | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya       |
+| id_seller    | Varchar  | Nama toko yang bekerja sama                                                 |
 | Nama kurir   | Varchar  | untuk  identitas kurir                                                      |
-| No_hp        | Number   | Nomor hp kurir                                                              |
+| No_hp        | integer  | Nomor hp kurir                                                              |
 | Status Nama  | Varchar  | Untuk menandakan kurir aktif, sedang mengirim pesanan, dan konfirmasi       |
 |              |          | orderan telah sampai                                                        |
 
