@@ -28,7 +28,7 @@
 Dokumen SDD ini disusun dengan tujuanuntuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan di terapkan pada aplikasi simulasi management proyek RPL dan juga memberi definisi kebutuhan untuk sistem spesifikasi kebutuhan fungsional. dan juga dokumen ini digunakan sebagai landasan yang diperlukan dalam
 proses pengembangan maupun perubahan fitur di masa yang akan datang. Dengan dokumen
 ini diharapkan pengembang perangkat lunak akan dimudahkan dalam perubahan fitur dari
-perangkat lunak tersebut.
+perangkat lunak tersebut.<br>
 
 #### 1.2 Lingkup
 Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management proyek RPL berbasis dekstop, ruang lingkup system ini mencangkup informasi mengenai antarmuka dari system tersebut.
