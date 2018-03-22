@@ -422,7 +422,7 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 | Password     | Varchar  | Password sebagai registrasi akun                                            |
 | No hp        | Varchar  | Nomor Hp customer                                                           |
 | Alamat       | integer  | Alamat customer                                                             |
-| Status       | Varchar  | Untuk menandakan bahwa data sudah valid menjadi customer                    |
+| Status       | Boolean  | Untuk menandakan bahwa customer aktif / non aktif                           |
 
 ### Entitas Data_Order
 |  Data Item   |   Type   |        Deskripsi                                                            |
@@ -453,7 +453,7 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 | Nama         | Varchar| Nama Seller                                                                   |
 | Email        | Varchar| Email untuk registrasi akun                                                   |
 | Password     | Varchar| Password untuk registrasi akun			                                          	  |
-| Status	      | Varchar| Untuk menandakan Seller sedang aktif                                          |
+| Status	      | Boolean| Untuk menandakan bahwa seller aktif / non aktif                                          |
 
 ### Entitas Data_toko
 |  Data Item   |   Type   |          Deskripsi                                                          |
@@ -486,11 +486,11 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 #### Entitas Kurir
 |   Data Item  |   Type   |         Deskripsi                                                           |
 |--------------|----------|-----------------------------------------------------------------------------|
-| Id_kurir     | Varchar | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya       |
+| Id_kurir     | Varchar  | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya        |
 | id_seller    | Varchar  | Nama toko yang bekerja sama                                                 |
 | Nama kurir   | Varchar  | untuk  identitas kurir                                                      |
 | No_hp        | integer  | Nomor hp kurir                                                              |
-| Status Nama  | Varchar  | Untuk menandakan kurir aktif, sedang mengirim pesanan, dan konfirmasi       |
-|              |          | orderan telah sampai                                                        |
+| Status       | Varchar  | Untuk menandakan bahwa kurir aktif / non aktif                                     |
+|              |          |                                                                             |
 
 
