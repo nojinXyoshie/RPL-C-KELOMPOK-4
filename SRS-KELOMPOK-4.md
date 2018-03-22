@@ -445,7 +445,7 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 | Kuantitas    | Varchar  | memberikan feedback/ratting                                                 |
 | Keterangan   | Varchar  | keterangan lainnya sebagai pelengkap order                                  |
 
-#### Entitas Data Seller
+#### Entitas Data_Seller
 |  Data Item   |   Type   |          Deskripsi                                                          |
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_seller  | Integer  | Sebagai identitas unik untuk membedakan antara seller-seller yg lainnya       |
@@ -455,7 +455,7 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 | Password     | Varchar| Password untuk registrasi akun			                                          	  |
 | Status	      | Varchar| Untuk menandakan Seller sedang aktif                                          |
 
-### Entitas Data toko
+### Entitas Data_toko
 |  Data Item   |   Type   |          Deskripsi                                                          |
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_toko      | Integer  | sebagai identitas untuk membedakan denan toko-toko lain nya                 |
@@ -474,7 +474,7 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 | Foto         | Varchar  |  foto makanan agar menarik customer                                         |
 | keterangan   |Varchar   | ketrangan lainnya sebagai pelengkap                                         |
 
-#### Entitas Data Admin
+#### Entitas Data_Admin
 |   Data Item  |   Type   |         Deskripsi                                                           |
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_admin     | Integer  | Sebagai identitas unik untuk membedakan antara admin-admin yg lainnya       |
@@ -483,7 +483,7 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 | Password     | Varchar  | untuk registrasi akun                                                       |
 | No_hp        | Number   | Nomor hp admin                                                              |
 
-#### Entitas Data Kurir
+#### Entitas Data_Kurir
 |   Data Item  |   Type   |         Deskripsi                                                           |
 |--------------|----------|-----------------------------------------------------------------------------|
 | Id_kurir     | Integerr | Sebagai identitas unik untuk membedakan antara kurir-kurir yg lainnya       |
