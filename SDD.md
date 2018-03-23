@@ -74,6 +74,12 @@ prototype belum jadi
 #### 3.3.1.3 Spesifikasi Query
 ID-QUERY , DESKRIPSI , EKSPRESI QUERY
 
+###3.3 Dekomposisi Data.
+Data User Customer, Seller, Kurir, Admin.
 
-
-
+|    No     |   Data            |        Keterangan                                  |
+|-----------|-------------------|----------------------------------------------------|
+|     1     | Email, No.Telepon | Digunakan Untuk Login Customer                     |
+|     2     | Email, No.Telepon | Digunakan Untuk Login seller                       |
+|     3     | Email, No.Telepon | Digunakan Untuk Login Kurir                        |
+|     4     | Email, No.Telepon | Digunakan Untuk Login Admin                        |
