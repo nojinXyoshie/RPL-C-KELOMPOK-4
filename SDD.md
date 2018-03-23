@@ -74,12 +74,41 @@ prototype belum jadi
 #### 3.3.1.3 Spesifikasi Query
 ID-QUERY , DESKRIPSI , EKSPRESI QUERY
 
-###3.3 Dekomposisi Data.<br>
-Data User Customer, Seller, Kurir, Admin.
+###3.3 Dekomposisi Data.<br><br>
 
-|    No     |   Data            |        Keterangan                                  |
-|-----------|-------------------|----------------------------------------------------|
-|     1     | Email, No.Telepon | Digunakan Untuk Login Customer                     |
-|     2     | Email, No.Telepon | Digunakan Untuk Login seller                       |
-|     3     | Email, No.Telepon | Digunakan Untuk Login Kurir                        |
-|     4     | Email, No.Telepon | Digunakan Untuk Login Admin                        |
+- Data User Customer, Seller, Kurir, Admin.
+
+|    No     |         Data                |                Keterangan                          |
+|-----------|-----------------------------|----------------------------------------------------|
+|     1     | Email, No.hp, Password      | Digunakan Untuk Login Customer                     |
+|     2     | Email, No.hp, Password      | Digunakan Untuk Login seller                       |
+|     3     | Email, No.hp, Password      | Digunakan Untuk Login Kurir                        |
+|     4     | Email, No.hp, Password      | Digunakan Untuk Login Admin                        |
+
+
+- Data Admin.<br>
+
+
+|    No     |          Data               |                 Keterangan                         |
+|-----------|-----------------------------|----------------------------------------------------|
+|     1     |         Id_admin            | Primary Key                                        |
+|     2     |         Nama                | Nama Admin                                         |
+|     3     |         Email               | Email Pengguna                                     |
+|     4     |         Password            | Password Pengguna                                  |
+|     5     |         No.hp               | No.hp Pengguna                                     |
+
+
+- Data Customer.<br>
+
+|    No     |          Data               |                 Keterangan                         |
+|-----------|-----------------------------|----------------------------------------------------|
+|     1     |         Id_admin            | Primary Key                                        |
+|     2     |         Nama                | Nama Customer                                      |
+|     3     |         Email               | Email Customer                                     |
+|     4     |         Password            | Password Customer                                  |
+|     5     |         No.hp               | No.hp Customer                                     |
+|     6     |         Alamat              | Alamat Customer                                    |
+|     7     |         Status              | Status Customer Aktif/Off                          |
+
+
+-
