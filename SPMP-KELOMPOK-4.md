@@ -51,7 +51,12 @@ Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, k
 
 ### 2.1 Model proses
 Dalam proyek yang kami buat kita menggunakan model proses V-model.
-Model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang yang dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linier, maka dalam model V proses dalikukan bercabang dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya.
+Teknik model V sering disebut sebagai pengembangan dari teknik waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang. Dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya. “V” untuk verifikasi dan validasi dan merupakan model standar yang banyak dipakai di negara-negara Eropa seperti standar untuk proyek pertahanan dan administrasi federal di Jerman.<br>
+<p align="center">
+<img src="http://i68.tinypic.com/29erl1y.jpg"/>
+</p>
+
+
 
 ### 2.2 Struktur organisasi
 ![Struk](http://i68.tinypic.com/szzewk.png)
