@@ -59,7 +59,9 @@ Teknik model V sering disebut sebagai pengembangan dari teknik waterfall. Disebu
 
 
 ### 2.2 Struktur organisasi
-![Struk](http://i68.tinypic.com/szzewk.png)
+<br><p align="center">
+<img src="http://i68.tinypic.com/szzewk.png"/>
+</p>
 
 ### 2.3 Batasan dan antarmuka organisasi.
 - Project Manager dimana harus memanage pembuatan project dengan sebaik-baiknya,  mejadi pengawas dari anggota – anggotanya bilamana saat anggota lalai dengan tugas – tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya.<br>
