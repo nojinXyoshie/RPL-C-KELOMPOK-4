@@ -47,6 +47,11 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 
 ### Bab 2 : Deskripsi Perancangan Global ###
 #### 2.1 Rancangan Lingkungan Implementasi
+Pada proses pembuatan aplikasi ini, hal-hal yang mendukung dalam pemrosesan pembuatan aplikasi seperti sistem operasi yang digunakan untuk membuat aplikasi Ayo Mangan adalah :
+- Pada user Admin yang berbasis Web menggunakan PHP, HTML, Bootstrap dan CSS sebagai pendukung pembuatan design
+- Pada customer,kurir dan seller dalam pembuatannya menggunakan android studio
+- Untuk pembuatan web menggunakan sublime.
+
 #### 2.2 Deskripsi Data
 #### 2.2.1 Definisi Domain/type
 #### 2.2.2 Conceptual Data Model
