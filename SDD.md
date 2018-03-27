@@ -146,3 +146,13 @@ ID-QUERY , DESKRIPSI , EKSPRESI QUERY
 |     2     |         nama_toko           | nama unik toko agar tidak sama dengan toko lain    |
 |     3     |         alamat_toko         | alamat lengkap toko                                |
 |     4     |         keterangan          | keterangan lainnya                                 |
+
+- Detail_Orderan
+
+|    No     |          Data               |                 Keterangan                         |
+|-----------|-----------------------------|----------------------------------------------------|
+|     1     |         Id_detail           | Primary Key                                        |
+|     2     |         Id_order            | UNIQUE KEY                                         |
+|     3     |         Id_makanan          | UNIQUE KEY                                         |
+|     4     |         kuantitas           | jumlah orderan                                     |
+|     5     |         keterangan          | keterangan lainnya yang diperlukan                 |
