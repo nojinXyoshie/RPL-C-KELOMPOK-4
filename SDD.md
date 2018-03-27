@@ -116,4 +116,33 @@ ID-QUERY , DESKRIPSI , EKSPRESI QUERY
 |     7     |         Status              | Status Customer Aktif/Off                          |
 
 
--
+- Data Makan.
+
+|    No     |          Data               |                 Keterangan                         |
+|-----------|-----------------------------|----------------------------------------------------|
+|     1     |         Id_makanan          | Primary Key                                        |
+|     2     |         Nama_makanan        | Nama Makanan                                       |
+|     3     |         Harga_makanan       | Harga makanan                                      |
+|     4     |         foto_makanan        | Foto makanan                                       |
+
+- Data Order.
+
+|    No     |          Data               |                 Keterangan                         |
+|-----------|-----------------------------|----------------------------------------------------|
+|     1     |         Id_Order            | Primary Key                                        |
+|     2     |         Id_customer         | UNIQUE KEY                                         |
+|     3     |         Id_seller           | UNIQUE KEY                                         |
+|     4     |         Id_kurir            | UNIQUE KEY                                         |
+|     5     |         status_penjualan    | Notif penjualan on/off                             |
+|     6     |         status_pengiriman   | Notif Pengiriman sampai mana                       |
+|     7     |         konfirmasi_kurir    | seller akan mengkonfirmasi kurir                   |
+|     8     |         konfirmasi_customer | seller akan mengkonfirmasi orderan customer        |
+
+- Data Toko.
+
+|    No     |          Data               |                 Keterangan                         |
+|-----------|-----------------------------|----------------------------------------------------|
+|     1     |         Id_toko             | Primary Key                                        |
+|     2     |         nama_toko           | nama unik toko agar tidak sama dengan toko lain    |
+|     3     |         alamat_toko         | alamat lengkap toko                                |
+|     4     |         keterangan          | keterangan lainnya                                 |
