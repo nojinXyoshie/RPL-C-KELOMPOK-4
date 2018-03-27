@@ -47,11 +47,15 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 
 ### Bab 2 : Deskripsi Perancangan Global ###
 #### 2.1 Rancangan Lingkungan Implementasi
-Pada proses pembuatan aplikasi ini, hal-hal yang mendukung dalam pemrosesan pembuatan aplikasi seperti sistem operasi yang digunakan untuk membuat aplikasi Ayo Mangan adalah :
-- Pada user Admin yang berbasis Web menggunakan PHP, HTML, Bootstrap dan CSS sebagai pendukung pembuatan design
-- Pada customer,kurir dan seller dalam pembuatannya menggunakan android studio
-- Untuk pembuatan web menggunakan sublime.
-
+- Hypertext Prepocessor atau PHP adalah bahasa pemrograman yang digunakan untuk penanganan pembuatan dan pengembangan sebuah situs web dan bisa digunakan dengan HTML.
+- Sublime adalah sebuah aplikasi text untuk bahasa pemrograman termasuk pemrograman PHP, sublime mendukung banyak bahasa pemrograman dan bahasa markup serta fungsinya dapat ditambah dengan plugin.
+- MySQL adalah sebuah sistem manajemen basis data SQL atau DBMS yang multithread, multi-user, MySQL dimiliki dan disponsori oleh sebuah perusahaan komersial Swedia MySQL AB, di mana memegang hak cipta hampir atas semua kode sumbernya. Kedua orang Swedia dan satu orang Finlandia yang mendirikan MySQL AB adalah: David Axmark, Allan Larsson, dan Michael "Monty" Widenius.
+- Android-SDK alat bagi para programmer yang ingin mengembangkan aplikasi berbasis android. Android SDK mencakup seperangkat alat pengembangan yang komprehensif. Android SDK terdiri dari debugger, libraries,handset emulator,dokumentasi,contoh kode, dan tutorial. Saat ini Android sudah mendukung arsitektur x86 pada Linux,Mac OS X 10.4.8 atau lebih, Windows XP atau Vista. Persyaratan mencakup JDK, Apache Ant dan Python 2.2 atau yang lebih baru.
+- Java JDK adalah sebuah perangkat lunak yang digunakan untuk menggunakan proses kompilasi dari kode java ke bytecode yang dapat dimengerti dan dapat dijalankan oleh JRE(Java Runtime Envirotment)
+JDK wajib terinstall pada komputer yang akan melakukan proses pembuatan aplikasi berbasis java.
+- Java Script adalah bahasa pemrograman yang bisa di sisipkan ke HTML seperti halnya PHP akan tetapi Java script berjalan disisi Client, Desain java script dipengaruhi oleh banyak bahasa pemrograman, termasuk C, tetapi dimaksudkan untuk lebih digunakan oleh nonprogrammer.
+- Android Studio adalah aplikasi lingkungan Pengembangan Terpadu-Integrated Development Environment(IDE) untuk pengembangan aplikasi Android, berdasarkan IntelliJ IDEA.
+- Boostrap adalah sebuah library framework CSS yang dibuat khusus untuk mengembangkan front-end boostrap, Boostrap merupakan salah satu framework HTML, CSS, dan Javascript yang banyak digunakan pada website. Boostrap telah menyidiakan kumpulan komponen dasar yang telah dirancang sedimikian rupa untuk menciptakaan tampilan yang menarik. Boostrap juga berfungsi untuk mengatur layout pada halaman website yang bisa digunakan dengan mudah.
 #### 2.2 Deskripsi Data
 #### 2.2.1 Definisi Domain/type
 #### 2.2.2 Conceptual Data Model
