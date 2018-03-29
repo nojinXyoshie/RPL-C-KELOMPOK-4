@@ -83,7 +83,7 @@ prototype belum jadi
 #### 3.3.1.3 Spesifikasi Query
 ID-QUERY , DESKRIPSI , EKSPRESI QUERY
 
-###3.3 Dekomposisi Data.<br><br>
+### 3.3 Dekomposisi Data.<br><br>
 
 - Data User Customer, Seller, Kurir, Admin.
 
