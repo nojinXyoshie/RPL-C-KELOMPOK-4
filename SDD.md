@@ -65,7 +65,7 @@ JDK wajib terinstall pada komputer yang akan melakukan proses pembuatan aplikasi
 
 ### Bab 3 : Deskripsi Perancangan Rinci ###
 #### 3.1 Diagram Konteks
-<div style="text-align:center"><img src="http://i68.tinypic.com/mhqbro.jpg"/></div>
+<div style="text-align:center"><img src="http://i64.tinypic.com/2yl8hg2.jpg"/></div>
 
 #### 3.1.1 DFD level 0
 <div style="text-align:center"><img src="http://i63.tinypic.com/2lxcx85.jpg"/></div><br>
