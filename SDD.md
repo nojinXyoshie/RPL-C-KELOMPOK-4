@@ -134,9 +134,9 @@ ID-QUERY , DESKRIPSI , EKSPRESI QUERY
 |    No     |          Data               |                 Keterangan                         |
 |-----------|-----------------------------|----------------------------------------------------|
 |     1     |         Id_Order            | Primary Key                                        |
-|     2     |         Id_customer         | UNIQUE KEY                                         |
-|     3     |         Id_seller           | UNIQUE KEY                                         |
-|     4     |         Id_kurir            | UNIQUE KEY                                         |
+|     2     |         Id_customer         | Foreign Key                                        |
+|     3     |         Id_seller           | Foreign Key                                        |
+|     4     |         Id_kurir            | Foreign Key                                        |
 |     5     |         status_penjualan    | Notif penjualan on/off                             |
 |     6     |         status_pengiriman   | Notif Pengiriman sampai mana                       |
 |     7     |         konfirmasi_kurir    | seller akan mengkonfirmasi kurir                   |
@@ -156,7 +156,7 @@ ID-QUERY , DESKRIPSI , EKSPRESI QUERY
 |    No     |          Data               |                 Keterangan                         |
 |-----------|-----------------------------|----------------------------------------------------|
 |     1     |         Id_detail           | Primary Key                                        |
-|     2     |         Id_order            | UNIQUE KEY                                         |
-|     3     |         Id_makanan          | UNIQUE KEY                                         |
+|     2     |         Id_order            | Foreign Key                                        |
+|     3     |         Id_makanan          | Foreign Key                                        |
 |     4     |         kuantitas           | jumlah orderan                                     |
 |     5     |         keterangan          | keterangan lainnya yang diperlukan                 |
