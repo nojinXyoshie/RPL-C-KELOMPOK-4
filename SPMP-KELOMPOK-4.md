@@ -124,7 +124,7 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 - Irin Windiyati (Project Manager)
 - Yoshie Pangestu (Programmer & Database)
 - Nunung Nurhayati (Design)
-- Analysis (Dina Micela)
+- Dina Micela (Analysis)
 
 ### BAB IV: PROSES TEKNIS
 
