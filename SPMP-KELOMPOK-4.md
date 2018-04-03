@@ -171,12 +171,12 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 ### 5.3 Kebutuhan-kebutuhan sumber daya
 1. Kebutuhan SDM :
 
-| No          | Nama Personal                                | Job |
-|-------------|-------------------------------------------|--------|
-| 1           | Irin Windiyati                               | Project Manager  |
-| 2           | Yoshie Pangestu                                   | Programmer & Database   |
-| 3           | Nunung Nurhayati                                     | Designer   |
-| 4           | Dina Micela                               |Analys & Tester   |
+| No          | Nama Personal              | Job                                |
+|-------------|----------------------------|------------------------------------|
+| 1           | Irin Windiyati             | Project Manager & Database         |
+| 2           | Yoshie Pangestu            | Programmer                         |
+| 3           | Nunung Nurhayati           | Designer                           |
+| 4           | Dina Micela                | Analys & Tester                    |
 
 2. Kebutuhan Software :
 - XAMPP
