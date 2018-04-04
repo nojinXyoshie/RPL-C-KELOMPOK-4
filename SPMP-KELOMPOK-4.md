@@ -203,5 +203,5 @@ Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat
 
 
 ### 5.5 Jadwal
-http://i67.tinypic.com/1539pgn.png
+http://i67.tinypic.com/1539pgn.jpg
 
