@@ -61,7 +61,7 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 
 ### 2.2 Struktur organisasi
 <br><p align="center">
-<img src="http://i68.tinypic.com/szzewk.png"/>
+<img src="http://i63.tinypic.com/141tri0.png"/>
 </p>
 
 ### 2.3 Batasan dan antarmuka organisasi.
