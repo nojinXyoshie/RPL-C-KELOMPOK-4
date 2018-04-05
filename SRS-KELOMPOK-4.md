@@ -88,7 +88,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 	<td><p align="center">navigation drawer dari aplikasi</td>
 </tr>
 <tr>
-	<td><p align="center"><img src="http://i67.tinypic.com/r2p5qc.png"></td>
+	<td><p align="center"><img src="http://i67.tinypic.com/r0poh3.png"></td>
 	<td><p align="center">Masuk kategori</td>
 	<td><p align="center">saat customer telah memilih kategori makanan </td>
 </tr>
