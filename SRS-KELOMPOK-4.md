@@ -56,80 +56,116 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 </p>
 
 #### 2.1.2 Antarmuka pengguna
-#### * Kurir
-<p align="center">
-<img src="http://i67.tinypic.com/wu4cx2.png"/>
-</p>
-Detail order
-<p align="center">
-<img src="http://i66.tinypic.com/avpv2x.png"/>
-</p>
-Proses tracking
-<p align="center">
-<img src="http://i64.tinypic.com/vipudc.png"/>
-</p>
-Setelah kurir mengantarkan pesanan, lalu diterima customer, maka kurir harus mengkonfirmasi kepada seller bahwa pesanan telah sampai/diterima.
-
-#### * Seller
-<p align="center">
-<img src="http://i66.tinypic.com/2ap5cj.jpg"/>
-</p>
-
--	Profil toko : untuk mengetahui informasi toko, seller dapat mengedit informasi tokonya sendiri.
--	Alamat saya : alamat seller/toko
--	Produkku : menampilkan seluruh jenis makanan yg sudah di upload
--	Tambah produk baru : untuk mengupload menu baru
--	Kurirku : untuk mengecek posisi kurir.
-
-<p align="center">
-<img src="http://i68.tinypic.com/2qtlurk.png"/>
-</p>
-Sunting profil seller
-
-#### * Customer
-<p align="center">
-<img src="http://i65.tinypic.com/16ixkk4.jpg"/>
-</p>
-Customer harus login/masuk terlebih dahulu sebelum masuk ke menu home
-<p align="center">
-<img src="http://i65.tinypic.com/2ziygzt.png"/>
-</p>
-Setelah login/masuk muncul tampilan home
-<p align="center">
-<img src="http://i64.tinypic.com/2dipwlv.png"/>
-</p>
-Tampilan timeline akan menampilkan menu-menu makanan
-<p align="center">
-<img src="http://i65.tinypic.com/23uafjt.png"/>
-</p>
-Setelah memilih menu makanan, customer melakukan order makanan
-<p align="center">
-<img src="http://i66.tinypic.com/dbtzc1.png"/>
-</p>
-Tampilan Keranjang
-<p align="center">
-<img src="http://i65.tinypic.com/20j2wb9.png"/>
-</p>
-Profil Customer
-
-#### * Admin
-<p align="center">
-<img src="http://i64.tinypic.com/21mfbqa.png"/>
-</p>
-Login admin
-<p align="center">
-<img src="http://i64.tinypic.com/bdqtqu.png"/>
-</p>
-Dashboard admin
-<p align="center">
-<img src="http://i67.tinypic.com/15qdxcl.png"/>
-</p>
-Data makanan
-<p align="center">
-<img src="http://i67.tinypic.com/1zohtht.png"/>
-</p>
-Data seller
-
+#### * Customer<br>
+<table>
+<tr>
+	<td><p align="center">Mock up</td>
+	<td><p align="center">Nama mock up</td>
+	<td><p align="center">Keterangan</td>
+<tr>
+	<td><p align="center"><img src="http://i66.tinypic.com/2eulyjb.png"></p></td>
+	<td><p align="center">Splash</td>
+	<td><p align="center">saat costomer membuka aplikasi</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i67.tinypic.com/2rfsx3o.png"></td>
+	<td><p align="center">Daftar</td>
+	<td><p align="center">saat customer daftar (membuat akun baru)</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/rkoshz.png"></td>
+	<td><p align="center">Masuk</td>
+	<td><p align="center">saat customer masuk aplikasi (menggunakan email dan kata sandi)</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i66.tinypic.com/24y7hgp.png"></td>
+	<td><p align="center">Home</td>
+	<td><p align="center">saat customer berhasil masuk aplikasi</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i63.tinypic.com/14uccjq.png"></td>
+	<td><p align="center">Navigation drawer</td>
+	<td><p align="center">navigation drawer dari aplikasi</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i67.tinypic.com/r2p5qc.png"></td>
+	<td><p align="center">Masuk kategori</td>
+	<td><p align="center">saat customer telah memilih kategori makanan </td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/350m4nc.png"></td>
+	<td><p align="center">detail produk </td>
+	<td><p align="center">saat customer memilih makanan yang diinginkan</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/2hgspy8.png"></td>
+	<td><p align="center">Detail pesan makanan</td>
+	<td><p align="center">saat customer menekan button beli sekarang pada halaman detail produk</td>
+<tr>
+	<td><p align="center"><img src="http://i67.tinypic.com/2hgbfw7.png"></td>
+	<td><p align="center">alert pemesanan</td>
+	<td><p align="center">alert pemesanan ini digunakan untuk meyakinkan customer apakah benar ingin membeli makanan tersebut</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/14ufhag.png"></td>
+	<td><p align="center">pesanan</td>
+	<td><p align="center">saat customer telah pesan makanan , maka customer diarahkan ke halaman ini</td>
+</tr>
+</tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/2n705zb.jpg"></td>
+	<td><p align="center">Mulai tracking</td>
+	<td><p align="center">saat customer memilih makanan yang di beli pada halaman pesanan , pada halaman ini terdapat fitur tracking dan telepon</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/2i26dq9.png"></p></td>
+	<td><p align="center">Tracking</td>
+	<td><p align="center">saat customer sebelumnya menekan button mulai tracking</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/2drawjt.png"></td>
+	<td><p align="center">notifikasi</td>
+	<td><p align="center">saat customer membuka pesanan sampai (sebelumnya customer telah menekan button konfirmasi pesanan sampai</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i63.tinypic.com/14lmqsx.png"></td>
+	<td><p align="center">Review</td>
+	<td><p align="center">saat customer diminta untuk memberikan ulasan kepada seller</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i68.tinypic.com/5xvel1.png"></td>
+	<td><p align="center">Review seller</td>
+	<td><p align="center">saat customer mendapat ulasan dari seller , berupa list dari beberapa seller</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/2vx0ksl.png"></td>
+	<td><p align="center">Detail review seller</td>
+	<td><p align="center">Detail dari review seller</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i68.tinypic.com/15qr9xj.png"></td>
+	<td><p align="center">Riwayat pesanan</td>
+	<td><p align="center">Riwayat pesanan customer</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/2q2gupu.jpg"></td>
+	<td><p align="center">Profil</td>
+	<td><p align="center">digunakan untuk pengaturan profil</td>
+</tr>
+	<td><p align="center"><img src="http://i68.tinypic.com/fm7ts2.png"></td>
+	<td><p align="center">Ubah kata sandi</td>
+	<td><p align="center">digunakan untuk mengubah kata sandi</td>
+<tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/2vdlhti.png"></td>
+	<td><p align="center">Bantuan</td>
+	<td><p align="center">Berisi panduan dan aturan dari aplikasi</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i63.tinypic.com/6ezsba.png"></td>
+	<td><p align="center">Keluar aplikasi</td>
+	<td><p align="center">Ketika keluar aplikasi</td>
+</tr>
+</table>
 
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
