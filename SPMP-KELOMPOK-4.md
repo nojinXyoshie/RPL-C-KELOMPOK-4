@@ -55,10 +55,7 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 .<br>
 <p align="center">
 <img src="http://i66.tinypic.com/mmzlgn.jpg"/>
-</p>
-
-
-
+</p> <br>
 ### 2.2 Struktur organisasi
 <p align="center">
 <img src="http://i63.tinypic.com/141tri0.png"/>
