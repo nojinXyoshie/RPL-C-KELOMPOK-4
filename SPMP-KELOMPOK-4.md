@@ -50,10 +50,11 @@ Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, k
 ### BAB II : Organisasi Proyek
 
 ### 2.1 Model proses
-Dalam proyek yang kami buat kita menggunakan model proses V-model.
-Teknik model V sering disebut sebagai pengembangan dari teknik waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang. Dalam model V ini digambarkan hubungan antara tahap pengembangan software dengan tahap pengujiannya. “V” untuk verifikasi dan validasi dan merupakan model standar yang banyak dipakai di negara-negara Eropa seperti standar untuk proyek pertahanan dan administrasi federal di Jerman.<br>
+Dalam proyek yang kami buat kita menggunakan model proses Waterfall with Feedback.
+Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic life cycle”. Tetapi model ini paling banyak digunakan dalam Software Engineering. Disebut dengan waterfall karena tahap yang pertama harus dilalui dan diselesaikan namun bisa kembali ke pekerjaan pertama namun memiliki batas waktu yang tertentu setelah itu dapat melanjutkan ke tahapan selanjutnya. Tahapan yang harus dilalui dalam model waterfall with feedback ini dapat dilihat pada gambar dibawah ini.
+.<br>
 <p align="center">
-<img src="http://i68.tinypic.com/29erl1y.jpg"/>
+<img src="http://i66.tinypic.com/mmzlgn.jpg"/>
 </p>
 
 
