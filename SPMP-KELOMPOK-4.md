@@ -60,13 +60,14 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 
 
 ### 2.2 Struktur organisasi
-<br><p align="center">
+<p align="center">
 <img src="http://i63.tinypic.com/141tri0.png"/>
 </p>
 
 ### 2.3 Batasan dan antarmuka organisasi.
 - Project Manager dimana harus memanage pembuatan project dengan sebaik-baiknya,  mejadi pengawas dari anggota – anggotanya bilamana saat anggota lalai dengan tugas – tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya.<br>
-- Programmer & Database dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program beserta databasenya.<br>
+- Programmer dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program <br>
+- Database dimana dia bertanggung jawab untuk merancang serta mengimplementasikan databasenya.<br>
 - Analys & Tester dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer serta menguji aplikasi dimana saat programmer melakukan kesalahan dalam mengkoding tester memiliki tanggung jawab untuk mengecek kesalahan koding – koding yang dilakukan programmer. .<br>
 - Design dimana bertugas membuat desain pada project yang dibuat baik itu design perancangan , maupun desain pada UI dan kebutuhan design lainnya.<br>
           
@@ -122,10 +123,10 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 
 - Proses kontroling dilakukan oleh manager tim dan dilaksanakan setiap hari jumat agar bisa dievaluasi pada hari terakhir kegiatan
 ### 3.5 Perencanaan staf 
-- Irin Windiyati (Project Manager)
+- Irin Windiyati (Project Manager & Database)
 - Yoshie Pangestu (Programmer & Database)
 - Nunung Nurhayati (Design)
-- Dina Micela (Analysis)
+- Dina Micela (Analys & Tester)
 
 ### BAB IV: PROSES TEKNIS
 
@@ -144,7 +145,7 @@ Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional IEE
 
 ### 4.3 Fungsi-fungsi pendukung proyek
 
-Kami membutuhkan technical support di bagian desain project sebanyak 1 orang. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian database sebanyak 2 orang.
+Kami membutuhkan technical support di bagian desain project sebanyak 1 orang. Kami membutuhkan technical support di bagian coding program sebanyak 4 orang. Kami membutuhkan specialist di bagian database sebanyak 2 orang.
 
 ### BAB V : PAKET PEKERJAAN, JADWAL DAN BUDGET
 
