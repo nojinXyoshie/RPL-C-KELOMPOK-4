@@ -211,7 +211,7 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 </p>
 
 2.2.1 Customer
-<p align="center"><img src="http://i68.tinypic.com/z094g.png"/></p>
+<p align="center"><img src="http://i68.tinypic.com/2djuji8.png"/></p>
 
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
@@ -224,7 +224,7 @@ Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, 
 
 
 2.2.3 Kurir
-<p align="center"><img src="http://i66.tinypic.com/33oqpt3.png"/></p>
+<p align="center"><img src="http://i66.tinypic.com/33oqpt3.jpg"/></p>
 
 2.2.4 Admin
 <p align="center"><img src="http://i65.tinypic.com/s6klyo.png"/></p>
