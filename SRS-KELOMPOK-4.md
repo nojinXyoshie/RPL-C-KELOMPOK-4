@@ -51,6 +51,9 @@ Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
 dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.1 Antarmuka sistem
+<p align="center">
+<img src="http://i68.tinypic.com/30iyfpt.jpg"/>
+</p>
 
 
 #### 2.1.2 Antarmuka pengguna
