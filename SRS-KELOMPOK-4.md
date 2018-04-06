@@ -51,9 +51,7 @@ Produk yang dirancang merupakan sebuah perangkat lunak berbasis android
 dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.1 Antarmuka sistem
-<p align="center">
-<img src="http://i64.tinypic.com/14jvlzd.jpg"/>
-</p>
+
 
 #### 2.1.2 Antarmuka pengguna
 #### * Customer<br>
@@ -205,6 +203,9 @@ Control Protocol/Internet Protocol (TCP/IP).
 Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat mengetahui informasi aplikasi tersebut.
 
 #### 2.2 Spesifikasi kebutuhan fungsional
+<p align="center">
+<img src="http://i64.tinypic.com/14jvlzd.jpg"/>
+</p>
 
 2.2.1 Customer
 <p align="center"><img src="http://i66.tinypic.com/z5zqf.png"/></p>
