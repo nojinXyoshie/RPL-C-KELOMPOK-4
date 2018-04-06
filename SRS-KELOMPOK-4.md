@@ -228,19 +228,19 @@ Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, 
 
 
 #### 2.3. Spesifikasi kebutuhan non-fungsional
-1. Usability
+1. Usability <br>
 Usability adalah kebutuhan non fungsional terkait dengan kemudahan penggunaan sistem atau perangkat lunak oleh user.
 
-2. Portability
+2. Portability <br>
 Portability ialah kemudahan dalam pengaksesan sistem khususnya terkait dengan faktor waktu dan lokasi pengaksesan, serta perangkat atau teknologi yang digunakan untuk mengakses. Perangkat atau teknologi tersebut meliputi perangkat lunak, perangkat keras, dan perangkat jaringan.
 
-3. Reliability
+3. Reliability <br>
 Reliability merupakan kebutuhan terkait kehandalan sistem atau perangkat lunak termasuk juga faktor keamanan (security) sistem.
 
-4. Supportability
+4. Supportability <br>
 Supportability ialah kebutuhan terkait dengan dukungan dalam penggunaan sistem atau perangkat lunak.
 
-5. Security
+5. Security <br>
 Security ialah kebutuhan keamanan perangkat lunak pada sistem.
 
 #### 2.4 Karakteristik Pengguna
