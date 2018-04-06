@@ -204,7 +204,7 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 
 #### 2.2 Spesifikasi kebutuhan fungsional
 <p align="center">
-<img src="http://i64.tinypic.com/14jvlzd.jpg"/>
+<img src="http://i65.tinypic.com/35anei9.jpg"/>
 </p>
 
 2.2.1 Customer
