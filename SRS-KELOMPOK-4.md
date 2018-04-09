@@ -219,7 +219,7 @@ Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, 
 2.2.2 Seller
 
 <p align="center">
- <img src="http://i66.tinypic.com/2nvxy55.png"/>
+ <img src="http://i68.tinypic.com/11v3cxk.png"/>
 </p>
 
 Deskripsi :
