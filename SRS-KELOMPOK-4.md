@@ -299,7 +299,7 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
 
 ##### Order Makanan
 
-| Nama Fungsi    | Order Makanan                                                              |
+| Nama Fungsi    | Pesan Makanan                                                              |
 |----------------|----------------------------------------------------------------------------|
 | Referensi      | Bagian 2.1 Oder Makanan                                                    |
 | Trigger        | Membuka Aplikasi Ayo Mangan!, dan sudah terdaftar                          |
