@@ -63,6 +63,7 @@ Sublime text 3
 #### 2.2.1 Definisi Domain/type
 #### 2.2.2 Conceptual Data Model
 <div style="text-align:center"><img src="http://i64.tinypic.com/30da1jo.png"/></div><br>
+
 #### 2.2.3 Physical Data Model
 #### 2.2.4 Daftar Tabel Aplikasi
 #### 2.3 Deskripsi Modul
@@ -76,10 +77,13 @@ Sublime text 3
 
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1
+<div style="text-align:center"><img src="http://i64.tinypic.com/2lrs3k.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+
 #### 3.2.2 DFD Level 1 : Proses 2
 <div style="text-align:center"><img src="http://i63.tinypic.com/9srxit.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+
 #### 3.3 Dekommposisi Data
 (tabel-tabel database yang digunakan pada DFD)
 #### 3.3.1.1 Fungsi Modul
