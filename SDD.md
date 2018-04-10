@@ -81,7 +81,7 @@ Sublime text 3
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
-<div style="text-align:center"><img src="http://i63.tinypic.com/9srxit.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i63.tinypic.com/nporxk.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.3 DFD Level 1 : Proses 3 (mengelola data riview)
