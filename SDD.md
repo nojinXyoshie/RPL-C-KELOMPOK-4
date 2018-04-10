@@ -78,6 +78,7 @@ Sublime text 3
 #### 3.2.1 DFD Level 1 : Proses 1
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 #### 3.2.2 DFD Level 1 : Proses 2
+<div style="text-align:center"><img src="http://i63.tinypic.com/9srxit.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 #### 3.3 Dekommposisi Data
 (tabel-tabel database yang digunakan pada DFD)
