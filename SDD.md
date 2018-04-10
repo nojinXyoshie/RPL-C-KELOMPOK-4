@@ -76,15 +76,15 @@ Sublime text 3
 <div style="text-align:center"><img src="http://i63.tinypic.com/2lxcx85.jpg"/></div><br>
 
 #### 3.2 Dekommposisi Proses Konkuren
-#### 3.2.1 DFD Level 1 : Proses 1
-<div style="text-align:center"><img src="http://i64.tinypic.com/2lrs3k.jpg"/></div><br>
+#### 3.2.1 DFD Level 1 : Proses 1 (mengelola data customer)
+<div style="text-align:center"><img src="http://i67.tinypic.com/2hp24uu.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
-#### 3.2.2 DFD Level 1 : Proses 2
+#### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
 <div style="text-align:center"><img src="http://i63.tinypic.com/9srxit.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
-#### 3.2.3 DFD Level 1 : Proses 3
+#### 3.2.3 DFD Level 1 : Proses 3 (mengelola data riview)
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.4 DFD Level 1 : Proses 4
