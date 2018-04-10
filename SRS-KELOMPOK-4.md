@@ -52,7 +52,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.1 Antarmuka sistem
 <p align="center">
-<img src="http://i65.tinypic.com/10pr3a9.jpg"/>
+<img src="http://i65.tinypic.com/29punoh.jpg"/>
 </p>
 
 
