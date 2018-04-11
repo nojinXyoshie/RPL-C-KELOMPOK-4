@@ -62,7 +62,7 @@ Sublime text 3
 #### 2.2 Deskripsi Data
 #### 2.2.1 Definisi Domain/type
 #### 2.2.2 Conceptual Data Model
-<div style="text-align:center"><img src="http://i64.tinypic.com/30da1jo.png"/></div><br>
+<div style="text-align:center"><img src="http://i66.tinypic.com/jfetf4.png"/></div><br>
 
 #### 2.2.3 Physical Data Model
 #### 2.2.4 Daftar Tabel Aplikasi
