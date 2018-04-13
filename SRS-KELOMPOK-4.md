@@ -84,7 +84,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 	<td><p align="center">saat customer berhasil masuk aplikasi</td>
 </tr>
 <tr>
-	<td><p align="center"><img src="http://i63.tinypic.com/14uccjq.png"></td>
+	<td><p align="center"><img src="http://i63.tinypic.com/2yl0o42.png"></td>
 	<td><p align="center">Navigation drawer</td>
 	<td><p align="center">navigation drawer dari aplikasi</td>
 </tr>
