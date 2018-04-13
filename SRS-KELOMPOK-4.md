@@ -52,7 +52,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.1 Antarmuka sistem
 <p align="center">
-<img src="http://i68.tinypic.com/2hmf2nn.jpg"/>
+<img src="http://i65.tinypic.com/29punoh.jpg"/>
 </p>
 
 
@@ -208,6 +208,34 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 	<td><p align="center">Masuk</td>
 	<td><p align="center">saat customer masuk aplikasi (menggunakan email dan kata sandi)</td>
 </tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/2jb2vie.png"></td>
+	<td><p align="center">Notifikasi</td>
+	<td><p align="center">Kurir akan mendapatkan notifikasi setelah seller meneruskan orderan ke kurir</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i63.tinypic.com/8wmnq0.png"></td>
+	<td><p align="center">Detail Order</td>
+	<td><p align="center">kurir melihat detail order dan klik mulai untuk mengantar pesanan/tracking</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/11aj3p0.png"></td>
+	<td><p align="center">Tracking</td>
+	<td><p align="center">kurir melakukan tracking</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/2w5u6ug.png"></td>
+	<td><p align="center">Konfirmasi</td>
+	<td><p align="center">kurir mengkonfirmasi orderan sampai setelah barang sudah diterima oleh customer</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/34rvo6c.png"></td>
+	<td><p align="center">List Orderan Sampai</td>
+	<td><p align="center">Setelah mengkonfirmasi kurir akan melihat list orderan sampai</td>
+</tr>
+
+
+
 </table>
 
 
@@ -250,7 +278,7 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 
 #### 2.2 Spesifikasi kebutuhan fungsional
 <p align="center">
-<img src="http://i65.tinypic.com/f0bu46.jpg"/>
+<img src="http://i65.tinypic.com/35anei9.jpg"/>
 </p>
 
 2.2.1 Customer
