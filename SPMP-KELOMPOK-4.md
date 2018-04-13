@@ -151,9 +151,9 @@ Kami membutuhkan technical support di bagian desain project sebanyak 1 orang. Ka
 | No | Nama | Jabatan | Modul | Rincian |
 |----|------|---------|-------|---------|
 |  1  |Irin Windiyati | Project Manager, programer | Login, backend      | database, tampilan admin, programer         |
-|  2  |Dina Micela | Analyst, dokumen, programer |         |          |
-|  3  |Nunung Nurhayati | Designer, programer  |  |          |
-|  4  |Yoshie Pangestu | Programmer, dokumen |  |          |
+|  2  |Dina Micela | Analyst, dokumen, programer | kurir, customer        | tampilan kurir dan crud customer         |
+|  3  |Nunung Nurhayati | Designer, programer  | seller  | tampilan seller dan crud seller         |
+|  4  |Yoshie Pangestu | Programmer, dokumen | kelola toko seller | menambahkan kurir, tracking kurir, menerima orderan         |
             
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
