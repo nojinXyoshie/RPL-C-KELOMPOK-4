@@ -68,6 +68,19 @@ Sublime text 3
 #### 2.2.4 Daftar Tabel Aplikasi
 #### 2.3 Deskripsi Modul
 
+|    No     |          Nama Modul          |                 Keterangan                                                    
+|
+|-----------|------------------------------|-------------------------------------------------------------------------------|
+|     1     |         Seller               | Modul yang mencakup input, edit, delete dan update semua data seller/toko     |
+|     2     |         Kurir                | Modul yang mencakup input, edit, delete dan update semua data kurir           |
+|     3     |         Customer             | Modul yang mencakup input dan edit semua data customer                        |
+|     4     |         List Orderan         | Modul yang digunakan untuk menyimpan semua data orderan                       |
+|     5     |         Registrasi           | Modul yang di gunakan untuk akses sebelum login/masuk ke aplikasi Ayo Mangan  |
+|     6     |         Login                | Modul yang di gunakan untuk akses masuk ke Aplikasi Ayo Mangan di web/android |
+|     7     |         Tracking             | Modul yang di gunakan untuk melihat lokasi/alamat                             |
+
+
+
 ### Bab 3 : Deskripsi Perancangan Rinci ###
 #### 3.1 Diagram Konteks
 <div style="text-align:center"><img src="http://i64.tinypic.com/2yl8hg2.jpg"/></div>
