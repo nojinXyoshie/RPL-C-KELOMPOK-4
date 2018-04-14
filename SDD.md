@@ -68,8 +68,7 @@ Sublime text 3
 #### 2.2.4 Daftar Tabel Aplikasi
 #### 2.3 Deskripsi Modul
 
-|    No     |          Nama Modul          |                 Keterangan                                                    
-|
+|    No     |          Nama Modul          |                 Keterangan                                                    |
 |-----------|------------------------------|-------------------------------------------------------------------------------|
 |     1     |         Seller               | Modul yang mencakup input, edit, delete dan update semua data seller/toko     |
 |     2     |         Kurir                | Modul yang mencakup input, edit, delete dan update semua data kurir           |
