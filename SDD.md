@@ -117,6 +117,16 @@ DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1
 #### 3.3 Dekommposisi Data
 (tabel-tabel database yang digunakan pada DFD)
 #### 3.3.1.1 Fungsi Modul
+
+|    No     |         Fungsi              |           Jenis         |      Tabel Terkait       |
+|-----------|-----------------------------|-------------------------|--------------------------|
+|     1     |                             |                         |                          |
+|     2     |                             |                         |                          |
+|     3     |                             |                         |                          |
+|     4     |                             |                         |                          |
+|     5     |                             |                         |                          |
+|     6     |                             |                         |                          |
+
 #### 3.3.1.2 Spesifikasi Layar Utama
 prototype belum jadi
 #### 3.3.1.3 Spesifikasi Query
