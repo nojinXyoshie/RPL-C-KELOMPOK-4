@@ -73,10 +73,9 @@ Sublime text 3
 |     1     |         Seller               | Modul yang mencakup input, edit, delete dan update semua data seller/toko     |
 |     2     |         Kurir                | Modul yang mencakup input, edit, delete dan update semua data kurir           |
 |     3     |         Customer             | Modul yang mencakup input dan edit semua data customer                        |
-|     4     |         List Orderan         | Modul yang digunakan untuk menyimpan semua data orderan                       |
-|     5     |         Registrasi           | Modul yang di gunakan untuk akses sebelum login/masuk ke aplikasi Ayo Mangan  |
-|     6     |         Login                | Modul yang di gunakan untuk akses masuk ke Aplikasi Ayo Mangan di web/android |
-|     7     |         Tracking             | Modul yang di gunakan untuk melihat lokasi/alamat                             |
+|     4     |         Register             | Modul yang di gunakan untuk akses sebelum login/masuk ke aplikasi Ayo Mangan  |
+|     5     |         Login                | Modul yang di gunakan untuk akses masuk ke Aplikasi Ayo Mangan di web/android |
+|     6     |         Tracking             | Modul yang di gunakan untuk melihat lokasi customer/kurir                     |
 
 
 
