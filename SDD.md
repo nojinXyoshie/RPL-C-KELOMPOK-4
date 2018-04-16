@@ -77,7 +77,7 @@ Sublime text 3
 
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
-| Id_Customer     | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Customer         |
+| Id_Customer     | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Customer        |
 | Nama_Customer   | Varchar   |    50     |    Tidak    |     Tidak      |        -             |         Nama Customer         |
 | Email           | Varchar   |    25     |    Tidak    |     Tidak      |        -             |        Email Customer         |
 | Password        | Varcahar  |    25     |    Tidak    |     Tidak      |        -             |        Password Customer      |
@@ -86,16 +86,19 @@ Sublime text 3
 | Status          | Tinyint   |     1     |    Tidak    |     Tidak      |        -             |    Status Review ke seller    |
 <br>
 
-* TABLE Data_makanan <br><br>
+* TABLE Data_makanan<br><br>
+
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
 | Id_Makanan      | Varchar   |    15     | Primary key |      Iya       | Id_Makanan pada Makanan | Relasi untuk menampilkan Makanan |
 | Nama_makanan    | Varchar   |    50     |    Tidak    |     Tidak      |        -             |         Nama Makanan          |
 | Harga_makanan   | VInteger  |    15     |    Tidak    |     Tidak      |        -             |        Harga Pada makanan     |
 | Foto            | Blob      |     -     |    Tidak    |     Tidak      |        -             |       Foto Makanan            |
+
 <br>
 
-* TABLE Data_order <br><br>
+* TABLE Data_order<br><br>
+
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
 | Id_order        | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Customer         |
