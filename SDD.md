@@ -59,8 +59,10 @@ c. Development Tools
 Android Studio
 Sublime text 3
 
-#### 2.2 Deskripsi Data
-* TABLE Admin
+#### 2.2 Deskripsi Data<br>
+
+* TABLE Admin<br>
+
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
 | Id_Admin        | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Admin           |
@@ -70,7 +72,7 @@ Sublime text 3
 | No_Hp           | Integer   |    15     |    Tidak    |     Tidak      |        -             |        No_Hp Admin            |
 
 
-* TABLE Customer
+* TABLE Customer<br>
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
 | Id_Customer     | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto ustomer         |
