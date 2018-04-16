@@ -69,6 +69,7 @@ Sublime text 3
 | Password        | Varcahar  |    20     |    Tidak    |     Tidak      |        -             |        Password Admin         |
 | No_Hp           | Integer   |    15     |    Tidak    |     Tidak      |        -             |        No_Hp Admin            |
 
+
 * TABLE Customer
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
