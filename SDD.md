@@ -113,12 +113,14 @@ Sublime text 3
 <br>
 
 * TABLE Data_toko<br><br>
+
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
 | Id_toko         | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Toko            |
 | Nama_toko       | Varchar   |    50     |    Tidak    |     Tidak      |        -             |       Nama unik toko          |
 | Alamat_toko     | Varchar   |    50     |    Tidak    |     Tidak      |        -             |        Alamat toko            |
 | Keterangan_toko | Varcahar  |    50     |    Tidak    |     Tidak      |        -             |  Ketarangan tambahan toko     |
+
 <br>
 
 * TABLE Detail_order<br><br>
