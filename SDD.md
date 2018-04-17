@@ -90,7 +90,7 @@ Sublime text 3
 
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
-| Id_Makanan      | Varchar   |    15     | Primary key |      Iya       | Id_Makanan pada Makanan | Relasi untuk menampilkan Makanan |
+| Id_Makanan      | Varchar   |    15     | Primary key |      Iya       | Id_Makanan pada Makanan | Relasi untuk menampilkan Menu Makanan |
 | Nama_makanan    | Varchar   |    50     |    Tidak    |     Tidak      |        -             |         Nama Makanan          |
 | Harga_makanan   | VInteger  |    15     |    Tidak    |     Tidak      |        -             |        Harga Pada makanan     |
 | Foto            | Blob      |     -     |    Tidak    |     Tidak      |        -             |       Foto Makanan            |
@@ -102,16 +102,37 @@ Sublime text 3
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
 | Id_order        | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Customer         |
-| id_customer     | Varchar   |    15     | Foreign key |      Iya       | Id_customer dari Customer|  |
-| id_kurir        | Varchar   |    15     | Foreign key |      Iya       | Id_kurir dari kurir      |        Email Customer         |
-| id_seller       | Integer   |     5     | Foreign key |      Iya       | Id_seller dari seller    |        Password Customer      |
+| id_customer     | Varchar   |    15     | Foreign key |      Iya       | Id_customer dari Customer|                           |
+| id_kurir        | Varchar   |    15     | Foreign key |      Iya       | Id_kurir dari kurir      |                           |
+| id_seller       | Integer   |     5     | Foreign key |      Iya       | Id_seller dari seller    |                           |
 |status_penjualan | Tinyint   |     1     |    Tidak    |     Tidak      |        -             |    Status penjualan aktif/off     |
 |status_pengiriman| Tinyint   |     1     |    Tidak    |     Tidak      |        -             |    status pengiriman jarak        |
 |konfirmasi_kurir | Tinyint   |     1     |    Tidak    |     Tidak      |        -             |Tracking kurir untuk mengirim orderan|
 |konfirmasi_customer | Tinyint   |  1     |    Tidak    |     Tidak      |        -             |Konfirmasi Orderan dari customer|
 
 <br>
-#### 2.2.1 Definisi Domain/type
+
+* TABLE Data_toko<br><br>
+|   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
+|-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
+| Id_toko         | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Toko            |
+| Nama_toko       | Varchar   |    50     |    Tidak    |     Tidak      |        -             |       Nama unik toko          |
+| Alamat_toko     | Varchar   |    50     |    Tidak    |     Tidak      |        -             |        Alamat toko            |
+| Keterangan_toko | Varcahar  |    50     |    Tidak    |     Tidak      |        -             |  Ketarangan tambahan toko     |
+<br>
+
+* TABLE Detail_order<br><br>
+
+|   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
+|-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
+| id_detail       | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Detail order    |
+| id_order        | Varchar   |    50     | Foreign key |     Tidak      |        -             |       Id order                |
+| id_makanan      | Varchar   |    30     | Foreign key |     Tidak      |        -             |       Id menu makanan         |
+| kuantitas       | Varcahar  |    20     |    Tidak    |     Tidak      |        -             |                               |
+| keterangan      | Integer   |    15     |    Tidak    |     Tidak      |        -             |  keterangan tambahan order    |
+
+
+#### 2.2.1 Definisi Domain/type<br>
 #### 2.2.2 Conceptual Data Model
 <div style="text-align:center"><img src="http://i66.tinypic.com/jfetf4.png"/></div><br>
 
