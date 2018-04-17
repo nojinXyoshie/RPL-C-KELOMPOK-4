@@ -274,6 +274,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 	<td><p align="center">Tambah Produk Baru</td>
 	<td><p align="center">Seller dapat menambahkan produk/makanan baru</td>
 </tr>
+</table>
 
 
 #### 2.1.3 Antarmuka perangkat keras
