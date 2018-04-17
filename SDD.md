@@ -182,8 +182,8 @@ Sublime text 3
 
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1 (mengelola data customer)
-<div style="text-align:center"><img src="http://i67.tinypic.com/2hp24uu.jpg"/></div><br>
-DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+<div style="text-align:center"><img src="http://i65.tinypic.com/ruoabt.jpg"/></div><br>
+DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola data customer terdapat 4 proses yaitu menambah data customer,menghapus data customer,mengubah data customer,melihat data customer.
 
 #### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
 <div style="text-align:center"><img src="http://i63.tinypic.com/nporxk.jpg"/></div><br>
