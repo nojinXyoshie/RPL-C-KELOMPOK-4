@@ -30,7 +30,7 @@ proses pengembangan maupun perubahan fitur di masa yang akan datang. Dengan doku
 ini diharapkan pengembang perangkat lunak akan dimudahkan dalam perubahan fitur dari
 perangkat lunak tersebut.<br>
 
-#### 1.2 Lingkup
+#### 1.2 Lingkup 
 Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management proyek RPL berbasis dekstop, ruang lingkup system ini mencangkup informasi mengenai antarmuka dari system tersebut.
 #### 1.3 Definisi, akronim, dan singkatan
 - SRS (Software Requirement Specification)
@@ -175,15 +175,17 @@ Sublime text 3
 
 ### Bab 3 : Deskripsi Perancangan Rinci ###
 #### 3.1 Diagram Konteks
+Diagram konteks adalah diagram yang terdiri dari suatu proses dan menggambarkan ruang lingkup suatu sistem. Diagram konteks merupakan level tertinggi dari DFD yang menggambarkan seluruh input ke dalam sistem atau output dari sistem yang memberi gambaran tentang keseluruhan sistem. Sistem dibatasi oleh boundary (Digambarkan dengan garis putus - putus). Dalam diagram konteks hanya ada satu proses, tidak boleh ada store dalam diagram konteks. Berikut ini adalah gambar diagram konteks dari sistem Aplikasi Ayo Mangan.<br>
 <div style="text-align:center"><img src="http://i64.tinypic.com/121coxh.jpg"/></div>
 
 #### 3.1.1 DFD level 0
+Flow Data Flow Diagram merupakan cara untuk memodelkan proses dalam analisis dan perancangan perangkat lunak, dan merupakan penjelasan dari context diagram. Dalam aplikasi ini terdapat 8 proses yaitu mengelola customer,mengelola order,mengelola review,mengelola seller,mengelola data_toko,mengelola data_makanan,mengelola kurir,mengelola admin.<br>
 <div style="text-align:center"><img src="http://i64.tinypic.com/2992d4.jpg"/></div><br>
-
+Data 
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1 (mengelola data customer)
+DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola data customer terdapat 4 proses yaitu menambah data customer,menghapus data customer,mengubah data customer,melihat data customer.<br>
 <div style="text-align:center"><img src="http://i65.tinypic.com/ruoabt.jpg"/></div><br>
-DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola data customer terdapat 4 proses yaitu menambah data customer,menghapus data customer,mengubah data customer,melihat data customer.
 
 #### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
 <div style="text-align:center"><img src="http://i63.tinypic.com/nporxk.jpg"/></div><br>
