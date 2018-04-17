@@ -175,10 +175,10 @@ Sublime text 3
 
 ### Bab 3 : Deskripsi Perancangan Rinci ###
 #### 3.1 Diagram Konteks
-<div style="text-align:center"><img src="http://i64.tinypic.com/2yl8hg2.jpg"/></div>
+<div style="text-align:center"><img src="http://i64.tinypic.com/121coxh.jpg"/></div>
 
 #### 3.1.1 DFD level 0
-<div style="text-align:center"><img src="http://i63.tinypic.com/2lxcx85.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i64.tinypic.com/2992d4.jpg"/></div><br>
 
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1 (mengelola data customer)
