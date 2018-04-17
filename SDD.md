@@ -139,6 +139,20 @@ Sublime text 3
 | kuantitas       | Varcahar  |    20     |    Tidak    |     Tidak      |        -             |                               |
 | keterangan      | Integer   |    15     |    Tidak    |     Tidak      |        -             |  keterangan tambahan order    |
 
+<br>
+
+* TABLE kurir<br><br>
+
+|   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
+|-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
+| id_kurir        | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Detail order    |
+| id_seller       | Varchar   |    50     | Foreign key |     Tidak      |        -             |       Idseller                |
+| nama_kurir      | Varchar   |    30     |    Tidak    |     Tidak      |        -             |     menampilkan nama kurir    |
+| email           | Varcahar  |    20     |    Tidak    |     Tidak      |        -             |       email pengguna kurir    |
+| password        | Varcahar  |    15     |    Tidak    |     Tidak      |        -             |    password pengguna kurir    |
+| no_hp           | Integer   |    20     |    Tidak    |     Tidak      |        -             |       no_hp pengguna kurir    |
+| status          | tinyint   |     1     |    Tidak    |     Tidak      |        -             |           status on/off       |
+
 
 #### 2.2.1 Definisi Domain/type<br>
 #### 2.2.2 Conceptual Data Model
