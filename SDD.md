@@ -181,7 +181,7 @@ Diagram konteks adalah diagram yang terdiri dari suatu proses dan menggambarkan 
 #### 3.1.1 DFD level 0
 Flow Data Flow Diagram merupakan cara untuk memodelkan proses dalam analisis dan perancangan perangkat lunak, dan merupakan penjelasan dari context diagram. Dalam aplikasi ini terdapat 8 proses yaitu mengelola customer,mengelola order,mengelola review,mengelola seller,mengelola data_toko,mengelola data_makanan,mengelola kurir,mengelola admin.<br>
 <div style="text-align:center"><img src="http://i64.tinypic.com/2992d4.jpg"/></div><br>
-Data 
+
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1 (mengelola data customer)
 DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola data customer terdapat 4 proses yaitu menambah data customer,menghapus data customer,mengubah data customer,melihat data customer.<br>
