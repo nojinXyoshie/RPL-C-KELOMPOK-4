@@ -238,6 +238,43 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 </table>
 
+#### * Seller<br>
+<table>
+<tr>
+	<td><p align="center">Mock up</td>
+	<td><p align="center">Nama mock up</td>
+	<td><p align="center">Keterangan</td>
+<tr>
+	<td><p align="center"><img src="http://i66.tinypic.com/2eulyjb.png"></p></td>
+	<td><p align="center">Splash</td>
+	<td><p align="center">saat costomer membuka aplikasi</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/rkoshz.png"></td>
+	<td><p align="center">Masuk</td>
+	<td><p align="center">saat customer masuk aplikasi (menggunakan email dan kata sandi)</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i66.tinypic.com/jjbd6q.png"></td>
+	<td><p align="center">Profil Toko</td>
+	<td><p align="center">Profile toko seller</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i63.tinypic.com/2ijgn6u.png"></td>
+	<td><p align="center">Toko</td>
+	<td><p align="center">Menu</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i66.tinypic.com/28me3wl.png"></td>
+	<td><p align="center">List Orderan Sampai</td>
+	<td><p align="center">Setelah kurir mengkonfirmasi orderan sampai, maka seller dapat melihat list orderan yg sudah sampai</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/6ga2q9.png"></td>
+	<td><p align="center">Tambah Produk Baru</td>
+	<td><p align="center">Seller dapat menambahkan produk/makanan baru</td>
+</tr>
+
 
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
