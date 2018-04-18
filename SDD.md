@@ -346,7 +346,7 @@ DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola 
 <div style="text-align:center"><img src="http://i65.tinypic.com/ruoabt.jpg"/></div><br>
 
 #### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
-<div style="text-align:center"><img src="http://i63.tinypic.com/nporxk.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i64.tinypic.com/egpteh.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.3 DFD Level 1 : Proses 3 (mengelola data riview)
