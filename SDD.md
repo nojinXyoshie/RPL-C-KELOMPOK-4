@@ -44,11 +44,11 @@ Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi management pr
 * Eka Ismantohadi & Moh. Yani, Software Design Document (SDD). 2018<br>
 * Tri Suwarno, Dokumen Persyratan Perangkat Lunak. 2013<br>
 #### 1.5 Ikhtisar dokumen
-BAB I : PENDAHULUAN <br>
+##### BAB I : PENDAHULUAN <br>
 Berisi overview perangkat lunak yang merupakan ringkasan terhadap kemampuan aplikasisecara umum. <br>
-BAB II : DESKRIPSI PERANCANGAN GLOBAL<br>
+##### BAB II : DESKRIPSI PERANCANGAN GLOBAL<br>
 Berisi perancangan global dari perangkat lunak yang meliputi perancangan lingkungan operasidimana perangkat lunak akan dioperasikan, deskripsi dari data yang digunakan oleh perangkatlunak, serta dekomposisi lojik dari modul-modul perangkat lunak.<br>
-BAB III	: DESKRIPSI PERANCANGAN RINCI<br>
+##### BAB III	: DESKRIPSI PERANCANGAN RINCI<br>
 Berisi deskripsi lengkap dan rinci dari kebutuhan perangkat lunak yang meliputi deskripsi rincidari tabel yang digunakan, perincian dari setiap fungsi yang ada pada rancangan global,dekomposisi fisik dari modul –modul perangkat lunak, serta matriks kerunutan yangmenggambarkan keterkaitan antara perancangan dengan spesifikasi kebutuhan.<br>
 
 ### Bab 2 : Deskripsi Perancangan Global ###
