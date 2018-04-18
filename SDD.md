@@ -359,6 +359,7 @@ DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola 
 
 #### 3.2.5 DFD Level 1 : Proses 5 (mengelola data toko)
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+<div style="text-align:center"><img src="http://i67.tinypic.com/2jg1pfk.jpg"/></div><br>
 
 #### 3.2.2 DFD Level 1 : Proses 6 (mengelola data makanan)
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
