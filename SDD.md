@@ -370,6 +370,7 @@ DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1
 
 #### 3.2.2 DFD Level 1 : Proses 8 (mengelola data admin)
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+<div style="text-align:center"><img src="http://i68.tinypic.com/2nk75t5.jpg"/></div><br>
 
 #### 3.3 Dekommposisi Data
 (tabel-tabel database yang digunakan pada DFD)
