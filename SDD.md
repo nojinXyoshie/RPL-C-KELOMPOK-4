@@ -201,7 +201,8 @@ Sublime text 3<br>
 
 <br>
 
-* TABLE Customer
+* TABLE Customer<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | id_customer     | Primary key|
@@ -215,6 +216,7 @@ Sublime text 3<br>
 <br>
 
 * TABLE Data_makanan<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | Id_Makanan      | Varchar   |
@@ -238,7 +240,9 @@ Sublime text 3<br>
 |konfirmasi_customer | Tinyint   |
 
 <br>
+
 * TABLE Data_toko<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | Id_toko         | Varchar   | 
@@ -249,6 +253,7 @@ Sublime text 3<br>
 <br>
 
 * TABLE Detail_toko<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | id_detail       | Varchar   |
@@ -260,6 +265,7 @@ Sublime text 3<br>
 <br>
 
 * TABLE Kurir<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | id_kurir        | Varchar   |
@@ -273,6 +279,7 @@ Sublime text 3<br>
 <br>
 
 * TABLE Review<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | id_review       | Varchar   |
@@ -284,6 +291,7 @@ Sublime text 3<br>
 <br>
 
 * TABLE Seller<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | id_seller       | Varchar   |
@@ -297,6 +305,7 @@ Sublime text 3<br>
 <br>
 
 * TABLE Status_riview<br><br>
+
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
 | id_status       | Varchar   |
