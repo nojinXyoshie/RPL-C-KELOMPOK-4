@@ -228,11 +228,11 @@ DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola 
 <div style="text-align:center"><img src="http://i65.tinypic.com/ruoabt.jpg"/></div><br>
 
 #### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
-<div style="text-align:center"><img src="http://i63.tinypic.com/nporxk.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i67.tinypic.com/dbtvfr.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.3 DFD Level 1 : Proses 3 (mengelola data riview)
-<div style="text-align:center"><img src="http://i66.tinypic.com/291hr80.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i66.tinypic.com/14e9rm0.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.4 DFD Level 1 : Proses 4 (mengelola data seller)
@@ -246,7 +246,7 @@ DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.2 DFD Level 1 : Proses 7 (mengelola data kurir)
-<div style="text-align:center"><img src="http://i65.tinypic.com/2m81w28.gif"/></div><br>
+<div style="text-align:center"><img src="http://i63.tinypic.com/abq90l.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.3 Dekommposisi Data
