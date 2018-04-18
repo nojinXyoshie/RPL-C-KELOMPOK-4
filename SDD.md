@@ -127,7 +127,7 @@ Sublime text 3<br>
 
 <br>
 
-* TABLE Detail_order<br><br>
+* TABLE Data_detail_toko<br><br>
 
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
@@ -193,7 +193,116 @@ Sublime text 3<br>
 
 |    Domain Type  |  Deskripsi |
 |-----------------|------------|
-|
+| id_admin        | Primary key|
+| Nama            |   Varchar  |
+| Email           |   Varchar  |
+| Password        |   Varcahar |
+| No_Hp           |   Integer  |
+
+<br>
+
+* TABLE Customer
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| id_customer     | Primary key|
+| Nama_Customer   | Varchar   |
+| Email           | Varchar   |
+| Password        | Varcahar  |
+| No_Hp           | Integer   |
+| Alamat          | Varcahar  |
+| Status          | Tinyint   |
+
+<br>
+
+* TABLE Data_makanan<br><br>
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| Id_Makanan      | Varchar   |
+| Nama_makanan    | Varchar   |
+| Harga_makanan   | VInteger  |
+| Foto            | Blob      |
+
+<br>
+
+* TABLE Data_order<br><br>
+
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| Id_order        | Varchar   |
+| id_customer     | Varchar   |
+| id_kurir        | Varchar   |
+| id_seller       | Integer   |
+|status_penjualan | Tinyint   |
+|status_pengiriman| Tinyint   |
+|konfirmasi_kurir | Tinyint   |
+|konfirmasi_customer | Tinyint   |
+
+<br>
+* TABLE Data_toko<br><br>
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| Id_toko         | Varchar   | 
+| Nama_toko       | Varchar   |
+| Alamat_toko     | Varchar   |
+| Keterangan_toko | Varcahar  |
+
+<br>
+
+* TABLE Detail_toko<br><br>
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| id_detail       | Varchar   |
+| id_order        | Varchar   |
+| id_makanan      | Varchar   |
+| kuantitas       | Varcahar  |
+| keterangan      | Integer   |
+
+<br>
+
+* TABLE Kurir<br><br>
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| id_kurir        | Varchar   |
+| id_seller       | Varchar   |
+| nama_kurir      | Varchar   |
+| email           | Varcahar  |
+| password        | Varcahar  |
+| no_hp           | Integer   |
+| status          | tinyint   |
+
+<br>
+
+* TABLE Review<br><br>
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| id_review       | Varchar   |
+| id_seller       | Varchar   |
+| id_customer     | Varchar   |
+| id_status       | Varcahar  |
+| pesan           | Varcahar  |
+
+<br>
+
+* TABLE Seller<br><br>
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| id_seller       | Varchar   |
+| id_toko         | Varchar   |
+| nama_seller     | Varchar   |
+| email           | Varcahar  |
+| password        | Varcahar  |
+| no_hp           | Integer   |
+| status          | tinyint   |
+
+<br>
+
+* TABLE Status_riview<br><br>
+|    Domain Type  |  Deskripsi |
+|-----------------|------------|
+| id_status       | Varchar   |
+| Arah review     | tinyint   |
+
+<br><br>
 
 #### 2.2.2 Conceptual Data Model
 <div style="text-align:center"><img src="http://i66.tinypic.com/jfetf4.png"/></div><br>
@@ -228,11 +337,11 @@ DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola 
 <div style="text-align:center"><img src="http://i65.tinypic.com/ruoabt.jpg"/></div><br>
 
 #### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
-<div style="text-align:center"><img src="http://i67.tinypic.com/dbtvfr.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i63.tinypic.com/nporxk.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.3 DFD Level 1 : Proses 3 (mengelola data riview)
-<div style="text-align:center"><img src="http://i66.tinypic.com/14e9rm0.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i66.tinypic.com/291hr80.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.4 DFD Level 1 : Proses 4 (mengelola data seller)
@@ -246,7 +355,7 @@ DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.2 DFD Level 1 : Proses 7 (mengelola data kurir)
-<div style="text-align:center"><img src="http://i63.tinypic.com/abq90l.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i65.tinypic.com/2m81w28.gif"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.3 Dekommposisi Data
