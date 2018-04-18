@@ -139,7 +139,7 @@ Sublime text 3<br>
 
 <br>
 
-* TABLE kurir<br><br>
+* TABLE Kurir<br><br>
 
 |   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
 |-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
@@ -151,6 +151,42 @@ Sublime text 3<br>
 | no_hp           | Integer   |    20     |    Tidak    |     Tidak      |        -             |       no_hp pengguna kurir    |
 | status          | tinyint   |     1     |    Tidak    |     Tidak      |        -             |           status on/off       |
 
+<br>
+
+* TABLE Review<br><br>
+
+|   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
+|-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
+| id_review       | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Detail order    |
+| id_seller       | Varchar   |    15     | Foreign key |     Tidak      | id_seller pada seller| Relasi untuk mneampilkan seller|
+| id_customer     | Varchar   |    15     | Foreign key |     Tidak      | id_customer pada customer|Relasi untuk menampilkan customer|
+| id_status       | Varcahar  |    15     | Foreign key |     Tidak      | id_status pada status|Relasi untuk menampilkan status|
+| pesan           | Varcahar  |    50     |    Tidak    |     Tidak      |        -             |Menampilkan pesan pada status
+
+<br>
+
+* TABLE Seller<br><br>
+
+|   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
+|-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
+| id_seller       | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Detail order    |
+| id_toko         | Varchar   |    15     | Foreign key |     Tidak      | Id_toko pada seller  |    Relasi menampilkan toko    |
+| nama_seller     | Varchar   |    50     |    Tidak    |     Tidak      |        -             |     menampilkan nama seller   |
+| email           | Varcahar  |    25     |    Tidak    |     Tidak      |        -             |       email pengguna seller   |
+| password        | Varcahar  |    15     |    Tidak    |     Tidak      |        -             |    password pengguna seller   |
+| no_hp           | Integer   |    15     |    Tidak    |     Tidak      |        -             |       no_hp pengguna seller   |
+| status          | tinyint   |     1     |    Tidak    |     Tidak      |        -             |           status on/off       |
+
+<br>
+
+* TABLE Status_riview<br><br>
+
+|   Nama Field    |   Jenis   |   Volume  |   Laju      |   Primary Key  | Constraint integrity |     Deskripsi                 |
+|-----------------|-----------|-----------|-------------|----------------|----------------------|-------------------------------|
+| id_status       | Varchar   |    15     | Primary key |      Iya       | Auto_increment       |       Id Auto Detail order    |
+| Arah review     | tinyint   |     1     |    tidak    |     Tidak      |         -            |     Menampilkan arah review   |
+
+<br>
 
 #### 2.2.1 Definisi Domain/type<br>
 #### 2.2.2 Conceptual Data Model
