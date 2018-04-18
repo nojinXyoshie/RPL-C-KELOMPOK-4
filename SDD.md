@@ -53,17 +53,15 @@ Berisi deskripsi lengkap dan rinci dari kebutuhan perangkat lunak yang meliputi 
 
 ### Bab 2 : Deskripsi Perancangan Global ###
 #### 2.1 Rancangan Lingkungan Implementasi
-Pada Proses Pembuatan Aplikasi, hal-hal yang mendukung dalam pemrosesan pembuatan aplikasi seperti :
-a. Bahasa Pemrograman
+Pada Proses Pembuatan Aplikasi, hal-hal yang mendukung dalam pemrosesan pembuatan aplikasi seperti :<br>
+a. Bahasa Pemrograman<br>
 Pada Admin (Web) menggunakan bahasa pemrograman PHP, HTML, Bootstrap dan CSS.
-Pada costomer, seller, & kurir (Mobile) dalam pembuatannya menggunakan bahasa pemrograman android (java).
-
-b. DBMS
-DBMS yang digunakan adalah Mysql 
-
-c. Development Tools
+Pada costomer, seller, & kurir (Mobile) dalam pembuatannya menggunakan bahasa pemrograman android (java).<br>
+b. DBMS<br>
+DBMS yang digunakan adalah Mysql<br>
+c. Development Tools<br>
 Android Studio
-Sublime text 3
+Sublime text 3<br>
 
 #### 2.2 Deskripsi Data<br>
 
