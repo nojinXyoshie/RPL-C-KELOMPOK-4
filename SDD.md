@@ -218,19 +218,19 @@ Flow Data Flow Diagram merupakan cara untuk memodelkan proses dalam analisis dan
 
 #### 3.2 Dekommposisi Proses Konkuren
 #### 3.2.1 DFD Level 1 : Proses 1 (mengelola data customer)
-DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola data customer terdapat 4 proses yaitu menambah data customer,menghapus data customer,mengubah data customer,melihat data customer.<br>
+DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 Proses 1 mengelola data customer terdapat 4 proses yaitu menambah data customer,menghapus data customer,mengubah data customer,melihat data customer.<br>
 <div style="text-align:center"><img src="http://i65.tinypic.com/ruoabt.jpg"/></div><br>
 
 #### 3.2.2 DFD Level 1 : Proses 2 (mengelola data order)
-<div style="text-align:center"><img src="http://i63.tinypic.com/nporxk.jpg"/></div><br>
-DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
+DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 Proses 2 mengelola data order melibatkan 4 user yakni seller, customer, kurir , dan admin . Terdapat 6 proses yaitu menambah data order,menghapus data order,mengubah data order,melihat data order, teruskan order, konfirmasi orderan sampai<br>
+<div style="text-align:center"><img src="http://i67.tinypic.com/dbtvfr.jpg"/></div><br>
 
 #### 3.2.3 DFD Level 1 : Proses 3 (mengelola data riview)
 <div style="text-align:center"><img src="http://i66.tinypic.com/291hr80.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.4 DFD Level 1 : Proses 4 (mengelola data seller)
-DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 mengelola data seller terdapat 4 proses yaitu menambah data seller,menghapus data seller,mengubah data seller,melihat data seller.<br>
+DFD level 1 merupakan rincian dari dari level 0, dan pada dfd level 1 Proses 4 mengelola data seller terdapat 4 proses yaitu menambah data seller,menghapus data seller,mengubah data seller,melihat data seller.<br>
 <div style="text-align:center"><img src="http://i66.tinypic.com/2rnu1dg.jpg"/></div><br>
 
 #### 3.2.5 DFD Level 1 : Proses 5 (mengelola data toko)
