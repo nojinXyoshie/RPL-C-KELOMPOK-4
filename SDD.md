@@ -365,7 +365,7 @@ DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.2 DFD Level 1 : Proses 7 (mengelola data kurir)
-<div style="text-align:center"><img src="http://i67.tinypic.com/w9tqgo.jpg"/></div><br>
+<div style="text-align:center"><img src="http://i64.tinypic.com/sniis9.jpg"/></div><br>
 DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1 yg menjelaskan ...
 
 #### 3.2.2 DFD Level 1 : Proses 8 (mengelola data admin)
