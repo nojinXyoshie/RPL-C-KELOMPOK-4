@@ -389,7 +389,7 @@ DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1
 #### 3.3.1.2 Spesifikasi Layar Utama
 
 <p align="center">
-<img src="http://i68.tinypic.com/2r6fz1g.jpg"/>
+<img src="http://i68.tinypic.com/oh8gtj.png"/>
 </p>
 
 #### 3.3.1.3 Spesifikasi Query
