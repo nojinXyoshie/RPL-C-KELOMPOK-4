@@ -392,7 +392,7 @@ DFD Level 1 ini penjelasan dari DFD level 0 yang sebelumnya, Berikut DFD level 1
 <img src="http://i64.tinypic.com/1563b0h.png"/>
 </p> <br>
 <p align="center"> 
-http://i64.tinypic.com/dyp17a.png
+http://i64.tinypic.com/dyp17a.jpg
 </p> <br>
 <p align="center">
 http://i68.tinypic.com/2gwx0cm.png
