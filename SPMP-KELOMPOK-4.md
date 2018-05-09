@@ -131,7 +131,7 @@ Dalam projek yang kami buat maka aplikasi yang  kelola oleh admin diakses melalu
 
 Proyek ini akan dilaksanakan menggunakan beberapa tools, metoda dan teknologi yang mendukung yaitu :
 - Bootstrap
-- CodeIgniter
+- PHP
 - Sublime
 - MySql
 - Android studio
@@ -179,9 +179,10 @@ Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing
 
 2. Kebutuhan Software :
 - XAMPP
-- Android
+- Android Studio
 - Balsamiq moockup
-- Microsoft visio
+- Microsoft visio & E-Draw
+- Sublime
 
 3. Kebutuhan Hardware :
 - PC/Laptop
