@@ -69,18 +69,18 @@ Lunak, Identifikasi dan Rencana Pengujian.
 ###1.4.1 Definisi
 - SRS atau Software Requirements Spesification adalah dokumen yang mendeskrpisikan spesifikasi kebutuhan dari aplikasi yang akan dibuat. Pada dokumen ini dijelaskan bagaimana dan seperti apa rancangan aplikasi tersebut.<br><br>
 
-###1.4.2 Singkatan
+####1.4.2 Singkatan
 
 #### Dokumen Referensi
 
 #### 2 Lingkungan Pengujian Perangkat Lunak
 
-###2.1 Perangkat lunak Pengujian
+####2.1 Perangkat lunak Pengujian
 Aplikasi ini diujikan dengan beberapa perangkat lunak lain seperti :
 Sistem Oprasi : linux dan windows 10
 Database : Mysql
 <br><br>
-### 2.2 Perangkat Keras Pengujian
+#### 2.2 Perangkat Keras Pengujian
 perangkat keras yang digunakan pada Aplikasi Pemesanan ini adalah satu set PC/Laptop dan Smartphone Android:
 - PC/Laptop
 * Processor :
