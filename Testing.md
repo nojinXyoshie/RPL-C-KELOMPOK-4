@@ -66,16 +66,16 @@ Pada Dokumen Software Testing Document(STD) terdapat 3 bagian yaitu Pendahuluan,
 Lunak, Identifikasi dan Rencana Pengujian.
 
 #### 1.4 Definisi dan Singkatan
-###1.4.1 Definisi
+#### 1.4.1 Definisi
 - SRS atau Software Requirements Spesification adalah dokumen yang mendeskrpisikan spesifikasi kebutuhan dari aplikasi yang akan dibuat. Pada dokumen ini dijelaskan bagaimana dan seperti apa rancangan aplikasi tersebut.<br><br>
 
-####1.4.2 Singkatan
+#### 1.4.2 Singkatan
 
 #### Dokumen Referensi
 
 #### 2 Lingkungan Pengujian Perangkat Lunak
 
-####2.1 Perangkat lunak Pengujian
+#### 2.1 Perangkat lunak Pengujian
 Aplikasi ini diujikan dengan beberapa perangkat lunak lain seperti :
 Sistem Oprasi : linux dan windows 10
 Database : Mysql
