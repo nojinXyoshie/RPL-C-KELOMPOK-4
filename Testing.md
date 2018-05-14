@@ -1,16 +1,15 @@
-
 <html>
 <body>
-<body><div align="center"><h1>Software Testing Documen</h1></div>
+<body><div align="center"><h1>Software Testing Document</h1></div>
 <p align="center"><b>Version 1.0 </b><br>
-<p align="center">15 Mei 2018<br><br>
+<p align="center">09 Mei 2018<br><br>
 <p align="center">
 <img src="http://i68.tinypic.com/nlyf5v.jpg"/>
 </p>
 <br><p align="center"><b> APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID </b><br>
 
 <p align="center"><b>Kelompok 4</b><br>
- Irin Windiyati 			(1603173)<br>
+ Irin Windiyati 			(1603073)<br>
  Dina Micela				  (1603066)<br>
  Nunung Nurhayati			(1603081)<br>
  Yoshie Pangestu    	(1603089)<br><br><br>
@@ -22,66 +21,35 @@
 </body>
 </html>
 
-
 ### BAB I : Pendahuluan
+#### 1.1 Tujuan Pembuatan Dokumen
+Dokumen ini dibuat sebagai pengujian terhadap perangkat lunak pada Sistem Aplikasi pada Android yaitu Pemesanan Makanan.
+Dokumen ini dipakai untuk melihat kemampuan dari program yang telah dirancang agar sesuai dengan perancangan sistem
+yang telah dibuat dan sesuai dengan keinginan pengguna. Sehingga, menghasilkan suatu aplikasi sistem yang dapat
+mempermudah proses Pemesanan Makanan yang umumnya dilakukan secara manual. Pembuatan Dokumen ini ditunjukan untuk
+menguji perangkat lunak Pemesanan makanan Berbasis Android yang merupakan bagian dari Tugas mata kuliah Rekayasa
+perangkat Lunak.
 
-### 1.1 Tujuan Pembuatan Dokumen
-Dokumen ini digunakan sebagai panduan untuk melakukan pengujian terhadap perangkat lunak Sistem APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID , untuk melihat kemampuan dari program yang telah dirancang agar sesuai dengan keinginan dari pengguna. Pembuatan dokumen ini ditujukan untuk menguji perangkat lunak  yang merupakan bagian dari tugas mata kuliah Rekayasa Perangkat Lunak.
-### 1.2 Deskripsi Umum Sistem
-Perangkat lunak yang akan diuji adalah “APLIKASI PEMESANAN MAKANAN BERBASIS ANDROID”. Perangkat lunak ini adalah aplikasi pemesanan makanan berbasis android .
-### 1.3 Deskripsi Dokumen (Ikhtisar)
-### 1.4 Definisi dan Singkatan
--  SKPL adalah Spesifikasi Kebutuhan Perangkat Lunak, atau dalam bahasa Inggris-nya sering juga disebut sebagai Software Requirements Spesification (SRS), dan merupakan spesifikasi dari perangkat lunak yang akan dikembangkan
-
--  DFD adalah Data Flow Diagram, diagram dan notasi yang digunakan untuk menunjukkan aliran data pada perangkat lunak.
-
-- ERD adalah Entity Relationship Diagram, diagram dan notasi yang digunakan untuk merepresentasikan struktur data statis pada perangkat lunak.
-
-- DPPL-SPP.K-yyyy kode yang merepresentasikan kasus uji perangkat lunak pada Pencarian Pegawai dengan SPP adalah kode produk, DPPL adalah kode fase dan yyyy merupakan nomor kasus uji relative tehadap nomor SKPL.
-
-### 1.5 Dokumen Referensi
-IEEE. IEEE Std 830-1998 Praktik yang Direkomendasikan IEEE untuk Persyaratan Perangkat Lunak
-Spesifikasi. IEEE Computer Society, 1998.
-
-### BAB II : Lingkungan Pengujian Perangkat Lunak
-
-### 2.1 Perangkat Lunak Pengujian
-Perangkat lunak ini (SPP) diujikan dengan beberapa perangkat lunak lain, yaitu:<br>
--  Sistem operasi: Windows 7<br>
--  Bahasa pemrograman: PHP<br>
--  Database: XAMPP<br>
-
-### 2.2 Perangkat Keras Pengujian
-Perangkat keras yang diperlukan untuk menguji aplikasi SPP ini adalah satu set komputer dengan spesifikasi:<br>
--  Processor: intel i5 <br>
--  Memory: 8 GB DDR4<br>
--  Harddisk 500 GB<br>
-### 2.3 Sumber Daya Manusia
-Persyaratan sumber daya manusia yang akan terlibat dalam proses pengujian perangkat lunak ini adalah :<br>
-- Memahami konsep pemrograman berorientasi objek dalam bahasa PHP.<br>
-- Memahami proses pengujian perangkat lunak berorientasi objek.<br>
-- Memahami konsep pemrograman database XAMPP.<br>
-### 2.4 Prosedur Umum Pengujian
-### 2.4.1 Pengenalan dan Latihan
-Penguji aplikasi ini hanya diberikan latihan kembali tentang SQL, dan pengenalan lebih lanjut tentang Java dan android studio. Pada dasarnya penguji telah memiliki pengetahuan tentang hal yang disebutkan sebelumnya tetapi latihan yang diberikan hanya bersifat penyegaran kembali.
-### 2.4.2 Persiapan Awal
-### 2.4.2.1 Persiapan Prosedural
-Pengujian ini dilakukan di luar lingkungan kampus. Dimana pengujian ini dilakukan oleh tim penguji yang telah di tentukan oleh Dosen mata kuliah Rekayasa Perangkat Lunak (RPL). Alat yang digunakan 1 buah laptop dengan software yang telah di instalasi.
-### 2.4.2.2 Persiapan Perangkat Keras
-Perangkat keras yang perlu dipesiapkan adalah :<br>
-Sebuah perangkat komputer yang dilengkapi dengan :<br>
--  Processor: intel i5 <br>
--  Memory: 8 GB DDR4<br>
--  Harddisk 500 GB<br>
-### 2.4.2.3 Persiapan Perangkat Lunak
-Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di lingkungan sistem operasi Microsoft Windows 10 adalah sebagai berikut :<br>
-1. Persiapkan sistem operasi Microsoft Windows.<br>
-2. Perangkat lunak yang akan di uji di copy ke sebuah direktori, misalnya C:\XAMPP\htdocs.<br>
-3. Browser Google Chrome.<br>
-4. Database di import ke phpMyAdmin di database ayomangan.<br>
-5. Adobe Dreamweaver untuk melihat source code.<br>
-6. Android Studio untuk menjalankan PL
-### 2.4.3 Pelaksanaan
-Pelaksanaan pengujian dilakukan dengan mengeksekusi perangkat lunak SPP dengan mengikuti skenario tertentu yang dibuat berdasarkan skenario yang tedapat pada dokumen SKPL-SPP.
-### 2.4.4 Pelaporan Hasil
-Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan dievaluasi oleh asisten dan kelompok lain yang bertindak sebagai klien dari kelompok kami. Sehingga aplikasi mendapatkan umpan balik dalam pengembangan perangkat lunak ini selanjutnya.
+#### 1.2 Deskripsi Umum Sistem
+Pada umumnya sistem Pemesanan Makanan ini menggunakan aplikasi berbasis Android dimana para customer masih melakukan
+pemesanan makanan secara manual dimana customer harus memesan makanan langsung ke toko sedangkan customer memiliki
+kesibukan tersendiri sehingga memakan waktu dan tidak efesien. Selain itu pemesanan mkanan manual menggunakan banyak
+kertas sehingga terjadi pemborosan.
+<br>
+Untuk itu, kelompok 4 mempunyai gagasan yang dapat meminimilasirkan dari ketidak efesiennya Sistem Pemesanan Maknan
+yang masih secara manual yaitu, dengan cra membuat Aplikasi Pemesanan Makanan Berbasis Android. Aplikasi ini setiap
+Pemesanan makanan bisa diakses melalui Smartphone Android dan dapat diakses dimana saja dan kapan saja yang diinginkan.
+Aplikasi ini memiliki 4 user yaitu Customer, Seller, Kurir dan Admin, tetapi Admin diakses melalui  sistem Web.
+<br>
+Pada sistem Pemesanan Makanan ini terdapat beberapa Fungsi yaitu :
+* Customer dapat mengakses Aplikasi dimana saja dan kapan saja
+* Customer dapat memesana makanan di beberapa toko dan diantar di tempat
+* Customer daoat melihat jumlah makanan yang di pesan
+* Customer dapat membayar pesanan makanan ditempat
+* Customer dapat memberikan review ke Seller
+* Setelah Customer memesan makanan terdapat notifikasi pemesanan dari Customer
+* Seller dapat memilih kurir yang aktif
+* Seller dapat meneruskan pesanan makanan ke kurir
+* Seller dapat memberikan review ke Customer
+* kurir dapat notifikasi pesanan makanan dari seller
+* kurir dapat memberikan konfirmasi barang sampai ke seller
