@@ -384,7 +384,7 @@ Pengembangan Aplikasi pemesanan makanan berbasis mobile ini memiliki keterbatasa
 
 ### BAB III : Kebutuhan Spesifik.
 
-#### 3.1 kebutuhan antarmuka
+#### 3.1 Kebutuhan Antarmuka Eksternal
 
 Kebutuhan akan pengelolaan/management pada suatu instansi sangatlah penting dengan menimbang beberapa aspek yang saling mendukung, pada hal ini tertuju pada pebisnis rumahan yang berdomisili di Indramayu dimana penerapan management/pengelolaan pemesanan nya sudah semestinya menggunakan komputerisasi untuk dapat memperkecil terjadinya human error pada pengerjaannya. Seller dan Customer yang bersangkutan sangatlah terbantu untuk meningkatkan efesiensi waktu dikarenakan fitur dari aplikasi ini menunjang kedua pihak antara seller dan customer untuk dapat berjual-beli jarak jauh tanpa harus face to face, dengan ini juga kedua pihak antara seller dan cutomer dapat memantau kurir yang memngantarkan orderan melalui fitur tracking di dalam aplikasi.
 
@@ -413,9 +413,9 @@ Kebutuhan akan pengelolaan/management pemasaran  pada suatu pembisnis di bidang 
 | Referensi      | Bagian 2.1 Oder Makanan                                                    |
 | Trigger        | Membuka Aplikasi Ayo Mangan!, dan sudah terdaftar                          |
 | Precondition   | Menampilkan data menu makanan dan list orderan                             |
-| Basic Path     | Customer Login ke dalam Aplikasi                                           |
-|                | Customer Melihat Menu Makanan dan dan order makanan                        |
-|                | Aplikasi dapat menampilkan Menu makanan dan List orderan                   |
+| Basic Path     |1. Customer Login ke dalam Aplikasi                                           |
+|                |2.Customer Melihat Menu Makanan dan dan order makanan                        |
+|                |3. Aplikasi dapat menampilkan Menu makanan dan List orderan                   |
 | Alternative    | Tidak Ada                                                                  |
 | Post Condition | User dapat melihat Halaman utama Aplikasi dan dapat mengakses yang lainnya |
 | Exception Push | Tidak ada koneksi                                                          |
