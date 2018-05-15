@@ -95,7 +95,7 @@ perangkat keras yang digunakan pada Aplikasi Pemesanan ini adalah satu set PC/La
 Pada program Aplikasi Pemesanan Makanan Berbasis Android ini Customer dapat melakukan pemesanan makanan melaui
 aplikasi yang yang menggunakan Device(HP) yang digunakan. Dengan melakukan pendaftaran menggunkanan Email dan
 No Hp pengguna, satu email dan satu no hp yaitu satu pengguna, Dari User Customer, Seller dan Kurir menggunakan
-Email dan no hp sebagai register untuk dapat bergabung di Aplikasi "AYo MANGAN".
+Email dan no hp sebagai register untuk dapat bergabung di Aplikasi "AYO MANGAN".
 <br><br>
 Customer, Seller dan Kurir dapat melakukan bergabung apabila Admin telah membuka atau menyetujui hak akses untuk
 bergabung di Aplikasi AYO MANGAN, Jika Customer melakukan Pemesanan atau order dari berbagai toko yang dipilih
@@ -106,4 +106,11 @@ kemudian mengkonfirmasi barang sampai begitupun juga dengan kurir melakukan konf
 dan Seller dapat memberikan review.
 <br><br>
 Dari s=user Admin dapat mengelola data berupa Data Customer,Data Seller,Data Kurir dan Data Review
+<br><br>
 
+#### 2.4 Sumber Daya Manusia<br><br>
+Persyaratan sumber daya manusia yang akan terlibat dalam proses pengujian Aplikasi ini adalah :
+* Memahami konsep pemrograman berorientasi Objek
+* Memahami proses pengujian perangkat lunak berorientasi Objek
+* Memahami konsep pemrograman Database<br><br>
+#### 2.5 Prosedur Umum Pengujian
