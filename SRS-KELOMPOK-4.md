@@ -287,6 +287,21 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 	<td><p align="center">Login Admin</td>
 	<td><p align="center">Admin harus login terlebih dahulu sebelum masuk ke sistem</td>
 </tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/n6qowi.jpg"></p></td>
+	<td><p align="center">Dashboard Admin</td>
+	<td><p align="center">Tampilan awal admin, dimana adshboard terdapat jumlah customer, jumlah seller dan kurir</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i68.tinypic.com/2lm8hkx.png"></p></td>
+	<td><p align="center">Data Seller</td>
+	<td><p align="center">Admin dapat melihat data seller, admin juga dapat melihat detal toko dan dapat menghapus toko</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/2mhsbd3.png"></p></td>
+	<td><p align="center">Data Makanan</td>
+	<td><p align="center">Admin dapat melihat data makanan, admin juga dapat melihat detal makanan dan dapat menghapus makanan</td>
+</tr>
 </table>
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
