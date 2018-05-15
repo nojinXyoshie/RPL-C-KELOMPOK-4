@@ -90,4 +90,21 @@ perangkat keras yang digunakan pada Aplikasi Pemesanan ini adalah satu set PC/La
 * Versi     :
 * Ram       :
 * Memory    :
+<br><br>
+####2.3 Material Pengujian
+Pada program Aplikasi Pemesanan Makanan Berbasis Android ini Customer dapat melakukan pemesanan makanan melaui
+aplikasi yang yang menggunakan Device(HP) yang digunakan. Dengan melakukan pendaftaran menggunkanan Email dan
+No Hp pengguna, satu email dan satu no hp yaitu satu pengguna, Dari User Customer, Seller dan Kurir menggunakan
+Email dan no hp sebagai register untuk dapat bergabung di Aplikasi "AYo MANGAN".
+<tr>
+ <br>
+ Customer, Seller dan Kurir dapat melakukan bergabung apabila Admin telah membuka atau menyetujui hak akses untuk
+ bergabung di Aplikasi AYO MANGAN, Jika Customer melakukan Pemesanan atau order dari berbagai toko yang dipilih
+ maka terdapat notifikasi dan akan masuk ke Seller, Seller dapat melakukan accept dengan hanya menekan tombol buttom,
+ ketika Seller accept orderan dari Customer maka seller akan memilih kurir yang aktif lalu meneruskan orderan ke kurir,
+ lalu kurir accept terusan order dari seller dan mengirim barang ke tempat. Customer melakukan transaksi di tempat
+ kemudian mengkonfirmasi barang sampai begitupun juga dengan kurir melakukan konfirmasi barang sampai. Selain itu Customer
+ dan Seller dapat memberikan review.
+ <br><br>
+ Dari s=user Admin dapat mengelola data berupa Data Customer,Data Seller,Data Kurir dan Data Review
 
