@@ -287,7 +287,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 	<td><p align="center">Login Admin</td>
 	<td><p align="center">Admin harus login terlebih dahulu sebelum masuk ke sistem</td>
 </tr>
-
+</table>
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
 - PC
