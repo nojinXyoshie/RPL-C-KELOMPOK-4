@@ -276,6 +276,17 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 </tr>
 </table>
 
+#### * Admin<br>
+<table>
+<tr>
+	<td><p align="center">Mock up</td>
+	<td><p align="center">Nama mock up</td>
+	<td><p align="center">Keterangan</td>
+<tr>
+	<td><p align="center"><img src="http://i64.tinypic.com/21mfbqa.jpg"></p></td>
+	<td><p align="center">Login Admin</td>
+	<td><p align="center">Admin harus login terlebih dahulu sebelum masuk ke sistem</td>
+</tr>
 
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
