@@ -369,15 +369,6 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 <p align="center"><img src="http://i63.tinypic.com/351brzc.jpg"/></p>
 
 
-2.2.2 Seller
-<p align="center">
- <img src="http://i63.tinypic.com/jayidk.jpg/>
-</p>
-
-Deskripsi :
-Seller akan login terlebih dahulu lalu memilih kelola toko jika seller ingin mengubah detile tokonya, setelah mengubah detile tokonya seller juga dapat mengelola kurir. Seller akan menerima pesanan/orderan dari customer setelah itu pesanan akan dteruskan ke kurir agar kurir dapat melihan pesanan yg akan diantar
-Jika ada pesanan yg tidak sesuai dengan yg dipesan Seller dapat melihat review dari customer, seller dapat melihat tracking kurir untuk memastikan posisi orderan.<br>
-
 
 2.2.3 Kurir
 <p align="center"><img src="http://i64.tinypic.com/ifz76v.jpg"/></p>
