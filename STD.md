@@ -85,3 +85,127 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 Pelaksanaan pengujian dilakukan dengan mengeksekusi perangkat lunak SPP dengan mengikuti skenario tertentu yang dibuat berdasarkan skenario yang tedapat pada dokumen SKPL-SPP.
 ### 2.4.4 Pelaporan Hasil
 Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan dievaluasi oleh asisten dan kelompok lain yang bertindak sebagai klien dari kelompok kami. Sehingga aplikasi mendapatkan umpan balik dalam pengembangan perangkat lunak ini selanjutnya.
+
+
+<h2><br><strong>3 IDENTIFIKASI DAN RENCANA PENGUJIAN</strong></br></h2>
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>SPMP</td>
+		</tr>
+<tr>
+	<td rowspan="2" align="center"><strong>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+</thead>  
+</table>
+
+
+<h2><br><strong>4 DESKRIPSI DAN HASIL UJI</strong></br></h2>
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
