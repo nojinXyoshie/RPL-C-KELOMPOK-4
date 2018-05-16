@@ -370,7 +370,6 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 
 
 2.2.2 Seller
-
 <p align="center">
  <img src="http://i63.tinypic.com/jayidk.jpg/>
 </p>
