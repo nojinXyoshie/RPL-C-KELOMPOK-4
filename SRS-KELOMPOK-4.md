@@ -369,27 +369,29 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 <p align="center"><img src="http://i63.tinypic.com/351brzc.jpg"/></p>
 
 
-2.2.2 Kurir
-<p align="center"><img src="http://i64.tinypic.com/ifz76v.jpg"/></p>
-
-Deskripsi :
-Kurir akan login terlebih dahulu, lalu kurir menerima terusan pesanan/orderan dari seller setelah itu kurir bisa langsung tracking alamat customer dan kurir dapat menelfon customer jika ada trouble/masalah. Setelah barang sampai maka kurir akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
-
-2.2.3 Admin
-<p align="center"><img src="http://i65.tinypic.com/2dkn1n4.jpg"/></p>
-
-Deskripsi :
-Admin akan login terlebih dahulu, lalu admin dapat mengelola data seller, kurir dan customer stelah selesai mengelola data admin akan logout.
-
-
-2.2.4 Seller
+2.2.2 Seller
 <p align="center">
- <img src="http://i63.tinypic.com/jayidk.jpg/>
+<img src="http://i63.tinypic.com/jayidk.jpg"/>
 </p>
 
 Deskripsi :
 Seller akan login terlebih dahulu lalu memilih kelola toko jika seller ingin mengubah detile tokonya, setelah mengubah detile tokonya seller juga dapat mengelola kurir. Seller akan menerima pesanan/orderan dari customer setelah itu pesanan akan dteruskan ke kurir agar kurir dapat melihan pesanan yg akan diantar
 Jika ada pesanan yg tidak sesuai dengan yg dipesan Seller dapat melihat review dari customer, seller dapat melihat tracking kurir untuk memastikan posisi orderan.<br>
+
+
+2.2.3 Kurir
+<p align="center"><img src="http://i64.tinypic.com/ifz76v.jpg"/></p>
+
+Deskripsi :
+Kurir akan login terlebih dahulu, lalu kurir menerima terusan pesanan/orderan dari seller setelah itu kurir bisa langsung tracking alamat customer dan kurir dapat menelfon customer jika ada trouble/masalah. Setelah barang sampai maka kurir akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
+
+
+2.2.4 Admin
+<p align="center"><img src="http://i65.tinypic.com/2dkn1n4.jpg"/></p>
+
+Deskripsi :
+Admin akan login terlebih dahulu, lalu admin dapat mengelola data seller, kurir dan customer stelah selesai mengelola data admin akan logout.
+
 
 #### 2.3. Spesifikasi kebutuhan non-fungsional
 1. Usability <br>
