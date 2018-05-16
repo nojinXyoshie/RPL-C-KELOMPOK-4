@@ -295,4 +295,44 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 	</thead>
 </table>
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>SPMP</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Tambah Kurir pada seller</td>
+	<td>Menginput data biodata kurir yang benar</td>
+	<td></td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>Yoshie Pangestu</td>
+<tr>
+	<td>Menginput data dengan salah satu field tidak diisi</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>Yoshie Pangestu</td>
+</tr>
+<tr>
+	<td>Menginput data tanpa koneksi internet</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>Yoshie Pangestu</td>
+</tr>
 
+</thead>  
+</table>
