@@ -87,7 +87,7 @@ Pelaksanaan pengujian dilakukan dengan mengeksekusi perangkat lunak SPP dengan m
 Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan dievaluasi oleh asisten dan kelompok lain yang bertindak sebagai klien dari kelompok kami. Sehingga aplikasi mendapatkan umpan balik dalam pengembangan perangkat lunak ini selanjutnya.
 
 
-### BAB I : Identifikasi dan Rencana Pengujian
+### BAB III : Identifikasi dan Rencana Pengujian
 
 <table>  
 	<thead>  
@@ -124,7 +124,9 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 </table>
 
 
-<h2><br><strong>4 DESKRIPSI DAN HASIL UJI</strong></br></h2>
+
+### BAB IV : Deskripsi dan Hasil Uji
+
 <table>  
 	<thead> 
 		<tr>
