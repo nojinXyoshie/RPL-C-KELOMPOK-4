@@ -1,4 +1,3 @@
-
 <html>
 <body>
 <body><div align="center"><h1>Software Testing Documen</h1></div>
@@ -105,19 +104,19 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 <tr>
 	<td rowspan="2" align="center"><strong>Login Customer</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Data user-id dan password benar</td>
+	<td></td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>irin</td>
 <tr>
+	<td>Data user-id dan password salah</td>
 	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>irin</td>
 </tr>
 
 </thead>  
@@ -135,11 +134,11 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Login Customer dengan data user-id dan password benar</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">untuk mengecek apakah user sudah </td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
@@ -159,8 +158,8 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>1.Ketikkan email dan password</li>
+					<li>2.Tekan button login</li>
 				</ul>
 			</td>
 		</tr>
@@ -176,26 +175,24 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>email : irin@gmail.com</li>
+					<li>password : polindra</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>customer berhasil masuk ke aplikasi dengan akun yang benar</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
+					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Ok</li>
 				</ul>
 			</td>
 		</tr>
