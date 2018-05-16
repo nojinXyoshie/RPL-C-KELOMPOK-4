@@ -341,15 +341,19 @@ Control Protocol/Internet Protocol (TCP/IP).
 Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat mengetahui informasi aplikasi tersebut.
 
 #### 2.2 Spesifikasi kebutuhan fungsional
-<p align="center">
-<img src="http://i65.tinypic.com/35anei9.jpg"/>
-</p>
 
 2.2.1 Customer
-<p align="center"><img src="http://i68.tinypic.com/2djuji8.png"/></p>
+<p align="center"><img src="http://i63.tinypic.com/2egcpa9.jpg"/></p>
 
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
+
+2.2.1.1 Login Customer
+<p align="center"><img src="http://i66.tinypic.com/2vis5js.jpg"/></p>
+
+2.2.1.2 Pesan makanan
+<p align="center"><img src="http://i68.tinypic.com/a5cld.jpg"/></p>
+
 
 2.2.2 Seller
 
