@@ -161,7 +161,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 					<li>1.Ketikkan email dan password</li>
 					<li>2.Tekan button login</li>
 				</ul>
-			</td>
+</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Hasil</td>
@@ -209,3 +209,90 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 	</thead>
 </table>
+
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Login Customer dengan data user-id dan password salah</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengecek apakah user sudah </td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Data user sudah terdaftar di database<br>
+							- Data user sudah ditentukan level nya</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Ketikkan email dan password yang salah</li>
+					<li>2.Tekan button login</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>email : irin@yahoo.com</li>
+					<li>password : polindra123</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>customer tidak dapat masuk ke aplikasi dengan akun yang salah</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
+					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
