@@ -283,24 +283,34 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 	<td><p align="center">Nama mock up</td>
 	<td><p align="center">Keterangan</td>
 <tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/21mfbqa.jpg"></p></td>
+	<td><p align="center"><img src="http://i68.tinypic.com/2psep0j.png"></p></td>
 	<td><p align="center">Login Admin</td>
 	<td><p align="center">Admin harus login terlebih dahulu sebelum masuk ke sistem</td>
 </tr>
 <tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/n6qowi.jpg"></p></td>
+	<td><p align="center"><img src="http://i63.tinypic.com/vpktmq.png"></p></td>
 	<td><p align="center">Dashboard Admin</td>
-	<td><p align="center">Tampilan awal admin, dimana adshboard terdapat jumlah customer, jumlah seller dan kurir</td>
+	<td><p align="center">Tampilan awal admin, dimana dashboard terdapat jumlah customer, jumlah seller dan kurir</td>
 </tr>
 <tr>
-	<td><p align="center"><img src="http://i68.tinypic.com/2lm8hkx.png"></p></td>
+	<td><p align="center"><img src="http://i67.tinypic.com/1410dja.png"></p></td>
 	<td><p align="center">Data Seller</td>
-	<td><p align="center">Admin dapat melihat data seller, admin juga dapat melihat detal toko dan dapat menghapus toko</td>
+	<td><p align="center">Admin dapat melihat data seller, admin juga dapat melihat detail toko dan dapat menghapus toko</td>
 </tr>
 <tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/2mhsbd3.png"></p></td>
+	<td><p align="center"><img src="http://i66.tinypic.com/bcrit.png"></p></td>
 	<td><p align="center">Data Makanan</td>
 	<td><p align="center">Admin dapat melihat data makanan, admin juga dapat melihat detal makanan dan dapat menghapus makanan</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/34shv0i.png"></p></td>
+	<td><p align="center">Data Customer</td>
+	<td><p align="center">Admin dapat melihat data customer, admin juga dapat melihat detail customer dan dapat menghapus customer</td>
+</tr>
+<tr>
+	<td><p align="center"><img src="http://i65.tinypic.com/33a7415.png"></p></td>
+	<td><p align="center">Detail customer</td>
+	<td><p align="center">Admin dapat melihat detail customer, admin juga dapat melihat terakhir customer aktif jika sudah lama tidak aktif admin dapat menghapus akun customer</td>
 </tr>
 </table>
 #### 2.1.3 Antarmuka perangkat keras
