@@ -219,7 +219,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Login Customer dengan data user-id dan password salah</td>
+			<td colspan="3">Login Customer dengan data user-id dan password yang tidak sesuai</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
@@ -244,7 +244,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>1.Ketikkan email dan password yang salah</li>
+					<li>1.Ketikkan email dan password yang tidak sesuai dengan database</li>
 					<li>2.Tekan button login</li>
 				</ul>
 			</td>
