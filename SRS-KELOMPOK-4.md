@@ -343,37 +343,51 @@ Untuk promosi aplikasi ini dilakukan melalui sosial media, agar pengguna dapat m
 #### 2.2 Spesifikasi kebutuhan fungsional
 
 2.2.1 Customer
-<p align="center"><img src="http://i63.tinypic.com/2egcpa9.jpg"/></p>
+<p align="center"><img src="http://i64.tinypic.com/33as6kx.jpg"/></p>
 
 Deskripsi :
 Customer akan login terlebih dahulu kemudian memilih makanan yang akan diorder, setelah menginput data yang diperlukan maka customer dapat mengorder. setelah itu customer dapat tracking kurir untuk memastikan posisi orderan dan setelah barang sampai maka customer akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
 2.2.1.1 Login Customer
-<p align="center"><img src="http://i66.tinypic.com/2vis5js.jpg"/></p>
+<p align="center"><img src="http://i67.tinypic.com/1zf3l1f.jpg"/></p>
+
+Untuk dapat menggunakan aplikasi customer harus mengisi form login terlebih dahulu dengan cara: <br>
+1. Member mengaktifkan fungsi login <br>
+2. Sistem menampilkan halaman login yang terdiri dari email dan password <br>
+3. Member mengisi email dan password <br>
+4. Sistem melakukan validasi dari email dan password <br>
+5. Jika login gagal maka member akan diminta mengulangi proses login <br>
+6. Jika login berhasil maka customer akan diarahkan ke halaman utama yang menampilkan kategori makanan <br>
+
+Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dahulu dengan cara: <br>
+1. Member mangaktifkan fungsi sign up <br>
+2. Sistem menampilkan halaman register <br>
+3. Member mengisi form register sesuai dengan yang ditampilkan sistem <br>
+4. Sistem menyimpan data yang dimasukkan customer <br>
 
 2.2.1.2 Pesan makanan
-<p align="center"><img src="http://i68.tinypic.com/a5cld.jpg"/></p>
+<p align="center"><img src="http://i63.tinypic.com/351brzc.jpg"/></p>
 
 
 2.2.2 Seller
 
 <p align="center">
- <img src="http://i68.tinypic.com/11v3cxk.png"/>
+ <img src="http://i63.tinypic.com/jayidk.jpg/>
 </p>
 
 Deskripsi :
 Seller akan login terlebih dahulu lalu memilih kelola toko jika seller ingin mengubah detile tokonya, setelah mengubah detile tokonya seller juga dapat mengelola kurir. Seller akan menerima pesanan/orderan dari customer setelah itu pesanan akan dteruskan ke kurir agar kurir dapat melihan pesanan yg akan diantar
-Jika ada pesanan yg tidak sesuai dengan yg dipesan Seller dapat melihat review dari customer, seller dapat melihat tracking kurir untuk memastikan posisi orderan.
+Jika ada pesanan yg tidak sesuai dengan yg dipesan Seller dapat melihat review dari customer, seller dapat melihat tracking kurir untuk memastikan posisi orderan.<br>
 
 
 2.2.3 Kurir
-<p align="center"><img src="http://i66.tinypic.com/33oqpt3.jpg"/></p>
+<p align="center"><img src="http://i64.tinypic.com/ifz76v.jpg"/></p>
 
 Deskripsi :
 Kurir akan login terlebih dahulu, lalu kurir menerima terusan pesanan/orderan dari seller setelah itu kurir bisa langsung tracking alamat customer dan kurir dapat menelfon customer jika ada trouble/masalah. Setelah barang sampai maka kurir akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
 2.2.4 Admin
-<p align="center"><img src="http://i65.tinypic.com/s6klyo.png"/></p>
+<p align="center"><img src="http://i65.tinypic.com/2dkn1n4.jpg"/></p>
 
 Deskripsi :
 Admin akan login terlebih dahulu, lalu admin dapat mengelola data seller, kurir dan customer stelah selesai mengelola data admin akan logout.
