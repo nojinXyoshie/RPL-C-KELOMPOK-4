@@ -378,6 +378,12 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 2.2.1.2 Pesan makanan
 <p align="center"><img src="http://i63.tinypic.com/351brzc.jpg"/></p>
 
+2.2.1.3 Tracking kurir <br>
+2.2.1.4 Telepon Kurir <br>
+2.2.1.5 Review Seller <br>
+2.2.1.6 Konfirmasi pesanan sampai
+
+
 
 2.2.2 Seller
 <p align="center">
