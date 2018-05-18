@@ -378,6 +378,35 @@ Untuk member yang belum mempunyai akun diharuskan melakukan sign up terlebih dah
 2.2.1.2 Pesan makanan
 <p align="center"><img src="http://i63.tinypic.com/351brzc.jpg"/></p>
 
+
+2.2.1.3 Tracking kurir <br>
+<p align="center"><img src="http://i68.tinypic.com/15vora.jpg"/></p>
+1. login <br>
+2. saat customer telah pesan makanan , maka customer diarahkan ke halaman pesanan<br>
+3. kemudian memilih makanan yang di beli pada halaman pesanan <br>
+4. Klik button tracking
+
+2.2.1.4 Telepon Kurir <br>
+<p align="center"><img src="http://i65.tinypic.com/ff25tu.jpg"/></p>
+1. login <br>
+2. saat customer telah pesan makanan , maka customer diarahkan ke halaman pesanan<br>
+3. kemudian memilih makanan yang di beli pada halaman pesanan <br>
+4. Klik button tracking
+
+
+2.2.1.5 Review Seller <br>
+<p align="center"><img src="http://i65.tinypic.com/wgyrnt.jpg"/></p>
+1. login <br>
+2. setelah customer klik button konfirmasi pesanan sampai maka customer diarahkan ke halaman review seller<br>
+3. Kemuadian ketikkan review pada kolom yang disediakan dan klik button Riview <br>
+
+
+2.2.1.6 Konfirmasi pesanan sampai
+<p align="center"><img src="http://i63.tinypic.com/2cmud6d.jpg"/></p>
+1. login <br>
+2. setelah 
+
+
 2.2.1.3 Tracking kurir <br>
 2.2.1.4 Telepon Kurir <br>
 2.2.1.5 Review Seller <br>
