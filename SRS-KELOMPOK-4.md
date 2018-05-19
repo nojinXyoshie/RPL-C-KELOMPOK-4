@@ -67,9 +67,9 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 			<td ><b>Login</b></td>
 		</tr>
 		<tr  valign="top" align="center">
-				<td><img src="http://i66.tinypic.com/2v0nzmo.png" width="180" height="350" /><br><p align>Tampilan awal saat costomer membuka aplikasi.</p></td>
-				<td><img src="http://i65.tinypic.com/21ke9s0.png" width="180" height="350" /><br><p align>Tampilan saat customer daftar (membuat akun baru).</p></td>
-				<td><img src="http://i67.tinypic.com/vrzsyp.png" width="180" height="350" /><br><p align>Tampilan saat customer masuk aplikasi (menggunakan email dan kata sandi)</p></td>		
+				<td><img src="http://i66.tinypic.com/2v0nzmo.png" width="180" height="350" /><br><p align="justify">Tampilan awal saat costomer membuka aplikasi.</p></td>
+				<td><img src="http://i65.tinypic.com/21ke9s0.png" width="180" height="350" /><br><p align="justify">Tampilan saat customer daftar (membuat akun baru).</p></td>
+				<td><img src="http://i67.tinypic.com/vrzsyp.png" width="180" height="350" /><br><p align="justify">Tampilan saat customer masuk aplikasi (menggunakan email dan kata sandi)</p></td>		
 		</tr>
 		<tr align="center">
 			<td><b>Home-navdraw</td>
@@ -77,156 +77,12 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 			<td><b>Detail makanan</td>
 		</tr>
 		<tr valign="top" align="center">
-				<td><img src="http://i64.tinypic.com/2ij3xoi.png" width="180" height="350" /><br><p >Pada tampilan home ini terdapat tampilan utama yang berisi kategori makanan, kemudian sisi kiri tersebut merupakan tampilan navigasi drawernya.</p></td>
-				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p>Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>
-				<td><img src="http://i66.tinypic.com/357gjt5.png" width="180" height="350" /><br><p>Pada tampilan Detail makanan ini terdapat deskripsi makanan , harga , dan button beli.</p></td>		
+				<td><img src="http://i64.tinypic.com/2ij3xoi.png" width="180" height="350" /><br><p align="justify">Pada tampilan home ini terdapat tampilan utama yang berisi kategori makanan, kemudian sisi kiri tersebut merupakan tampilan navigasi drawernya.</p></td>
+				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>
+				<td><img src="http://i66.tinypic.com/357gjt5.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail makanan ini terdapat deskripsi makanan , harga , dan button beli.</p></td>		
 		</tr>
 
-#### * Seller<br>
-<table>
-<tr>
-	<td><p align="center">Mock up</td>
-	<td><p align="center">Nama mock up</td>
-	<td><p align="center">Keterangan</td>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/2eulyjb.png"></p></td>
-	<td><p align="center">Splash</td>
-	<td><p align="center">saat costomer membuka aplikasi</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i67.tinypic.com/2rfsx3o.png"></td>
-	<td><p align="center">Daftar</td>
-	<td><p align="center">saat customer daftar (membuat akun baru)</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/rkoshz.png"></td>
-	<td><p align="center">Masuk</td>
-	<td><p align="center">saat customer masuk aplikasi (menggunakan email dan kata sandi)</td>
-</tr>
-</table>
 
-
-#### * Kurir<br>
-<table>
-<tr>
-	<td><p align="center">Mock up</td>
-	<td><p align="center">Nama mock up</td>
-	<td><p align="center">Keterangan</td>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/2eulyjb.png"></p></td>
-	<td><p align="center">Splash</td>
-	<td><p align="center">saat costomer membuka aplikasi</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/rkoshz.png"></td>
-	<td><p align="center">Masuk</td>
-	<td><p align="center">saat customer masuk aplikasi (menggunakan email dan kata sandi)</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/2jb2vie.png"></td>
-	<td><p align="center">Notifikasi</td>
-	<td><p align="center">Kurir akan mendapatkan notifikasi setelah seller meneruskan orderan ke kurir</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i63.tinypic.com/8wmnq0.png"></td>
-	<td><p align="center">Detail Order</td>
-	<td><p align="center">kurir melihat detail order dan klik mulai untuk mengantar pesanan/tracking</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/11aj3p0.png"></td>
-	<td><p align="center">Tracking</td>
-	<td><p align="center">kurir melakukan tracking</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/2w5u6ug.png"></td>
-	<td><p align="center">Konfirmasi</td>
-	<td><p align="center">kurir mengkonfirmasi orderan sampai setelah barang sudah diterima oleh customer</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/34rvo6c.png"></td>
-	<td><p align="center">List Orderan Sampai</td>
-	<td><p align="center">Setelah mengkonfirmasi kurir akan melihat list orderan sampai</td>
-</tr>
-
-
-
-</table>
-
-#### * Seller<br>
-<table>
-<tr>
-	<td><p align="center">Mock up</td>
-	<td><p align="center">Nama mock up</td>
-	<td><p align="center">Keterangan</td>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/2eulyjb.png"></p></td>
-	<td><p align="center">Splash</td>
-	<td><p align="center">saat costomer membuka aplikasi</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/rkoshz.png"></td>
-	<td><p align="center">Masuk</td>
-	<td><p align="center">saat customer masuk aplikasi (menggunakan email dan kata sandi)</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/jjbd6q.png"></td>
-	<td><p align="center">Profil Toko</td>
-	<td><p align="center">Profile toko seller</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i63.tinypic.com/2ijgn6u.png"></td>
-	<td><p align="center">Toko</td>
-	<td><p align="center">Menu</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/28me3wl.png"></td>
-	<td><p align="center">List Orderan Sampai</td>
-	<td><p align="center">Setelah kurir mengkonfirmasi orderan sampai, maka seller dapat melihat list orderan yg sudah sampai</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/6ga2q9.png"></td>
-	<td><p align="center">Tambah Produk Baru</td>
-	<td><p align="center">Seller dapat menambahkan produk/makanan baru</td>
-</tr>
-</table>
-
-#### * Admin<br>
-<table>
-<tr>
-	<td><p align="center">Mock up</td>
-	<td><p align="center">Nama mock up</td>
-	<td><p align="center">Keterangan</td>
-<tr>
-	<td><p align="center"><img src="http://i68.tinypic.com/2psep0j.png"></p></td>
-	<td><p align="center">Login Admin</td>
-	<td><p align="center">Admin harus login terlebih dahulu sebelum masuk ke sistem</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i63.tinypic.com/vpktmq.png"></p></td>
-	<td><p align="center">Dashboard Admin</td>
-	<td><p align="center">Tampilan awal admin, dimana dashboard terdapat jumlah customer, jumlah seller dan kurir</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i67.tinypic.com/1410dja.png"></p></td>
-	<td><p align="center">Data Seller</td>
-	<td><p align="center">Admin dapat melihat data seller, admin juga dapat melihat detail toko dan dapat menghapus toko</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/bcrit.png"></p></td>
-	<td><p align="center">Data Makanan</td>
-	<td><p align="center">Admin dapat melihat data makanan, admin juga dapat melihat detal makanan dan dapat menghapus makanan</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/34shv0i.png"></p></td>
-	<td><p align="center">Data Customer</td>
-	<td><p align="center">Admin dapat melihat data customer, admin juga dapat melihat detail customer dan dapat menghapus customer</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/33a7415.png"></p></td>
-	<td><p align="center">Detail customer</td>
-	<td><p align="center">Admin dapat melihat detail customer, admin juga dapat melihat terakhir customer aktif jika sudah lama tidak aktif admin dapat menghapus akun customer</td>
-</tr>
-</table>
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
 - PC
