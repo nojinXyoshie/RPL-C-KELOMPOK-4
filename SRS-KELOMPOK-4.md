@@ -58,115 +58,29 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 #### 2.1.2 Antarmuka pengguna
 #### * Customer<br>
-<table>
-<tr>
-	<td><p align="center">Mock up</td>
-	<td><p align="center">Nama mock up</td>
-	<td><p align="center">Keterangan</td>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/2eulyjb.png"></p></td>
-	<td><p align="center">Splash</td>
-	<td><p align="center">saat costomer membuka aplikasi</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i67.tinypic.com/2rfsx3o.png"></td>
-	<td><p align="center">Daftar</td>
-	<td><p align="center">saat customer daftar (membuat akun baru)</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/rkoshz.png"></td>
-	<td><p align="center">Masuk</td>
-	<td><p align="center">saat customer masuk aplikasi (menggunakan email dan kata sandi)</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i66.tinypic.com/24y7hgp.png"></td>
-	<td><p align="center">Home</td>
-	<td><p align="center">saat customer berhasil masuk aplikasi</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/qs12z8.png"></td>
-	<td><p align="center">Navigation drawer</td>
-	<td><p align="center">navigation drawer dari aplikasi</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i67.tinypic.com/r0poh3.png"></td>
-	<td><p align="center">Masuk kategori</td>
-	<td><p align="center">saat customer telah memilih kategori makanan </td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/350m4nc.png"></td>
-	<td><p align="center">detail produk </td>
-	<td><p align="center">saat customer memilih makanan yang diinginkan</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/2hgspy8.png"></td>
-	<td><p align="center">Detail pesan makanan</td>
-	<td><p align="center">saat customer menekan button beli sekarang pada halaman detail produk</td>
-<tr>
-	<td><p align="center"><img src="http://i67.tinypic.com/2hgbfw7.png"></td>
-	<td><p align="center">alert pemesanan</td>
-	<td><p align="center">alert pemesanan ini digunakan untuk meyakinkan customer apakah benar ingin membeli makanan tersebut</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/14ufhag.png"></td>
-	<td><p align="center">pesanan</td>
-	<td><p align="center">saat customer telah pesan makanan , maka customer diarahkan ke halaman ini</td>
-</tr>
-</tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/2n705zb.jpg"></td>
-	<td><p align="center">Mulai tracking</td>
-	<td><p align="center">saat customer memilih makanan yang di beli pada halaman pesanan , pada halaman ini terdapat fitur tracking dan telepon</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/2i26dq9.png"></p></td>
-	<td><p align="center">Tracking</td>
-	<td><p align="center">saat customer sebelumnya menekan button mulai tracking</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/2drawjt.png"></td>
-	<td><p align="center">notifikasi</td>
-	<td><p align="center">saat customer membuka pesanan sampai (sebelumnya customer telah menekan button konfirmasi pesanan sampai</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i63.tinypic.com/14lmqsx.png"></td>
-	<td><p align="center">Review</td>
-	<td><p align="center">saat customer diminta untuk memberikan ulasan kepada seller</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i68.tinypic.com/5xvel1.png"></td>
-	<td><p align="center">Review seller</td>
-	<td><p align="center">saat customer mendapat ulasan dari seller , berupa list dari beberapa seller</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/2vx0ksl.png"></td>
-	<td><p align="center">Detail review seller</td>
-	<td><p align="center">Detail dari review seller</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i68.tinypic.com/15qr9xj.png"></td>
-	<td><p align="center">Riwayat pesanan</td>
-	<td><p align="center">Riwayat pesanan customer</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i64.tinypic.com/2q2gupu.jpg"></td>
-	<td><p align="center">Profil</td>
-	<td><p align="center">digunakan untuk pengaturan profil</td>
-</tr>
-	<td><p align="center"><img src="http://i68.tinypic.com/fm7ts2.png"></td>
-	<td><p align="center">Ubah kata sandi</td>
-	<td><p align="center">digunakan untuk mengubah kata sandi</td>
-<tr>
-<tr>
-	<td><p align="center"><img src="http://i65.tinypic.com/2vdlhti.png"></td>
-	<td><p align="center">Bantuan</td>
-	<td><p align="center">Berisi panduan dan aturan dari aplikasi</td>
-</tr>
-<tr>
-	<td><p align="center"><img src="http://i63.tinypic.com/6ezsba.png"></td>
-	<td><p align="center">Keluar aplikasi</td>
-	<td><p align="center">Ketika keluar aplikasi</td>
-</tr>
-</table>
+
+<div>
+	<table>
+		<tr align="center">
+			<td><b>Splashscreen</b></td>
+			<td><b>Register</b></td>
+			<td ><b>Login</b></td>
+		</tr>
+		<tr  valign="top" align="center">
+				<td><img src="http://i66.tinypic.com/2v0nzmo.png" width="180" height="350" /><br><p align>Tampilan awal saat costomer membuka aplikasi.</p></td>
+				<td><img src="http://i65.tinypic.com/21ke9s0.png" width="180" height="350" /><br><p align>Tampilan saat customer daftar (membuat akun baru).</p></td>
+				<td><img src="http://i67.tinypic.com/vrzsyp.png" width="180" height="350" /><br><p align>Tampilan saat customer masuk aplikasi (menggunakan email dan kata sandi)</p></td>		
+		</tr>
+		<tr align="center">
+			<td><b>Home-navdraw</td>
+			<td><b>Detail Kategori</td>
+			<td><b>Detail makanan</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i64.tinypic.com/2ij3xoi.png" width="180" height="350" /><br><p >Pada tampilan home ini terdapat tampilan utama yang berisi kategori makanan, kemudian sisi kiri tersebut merupakan tampilan navigasi drawernya.</p></td>
+				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p>Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>
+				<td><img src="http://i66.tinypic.com/357gjt5.png" width="180" height="350" /><br><p>Pada tampilan Detail makanan ini terdapat deskripsi makanan , harga , dan button beli.</p></td>		
+		</tr>
 
 #### * Seller<br>
 <table>
