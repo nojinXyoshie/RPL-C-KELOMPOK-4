@@ -87,6 +87,133 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 
 
 ### BAB III : Identifikasi dan Rencana Pengujian
+
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>STD</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Login Customer</td>
+	<td>Data user-id dan password benar</td>
+	<td>SRS 2.2.1.1/SDD 3.2.1</td>
+	<td>STD-01</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>irin</td>
+<tr>
+	<td>Data user-id dan password salah</td>
+	<td>SRS 2.2.1.1/SDD 3.2.1</td>
+	<td>STD-02</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>irin</td>
+<tr>
+	<td>Login customer tanpa terhubung ke internet</td>
+	<td>SRS 2.2.1.1/SDD 3.2.1</td>
+	<td>STD-03</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+</tr>
+
+</thead>  
+</table>
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>STD</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Tambah makanan pada Seller</td>
+	<td>Data makanan yang diinputkan sesuai dengan yang diminta oleh sistem</td>
+	<td>SRS 2.2.2.2/SDD 3.2.6</td>
+	<td>STD-04</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+<tr>
+	<td>Data makanan yang diinputkan tidak sesuai dengan yang diminta oleh sistem</td>
+	<td>SRS 2.2.2.2/SDD 3.2.6</td>
+	<td>STD-05</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+<tr>
+	<td>Tidak mengisi form data makanan</td>
+	<td>SRS 2.2.2.2/SDD 3.2.6</td>
+	<td>STD-06</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+</tr>
+
+</thead>  
+</table>
+
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>STD</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Tambah Kurir pada seller</td>
+	<td>Menginput data biodata kurir yang benar</td>
+	<td>SRS 2.2.2.3/SDD 3.2.7</td>
+	<td>STD-07</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>Yoshie Pangestu</td>
+<tr>
+	<td>Menginput data kurir dengan salah satu field tidak diisi</td>
+	<td>SRS 2.2.2.3/SDD 3.2.7</td>
+	<td>STD-08</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>Yoshie Pangestu</td>
+</tr>
+<tr>
+	<td>Menginput data kurir tanpa koneksi internet</td>
+	<td>SRS 2.2.2.3/SDD 3.2.7</td>
+	<td>STD-09</td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>Yoshie Pangestu</td>
+</tr>
+
+</thead>  
+</table>
+
+
+### BAB IV : Deskripsi dan Hasil Uji
+
 <table>  
 	<thead> 
 		<tr>
@@ -339,91 +466,6 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 	</thead>
 </table>
-<table>  
-	<thead>  
-<tr>
-	<td rowspan="2" align="center"><strong>Kelas Uji</td>
-	<td rowspan="2" align="center"><strong>Butir Uji </td>
-	<td colspan="2" align="center"><strong>Identifikasi</td>
-	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
-	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
-	<td rowspan="2" align="center"><strong>Penguji</td>
-</tr>
-		<tr>
-			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>STD</td>
-		</tr>
-<tr>
-	<td rowspan="3" align="center"><strong>Tambah makanan pada Seller</td>
-	<td>Data makanan yang diinputkan sesuai dengan yang diminta oleh sistem</td>
-	<td>SRS 2.2.2.2/SDD 3.2.6</td>
-	<td>STD-04</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>yoshie</td>
-<tr>
-	<td>Data makanan yang diinputkan tidak sesuai dengan yang diminta oleh sistem</td>
-	<td>SRS 2.2.2.2/SDD 3.2.6</td>
-	<td>STD-05</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>yoshie</td>
-<tr>
-	<td>Tidak mengisi form data makanan</td>
-	<td>SRS 2.2.2.2/SDD 3.2.6</td>
-	<td>STD-06</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>yoshie</td>
-</tr>
-
-</thead>  
-</table>
-
-<table>  
-	<thead>  
-<tr>
-	<td rowspan="2" align="center"><strong>Kelas Uji</td>
-	<td rowspan="2" align="center"><strong>Butir Uji </td>
-	<td colspan="2" align="center"><strong>Identifikasi</td>
-	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
-	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
-	<td rowspan="2" align="center"><strong>Penguji</td>
-</tr>
-		<tr>
-			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>STD</td>
-		</tr>
-<tr>
-	<td rowspan="3" align="center"><strong>Tambah Kurir pada seller</td>
-	<td>Menginput data biodata kurir yang benar</td>
-	<td>SRS 2.2.2.3/SDD 3.2.7</td>
-	<td>STD-07</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>Yoshie Pangestu</td>
-<tr>
-	<td>Menginput data kurir dengan salah satu field tidak diisi</td>
-	<td>SRS 2.2.2.3/SDD 3.2.7</td>
-	<td>STD-08</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>Yoshie Pangestu</td>
-</tr>
-<tr>
-	<td>Menginput data kurir tanpa koneksi internet</td>
-	<td>SRS 2.2.2.3/SDD 3.2.7</td>
-	<td>STD-09</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>Yoshie Pangestu</td>
-</tr>
-
-</thead>  
-</table>
-
-
-### BAB IV : Deskripsi dan Hasil Uji
 
 <table>  
 	<thead> 
