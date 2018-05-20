@@ -1,6 +1,6 @@
 <html>
 <body>
-<body><div align="center"><h1>Software Testing Documen</h1></div>
+<body><div align="center"><h1>Software Testing Document</h1></div>
 <p align="center"><b>Version 1.0 </b><br>
 <p align="center">15 Mei 2018<br><br>
 <p align="center">
