@@ -219,7 +219,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-01</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -227,19 +227,19 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengecek apakah user sudah </td>
+			<td colspan="3">untuk mengecek apakah user dapat login pada aplikasi</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">sudah register dan data masuk pada database </td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">15 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Irin Windiyati</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Skenario</td>
@@ -291,14 +291,12 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Tidak ada</li>
 				</ul>
 			</td>
 		</tr>
 	</thead>
 </table>
-
 
 <table>  
 	<thead> 
