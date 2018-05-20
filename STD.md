@@ -302,7 +302,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-02</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -319,7 +319,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">15 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -375,8 +375,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Tidak ada</li>
 				</ul>
 			</td>
 		</tr>
@@ -387,7 +386,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-03</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -404,7 +403,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">15 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
