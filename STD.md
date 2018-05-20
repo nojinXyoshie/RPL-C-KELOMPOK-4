@@ -154,7 +154,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<td>black box</td>
 	<td>Yoshie Pangestu</td>
 <tr>
-	<td>Menginput data dengan salah satu field tidak diisi</td>
+	<td>Menginput data kurir dengan salah satu field tidak diisi</td>
 	<td>--------</td>
 	<td></td>
 	<td>sistem</td>
@@ -162,7 +162,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<td>Yoshie Pangestu</td>
 </tr>
 <tr>
-	<td>Menginput data tanpa koneksi internet</td>
+	<td>Menginput data kurir tanpa koneksi internet</td>
 	<td>--------</td>
 	<td></td>
 	<td>sistem</td>
@@ -565,6 +565,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 			<td rowspan="1">
 				<ul>
 					<li>nama : dina micela</li>
+					<li>no hp : 089777222111</li>
 					<li>email : dina200@gmail.com</li>
 					<li>password : polindra123</li>
 				</ul>
@@ -577,6 +578,93 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 			<td rowspan="1">
 				<ul>
 					<li>tidak dapat disimpan jika ada form biodata kurir yang tidak terisi</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Menginput data kurir dengan salah satu field tidak diisi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengetahui apakah data kurir akan tersimpan jika salah satu field tidak diisi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Sudah login sebagai seller</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Inputkan biodata kurir dengan mengosongkan salah satu form biodata yang diminta</li>
+					<li>2.Tekan button simpan</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>nama : dina micela</li>
+					<li>no hp : 089777222111</li>
+					<li>email : dina200@gmail.com</li>
+					<li>password : -</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>data kurir yang diinputkan tidak dapat tersimpan di database</li>
+					<li>jika button simpan di-klik akan muncul peringatan "form tidak lengkap"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>tidak dapat disimpan jika ada form biodata kurir yang tidak terisi</li>
+					<li>jika button simpan di-klik akan muncul peringatan "form tidak lengkap"</li>
 				</ul>
 			</td>
 			<td rowspan="1">
