@@ -471,109 +471,23 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-04</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Login Customer dengan data user-id dan password benar</td>
+			<td colspan="3">Data makanan yang diinputkan sesuai dengan yang diminta oleh sistem</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengecek apakah user sudah </td>
+			<td colspan="3">untuk mengetahui apakah data makanan tersimpan ke database</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">- Sudah login sebagai seller</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>1.Ketikkan email dan password</li>
-					<li>2.Tekan button login</li>
-				</ul>
-</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>email : irin@gmail.com</li>
-					<li>password : polindra</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>customer berhasil masuk ke aplikasi dengan akun yang benar</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
-					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>Ok</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-
-<table>  
-	<thead> 
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Login Customer dengan data user-id dan password yang tidak sesuai</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengecek apakah user sudah </td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- Data user sudah terdaftar di database<br>
-							- Data user sudah ditentukan level nya</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -585,8 +499,8 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>1.Ketikkan email dan password yang tidak sesuai dengan database</li>
-					<li>2.Tekan button login</li>
+					<li>1.Inputkan data makanan yang diminta oleh sistem dengan benar</li>
+					<li>2.Tekan button simpan</li>
 				</ul>
 			</td>
 		</tr>
@@ -602,19 +516,19 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>email : irin@yahoo.com</li>
-					<li>password : polindra123</li>
+					<li>nama makanan : Bakso</li>
+					<li>harga : 5000</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>customer tidak dapat masuk ke aplikasi dengan akun yang salah</li>
+					<li>data makanan yang diinputkan dapat tersimpan di database</li>
+					<li>jika button simpan di-klik akan muncul peringatan "berhasil tersimpan"</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
-					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+					<li>dapat disimpan ke database jika data yang diinputkan benar</li>
 				</ul>
 			</td>
 			<td rowspan="1">
@@ -629,8 +543,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Tidak ada</li>
 				</ul>
 			</td>
 		</tr>
@@ -641,24 +554,23 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-05</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Login Customer tanpa terhubung ke internet</td>
+			<td colspan="3">Data makanan yang diinputkan tidak sesuai dengan yang diminta oleh sistem</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengecek apakah user sudah </td>
+			<td colspan="3">untuk mengetahui apakah data makanan tersimpan ke database jika tidak sesuai dengan yang diminta oleh sistem</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- Data user sudah terdaftar di database<br>
-					- Internet mati </td>
+			<td colspan="3">- Sudah login sebagai seller</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -670,8 +582,8 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>1.Inputkan email dan password</li>
-					<li>2.Tekan button login</li>
+					<li>1.Inputkan salah satu data makanan yang tidak sesuai dengan yang diminta oleh sistem</li>
+					<li>2.Tekan button simpan</li>
 				</ul>
 			</td>
 		</tr>
@@ -687,19 +599,19 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>email : irin@yahoo.com</li>
-					<li>password : polindra123</li>
+					<li>nama makanan : Bakso</li>
+					<li>harga : seribu</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>customer tidak dapat masuk ke aplikasi tanpa internet</li>
+					<li>data makanan yang diinputkan tidak dapat tersimpan di database</li>
+					<li>jika button simpan di-klik akan muncul peringatan "data tidak sesuai"</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
-					<li>jika button login di-klik maka akan muncul peringatan "koneksi error"</li>
+					<li>dapat disimpan ke database jika data yang diinputkan benar</li>
 				</ul>
 			</td>
 			<td rowspan="1">
@@ -714,8 +626,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>data harga yang diinputkan tidak sesuai, karena data harga harus berupa bilangan</li>
 				</ul>
 			</td>
 		</tr>
@@ -726,7 +637,89 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-06</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Tidak mengisi form data makanan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengetahui apakah data makanan tersimpan ke database jika tidak mengisi form data makanan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Sudah login sebagai seller</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Kosongkan semua data form makanan</li>
+					<li>2.Tekan button simpan</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>nama makanan : -</li>
+					<li>harga : -</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>data makanan yang diinputkan tidak dapat tersimpan di database</li>
+					<li>jika button simpan di-klik akan muncul peringatan "data tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>dapat disimpan ke database jika data yang diinputkan benar</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Tidak ada</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-07</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -742,7 +735,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -799,8 +792,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Tidak ada</li>
 				</ul>
 			</td>
 		</tr>
@@ -811,7 +803,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-08</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -827,7 +819,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -886,8 +878,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Tidak ada</li>
 				</ul>
 			</td>
 		</tr>
@@ -898,7 +889,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">STD-09</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -914,7 +905,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -973,519 +964,11 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Tidak ada</li>
 				</ul>
 			</td>
 		</tr>
 	</thead>
 </table>
 
-<table>  
-	<thead> 
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Data makanan yang diinputkan sesuai dengan yang diminta oleh sistem</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengetahui apakah data makanan tersimpan ke database</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- Sudah login sebagai seller</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">Yoshie Pangestu</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>1.Inputkan data makanan yang diminta oleh sistem dengan benar</li>
-					<li>2.Tekan button simpan</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>nama makanan : Bakso</li>
-					<li>harga : 5000</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>data makanan yang diinputkan dapat tersimpan di database</li>
-					<li>jika button simpan di-klik akan muncul peringatan "berhasil tersimpan"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>dapat disimpan ke database jika data yang diinputkan benar</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>Ok</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
 
-<table>  
-	<thead> 
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Data makanan yang diinputkan tidak sesuai dengan yang diminta oleh sistem</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengetahui apakah data makanan tersimpan ke database jika tidak sesuai dengan yang diminta oleh sistem</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- Sudah login sebagai seller</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">Yoshie Pangestu</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>1.Inputkan salah satu data makanan yang tidak sesuai dengan yang diminta oleh sistem</li>
-					<li>2.Tekan button simpan</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>nama makanan : Bakso</li>
-					<li>harga : seribu</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>data makanan yang diinputkan tidak dapat tersimpan di database</li>
-					<li>jika button simpan di-klik akan muncul peringatan "data tidak sesuai"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>dapat disimpan ke database jika data yang diinputkan benar</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>Ok</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>data harga yang diinputkan tidak sesuai, karena data harga harus berupa bilangan</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<table>  
-	<thead> 
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Tidak mengisi form data makanan</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengetahui apakah data makanan tersimpan ke database jika tidak mengisi form data makanan</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- Sudah login sebagai seller</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">Yoshie Pangestu</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>1.Kosongkan semua data form makanan</li>
-					<li>2.Tekan button simpan</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>nama makanan : -</li>
-					<li>harga : -</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>data makanan yang diinputkan tidak dapat tersimpan di database</li>
-					<li>jika button simpan di-klik akan muncul peringatan "data tidak boleh kosong"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>dapat disimpan ke database jika data yang diinputkan benar</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>Ok</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<table>  
-	<thead> 
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Data user-id dan password benar</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengetahui apakah data user sudah ditambahkan di database</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- data user sudah terdaftar di database<br>
-					- data user sudah ditentukan levelnya</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">Yoshie Pangestu</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>1.Inputkan email dan password yang sesuai dengan yang ada di database</li>
-					<li>2.Tekan button login</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>email : nunung@gmail.com</li>
-					<li>password : polindra123</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>user dapat login sebagai seller</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
-					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>Ok</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<table>  
-	<thead> 
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Data user-id dan password salah</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengetahui apakah dapat login menggunakan data yang tidak sesuai dengan database</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- data user sudah terdaftar di database<br>
-					- data user sudah ditentukan levelnya</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">Yoshie Pangestu</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>1.Inputkan email dan password yang tidak sesuai dengan yang ada di database</li>
-					<li>2.Tekan button login</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>email : nunung@gmail.com</li>
-					<li>password : polindra</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>user tidak dapat login menggunakan data yang tidak sesuai dengan database</li>
-					<li>setelah klik button login maka akan muncul notofikasi "email atau password salah"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
-					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>Ok</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<table>  
-	<thead> 
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Tidak mengisi password</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengetahui apakah dapat login jika form password tidak diisi</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">- data user sudah terdaftar di database<br>
-					- data user sudah ditentukan levelnya</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">Yoshie Pangestu</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>1.Inputkan email tanpa menginputkan password</li>
-					<li>2.Tekan button login</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>email : nunung@gmail.com</li>
-					<li>password : -</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>user tidak dapat login jika form password tidak diisi</li>
-					<li>setelah klik button login maka akan muncul notofikasi "email atau password salah"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
-					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>Ok</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
