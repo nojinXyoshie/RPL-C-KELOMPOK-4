@@ -569,7 +569,5 @@ Deskripsi data masing-masing entitas data ini adalah sebagai berikut:<br>
 | id_seller    | Varchar  | Nama toko yang bekerja sama                                                 |
 | Nama kurir   | Varchar  | untuk  identitas kurir                                                      |
 | No_hp        | integer  | Nomor hp kurir                                                              |
-| Status       | Varchar  | Untuk menandakan bahwa kurir aktif / non aktif                                     |
-|              |          |                                                                             |
-
+| Status       | Varchar  | Untuk menandakan bahwa kurir aktif / non aktif                                                                                                             
 
