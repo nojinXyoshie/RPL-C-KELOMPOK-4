@@ -118,7 +118,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<td>black box</td>
 	<td>irin</td>
 <tr>
-	<td>Tidak terhubung ke internet</td>
+	<td>Login customer tanpa terhubung ke internet</td>
 	<td>--------</td>
 	<td></td>
 	<td>sistem</td>
@@ -493,6 +493,90 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 				<ul>
 					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
 					<li>jika button login di-klik maka akan muncul peringatan "koneksi error"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Menginput data biodata kurir yang benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk menambahkan user kurir ke database</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Sudah login sebagai seller</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Inputkan biodata kurir dengan benar</li>
+					<li>2.Tekan button simpan</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>nama : dina micela</li>
+					<li>email : dina200@gmail.com</li>
+					<li>password : polindra123</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>data kurir yang diinputkan tersimpan di database</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>tidak dapat disimpan jika ada form biodata kurir yang tidak terisi</li>
 				</ul>
 			</td>
 			<td rowspan="1">
