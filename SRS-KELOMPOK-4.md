@@ -57,7 +57,6 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 
 #### 2.1.2 Antarmuka pengguna
-<div>
 	<table>
 		<tr align="center">
 			<td><b>Splashscreen</b></td>
@@ -133,7 +132,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 			<td><img src="http://i64.tinypic.com/dpxs2o.png" width="180" height="350" /><br><p align="justify">Pada Tampilan log out terdapat alert keluar yaitu pilihan "iya" atau "tidak".</p></td>
 		</tr>
 	</table>
-    </div>
+ 
 
 #### 2.1.3 Antarmuka perangkat keras
 Kebutuhan minimum perangkat keras yang dapat digunakan untuk mendukung aplikasi adalah :
