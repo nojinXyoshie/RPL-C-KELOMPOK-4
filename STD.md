@@ -117,7 +117,16 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<td>sistem</td>
 	<td>black box</td>
 	<td>irin</td>
+<tr>
+	<td>Tidak terhubung ke internet</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
 </tr>
+
+		
 
 </thead>  
 </table>
@@ -159,6 +168,40 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<td>sistem</td>
 	<td>black box</td>
 	<td>Yoshie Pangestu</td>
+</tr>
+
+</thead>  
+</table>
+
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>SPMP</td>
+		</tr>
+<tr>
+	<td rowspan="2" align="center"><strong>Tambah makanan pada Seller</td>
+	<td>Data user-id dan password benar</td>
+	<td></td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>irin</td>
+<tr>
+	<td>Data user-id dan password salah</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>irin</td>
 </tr>
 
 </thead>  
