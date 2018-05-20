@@ -1087,8 +1087,8 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>button login dapat di-klik jika field email dan password sudah terisi<br>
-					jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+					<li>-button login dapat di-klik jika field email dan password sudah terisi<br>
+					-jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
 				</ul>
 			</td>
 			<td rowspan="1">
