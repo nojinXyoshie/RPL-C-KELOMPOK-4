@@ -76,8 +76,7 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 		<tr valign="top" align="center">
 				<td><img src="http://i64.tinypic.com/2ij3xoi.png" width="180" height="350" /><br><p align="justify">tampilan navigation drawer menampilkan listmenu aplikasi</p></td>
 				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan home ini terdapat tampilan utama yang berisi kategori makanan, kemudian sisi kiri tersebut merupakan tampilan navigasi drawernya.</p></td>
-				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>
-					
+				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>			
 		</tr>
 		<tr align="center">
 			<td><b>Detail makanan</td>
