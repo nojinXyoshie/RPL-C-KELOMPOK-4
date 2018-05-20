@@ -103,7 +103,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 			<td align="center"><strong>SPMP</td>
 		</tr>
 <tr>
-	<td rowspan="2" align="center"><strong>Login Customer</td>
+	<td rowspan="3" align="center"><strong>Login Customer</td>
 	<td>Data user-id dan password benar</td>
 	<td></td>
 	<td></td>
