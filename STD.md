@@ -88,7 +88,6 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 
 ### BAB III : Identifikasi dan Rencana Pengujian
 
-
 <table>  
 	<thead>  
 <tr>
@@ -101,71 +100,33 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 </tr>
 		<tr>
 			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>STD</td>
+			<td align="center"><strong>SPMP</td>
 		</tr>
 <tr>
 	<td rowspan="3" align="center"><strong>Login Customer</td>
 	<td>Data user-id dan password benar</td>
-	<td>SRS 2.2.1.1/SDD 3.2.1</td>
-	<td>STD-01</td>
+	<td></td>
+	<td></td>
 	<td>sistem</td>
 	<td>black box</td>
 	<td>irin</td>
 <tr>
 	<td>Data user-id dan password salah</td>
-	<td>SRS 2.2.1.1/SDD 3.2.1</td>
-	<td>STD-02</td>
+	<td>--------</td>
+	<td></td>
 	<td>sistem</td>
 	<td>black box</td>
 	<td>irin</td>
 <tr>
 	<td>Login customer tanpa terhubung ke internet</td>
-	<td>SRS 2.2.1.1/SDD 3.2.1</td>
-	<td>STD-03</td>
+	<td>--------</td>
+	<td></td>
 	<td>sistem</td>
 	<td>black box</td>
 	<td>yoshie</td>
 </tr>
 
-</thead>  
-</table>
-<table>  
-	<thead>  
-<tr>
-	<td rowspan="2" align="center"><strong>Kelas Uji</td>
-	<td rowspan="2" align="center"><strong>Butir Uji </td>
-	<td colspan="2" align="center"><strong>Identifikasi</td>
-	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
-	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
-	<td rowspan="2" align="center"><strong>Penguji</td>
-</tr>
-		<tr>
-			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>STD</td>
-		</tr>
-<tr>
-	<td rowspan="3" align="center"><strong>Tambah makanan pada Seller</td>
-	<td>Data makanan yang diinputkan sesuai dengan yang diminta oleh sistem</td>
-	<td>SRS 2.2.2.2/SDD 3.2.6</td>
-	<td>STD-04</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>yoshie</td>
-<tr>
-	<td>Data makanan yang diinputkan tidak sesuai dengan yang diminta oleh sistem</td>
-	<td>SRS 2.2.2.2/SDD 3.2.6</td>
-	<td>STD-05</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>yoshie</td>
-<tr>
-	<td>Tidak mengisi form data makanan</td>
-	<td>SRS 2.2.2.2/SDD 3.2.6</td>
-	<td>STD-06</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>yoshie</td>
-</tr>
+		
 
 </thead>  
 </table>
@@ -182,31 +143,113 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 </tr>
 		<tr>
 			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>STd</td>
+			<td align="center"><strong>SPMP</td>
 		</tr>
 <tr>
 	<td rowspan="3" align="center"><strong>Tambah Kurir pada seller</td>
 	<td>Menginput data biodata kurir yang benar</td>
-	<td>SRS 2.2.2.3/SDD 3.2.7</td>
-	<td>STD-07</td>
+	<td></td>
+	<td></td>
 	<td>sistem</td>
 	<td>black box</td>
 	<td>Yoshie Pangestu</td>
 <tr>
 	<td>Menginput data kurir dengan salah satu field tidak diisi</td>
-	<td>SRS 2.2.2.3/SDD 3.2.7</td>
-	<td>STD-08</td>
+	<td>--------</td>
+	<td></td>
 	<td>sistem</td>
 	<td>black box</td>
 	<td>Yoshie Pangestu</td>
 </tr>
 <tr>
 	<td>Menginput data kurir tanpa koneksi internet</td>
-	<td>SRS 2.2.2.3/SDD 3.2.7</td>
-	<td>STD-09</td>
+	<td>--------</td>
+	<td></td>
 	<td>sistem</td>
 	<td>black box</td>
 	<td>Yoshie Pangestu</td>
+</tr>
+
+</thead>  
+</table>
+
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>SPMP</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Tambah makanan pada Seller</td>
+	<td>Data makanan yang diinputkan sesuai dengan yang diminta oleh sistem</td>
+	<td></td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+<tr>
+	<td>Data makanan yang diinputkan tidak sesuai dengan yang diminta oleh sistem</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+<tr>
+	<td>Tidak mengisi form data makanan</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+</tr>
+
+</thead>  
+</table>
+
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>SPMP</td>
+		</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Login seller</td>
+	<td>Data user-id dan password benar</td>
+	<td></td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+<tr>
+	<td>Data user-id dan password salah</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
+<tr>
+	<td>Tidak mengisi password</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>yoshie</td>
 </tr>
 
 </thead>  
@@ -982,3 +1025,89 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 	</thead>
 </table>
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Data user-id dan password benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengetahui apakah data user sudah ditambahkan di database</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- data user sudah terdaftar di database<br>
+					- data user sudah ditentukan levelnya</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Inputkan email dan password yang sesuai dengan yang ada di database</li>
+					<li>2.Tekan button login</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>email : nunung@gmail.com</li>
+					<li>password : polindra123</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>user dapat login sebagai seller</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>button login dapat di-klik jika field email dan password sudah terisi<br>
+					jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
