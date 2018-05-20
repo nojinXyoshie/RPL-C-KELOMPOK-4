@@ -182,7 +182,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 </tr>
 		<tr>
 			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>STd</td>
+			<td align="center"><strong>STD</td>
 		</tr>
 <tr>
 	<td rowspan="3" align="center"><strong>Tambah Kurir pada seller</td>
