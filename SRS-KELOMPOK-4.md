@@ -242,6 +242,12 @@ Deskripsi :
 Seller akan login terlebih dahulu lalu memilih kelola toko jika seller ingin mengubah detile tokonya, setelah mengubah detile tokonya seller juga dapat mengelola kurir. Seller akan menerima pesanan/orderan dari customer setelah itu pesanan akan dteruskan ke kurir agar kurir dapat melihan pesanan yg akan diantar
 Jika ada pesanan yg tidak sesuai dengan yg dipesan Seller dapat melihat review dari customer, seller dapat melihat tracking kurir untuk memastikan posisi orderan.<br>
 
+2.2.2.1 Login
+2.2.2.2 Kelola barang makanan
+2.2.2.3 Kelola kurir
+2.2.2.4 Kelola pesanan makanan
+2.2.2.5 Review customer
+
 
 2.2.3 Kurir
 <p align="center"><img src="http://i64.tinypic.com/ifz76v.jpg"/></p>
@@ -249,12 +255,23 @@ Jika ada pesanan yg tidak sesuai dengan yg dipesan Seller dapat melihat review d
 Deskripsi :
 Kurir akan login terlebih dahulu, lalu kurir menerima terusan pesanan/orderan dari seller setelah itu kurir bisa langsung tracking alamat customer dan kurir dapat menelfon customer jika ada trouble/masalah. Setelah barang sampai maka kurir akan melakukan konfirmasi melalui aplikasi bahwa orderan telah sampai.
 
+2.2.3.1 Login
+2.2.3.2 Kelola pesanan makanan
+2.2.3.3 Tampilan customer
+2.2.3.4 Konfirmasi pesanan sampai
 
 2.2.4 Admin
 <p align="center"><img src="http://i65.tinypic.com/2dkn1n4.jpg"/></p>
 
 Deskripsi :
 Admin akan login terlebih dahulu, lalu admin dapat mengelola data seller, kurir dan customer stelah selesai mengelola data admin akan logout.
+
+2.2.4.1 Login
+2.2.4.2 Kelola customer
+2.2.4.3 Kelola seller
+2.2.4.4 Kelola kurir
+2.2.4.5 Report order
+2.2.4.6 Kelola riview
 
 
 #### 2.3. Spesifikasi kebutuhan non-fungsional
