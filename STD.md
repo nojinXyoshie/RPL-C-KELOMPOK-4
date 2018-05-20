@@ -857,3 +857,88 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 	</thead>
 </table>
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Data makanan yang diinputkan tidak sesuai dengan yang diminta oleh sistem</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengetahui apakah data makanan tersimpan ke database jika tidak sesuai dengan yang diminta oleh sistem</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Sudah login sebagai seller</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Inputkan salah satu data makanan yang tidak sesuai dengan yang diminta oleh sistem</li>
+					<li>2.Tekan button simpan</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>nama makanan : Bakso</li>
+					<li>harga : seribu</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>data makanan yang diinputkan tidak dapat tersimpan di database</li>
+					<li>jika button simpan di-klik akan muncul peringatan "data tidak sesuai"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>dapat disimpan ke database jika data yang diinputkan benar</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>data harga yang diinputkan tidak sesuai, karena data harga harus berupa bilangan</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
