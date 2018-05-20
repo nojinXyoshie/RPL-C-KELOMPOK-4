@@ -132,7 +132,6 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 			<td><img src="http://i64.tinypic.com/160yeti.png" width="180" height="350" /><br><p align="justify">Pada tampilan menu bantuan berisi bantuan dari aplikasi ayo mangan.</p></td>
 			<td><img src="http://i64.tinypic.com/dpxs2o.png" width="180" height="350" /><br><p align="justify">Pada Tampilan log out terdapat alert keluar yaitu pilihan "iya" atau "tidak".</p></td>
 		</tr>
-		
 	</table>
     </div>
 
