@@ -79,6 +79,16 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>
 					
 		</tr>
+		<tr align="center">
+			<td><b>Detail makanan</td>
+			<td><b>Detail pesanan</td>
+			<td><b>Alert pesanan</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i66.tinypic.com/357gjt5.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail makanan ini terdapat deskripsi makanan , harga , dan button beli.</p></td>	
+				<td><img src="http://i68.tinypic.com/wb5icn.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail pesanan user akan diminta utuk menginput kuantitas makanan yang akan dibeli, alamat , keterangan tambahan pada deskripsi dan  terdapat button beli.</p></td>
+				<td><img src="http://i66.tinypic.com/2nrpvt2.png" width="180" height="350" /><br><p align="justify">Pada menu daftar belanja ini akan tampil list produk yang sudah di scan beserta keterangan harga masing-masing produk dan total harga yang harus dibayar.</p></td>		
+		</tr>
 		
 </table>
 	
