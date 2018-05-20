@@ -79,6 +79,56 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>
 					
 		</tr>
+		<tr align="center">
+			<td><b>Detail makanan</td>
+			<td><b>Detail pesanan</td>
+			<td><b>Alert pesanan</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i66.tinypic.com/357gjt5.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail makanan ini terdapat deskripsi makanan , harga , dan button beli.</p></td>	
+				<td><img src="http://i68.tinypic.com/wb5icn.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail pesanan user akan diminta utuk menginput kuantitas makanan yang akan dibeli, alamat , keterangan tambahan pada deskripsi dan  terdapat button beli.</p></td>
+				<td><img src="http://i66.tinypic.com/2nrpvt2.png" width="180" height="350" /><br><p align="justify">Pada menu daftar belanja ini akan tampil list produk yang sudah di scan beserta keterangan harga masing-masing produk dan total harga yang harus dibayar.</p></td>		
+		</tr>
+        <tr align="center">
+			<td><b>pesanan</td>
+			<td><b>detail daftar pesanan</td>
+			<td><b>proses tracking</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i64.tinypic.com/xbbbxx.png" width="180" height="350" /><br><p align="justify">Pada tampilan menu pesanan ini berisi daftar pesanan yang dibeli dalam proses pengiriman</p></td>
+				<td><img src="http://i67.tinypic.com/veu0p1.png" width="180" height="350" /><br><p align="justify">Pada tampilan ini merupakan detail dari daftar pesanan yang berisi button tracking, button telepon , dan button konfirmasi pesanan sampai.</p></td>
+				<td><img src="http://i65.tinypic.com/zinb6h.png" width="180" height="350" /><br><p align="justify">Ini merupakan tampilan pada saat proses tracking.</p></td>		
+		</tr>
+		<tr align="center">
+			<td><b>notifikasi</td>
+			<td><b>Review ke seller</td>
+			<td><b>Review dari seller</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i64.tinypic.com/2ike0r9.png" width="180" height="350" /><br><p align="justify">ketika pesanan yang sampai sudah di konfirmasi maka akan di arahkan ke halaman notifikasi , dan customer diminta untuk meriview seller.</p></td>
+				<td><img src="http://i68.tinypic.com/zjcbpg.pnghttp://i67.tinypic.com/2z5q3qv.png" width="180" height="350" /><br><p align="justify">Pada tampilan Riview berisi kolom yang dapat disi untuk meriview seller.</p></td>
+				<td><img src="http://i66.tinypic.com/2la3j9k.png" width="180" height="350" /><br><p align="justify">Pada tampilan menu Review yaitu berisi daftar Review dari seller ke customer.</p></td>		
+		</tr>
+        <tr align="center">
+			<td><b>Detail riview seller</td>
+			<td><b>Riwayat pesanan</td>
+			<td><b>Profil</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i66.tinypic.com/25umrgi.png" width="180" height="350" /><br><p align="justify">Pada tampilan detail review seller ini merupakan detail dari daftar review dari seller.</p></td>
+				<td><img src="http://i68.tinypic.com/2d7gdir.png" width="180" height="350" /><br><p align="justify">Pada tampilan menu riwayat pesanan yaitu berisi daftar riwayat pesanan .</p></td>
+				<td><img src="http://i66.tinypic.com/iymnag.png" width="180" height="350" /><br><p align="justify">Pada tampilan menu profil ini user dapat mengedit dan menghapus data profilnya</p></td>		
+		</tr>
+		<tr align="center">
+            <td> <b>Ubah password</td>
+            <td> <b>Bantuan</td>
+			<td> <b>Log out</td>
+		</tr>
+		<tr valign="top" align="center">
+            <td><img src="http://i65.tinypic.com/2ceq43k.png" width="180" height="350" /><br><p align="justify">Pada tampilan password terdapat tampilan kata sandi lama berada di atas dan kata sandi yang baru berada di bawahnya , juga ada button perbarui.</p></td>
+			<td><img src="http://i64.tinypic.com/160yeti.png" width="180" height="350" /><br><p align="justify">Pada tampilan menu bantuan berisi bantuan dari aplikasi ayo mangan.</p></td>
+			<td><img src="http://i64.tinypic.com/dpxs2o.png" width="180" height="350" /><br><p align="justify">Pada Tampilan log out terdapat alert keluar yaitu pilihan "iya" atau "tidak".</p></td>
+		</tr>
 </table>
 	
 
