@@ -57,6 +57,29 @@ dimana akan dapat digunakan secara online oleh pihak-pihak berkepentingan.
 
 
 #### 2.1.2 Antarmuka pengguna
+<table>
+		<tr align="center">
+			<td><b>Splashscreen</b></td>
+			<td><b>Register</b></td>
+			<td ><b>Login</b></td>
+		</tr>
+		<tr  valign="top" align="center">
+				<td><img src="http://i66.tinypic.com/2v0nzmo.png" width="180" height="350" /><br><p align="justify">Tampilan awal saat costomer membuka aplikasi.</p></td>
+				<td><img src="http://i65.tinypic.com/21ke9s0.png" width="180" height="350" /><br><p align="justify">Tampilan saat customer daftar (membuat akun baru).</p></td>
+				<td><img src="http://i67.tinypic.com/vrzsyp.png" width="180" height="350" /><br><p align="justify">Tampilan saat customer masuk aplikasi (menggunakan email dan kata sandi)</p></td>		
+		</tr>
+		<tr align="center">
+			<td><b>navigation drawer</td>
+			<td><b>Home</td>
+			<td><b>Detail Kategori</td>
+		</tr>
+		<tr valign="top" align="center">
+				<td><img src="http://i64.tinypic.com/2ij3xoi.png" width="180" height="350" /><br><p align="justify">tampilan navigation drawer menampilkan listmenu aplikasi</p></td>
+				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan home ini terdapat tampilan utama yang berisi kategori makanan, kemudian sisi kiri tersebut merupakan tampilan navigasi drawernya.</p></td>
+				<td><img src="http://i65.tinypic.com/xp1yfc.png" width="180" height="350" /><br><p align="justify">Pada tampilan Detail Kategori ini terdapat tampilan yang berisi dari detail kategori makanan.</p></td>
+					
+		</tr>
+</table>
 	
 
 #### 2.1.3 Antarmuka perangkat keras
