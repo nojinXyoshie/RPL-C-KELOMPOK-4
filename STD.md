@@ -87,47 +87,257 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 
 
 ### BAB III : Identifikasi dan Rencana Pengujian
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-01</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Login Customer dengan data user-id dan password benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengecek apakah user dapat login pada aplikasi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Data user sudah terdaftar di database<br>
+							- Data user sudah ditentukan level nya</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">15 mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Irin Windiyati</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Ketikkan email dan password</li>
+					<li>2.Tekan button login</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>email : irin@gmail.com</li>
+					<li>password : polindra</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>customer berhasil masuk ke aplikasi dengan akun yang benar</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
+					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Tidak ada</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
 
 
 <table>  
-	<thead>  
-<tr>
-	<td rowspan="2" align="center"><strong>Kelas Uji</td>
-	<td rowspan="2" align="center"><strong>Butir Uji </td>
-	<td colspan="2" align="center"><strong>Identifikasi</td>
-	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
-	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
-	<td rowspan="2" align="center"><strong>Penguji</td>
-</tr>
+	<thead> 
 		<tr>
-			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>STD</td>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-02</td>
 		</tr>
-<tr>
-	<td rowspan="3" align="center"><strong>Login Customer</td>
-	<td>Data user-id dan password benar</td>
-	<td>SRS 2.2.1.1/SDD 3.2.1</td>
-	<td>STD-01</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>irin</td>
-<tr>
-	<td>Data user-id dan password salah</td>
-	<td>SRS 2.2.1.1/SDD 3.2.1</td>
-	<td>STD-02</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>irin</td>
-<tr>
-	<td>Login customer tanpa terhubung ke internet</td>
-	<td>SRS 2.2.1.1/SDD 3.2.1</td>
-	<td>STD-03</td>
-	<td>sistem</td>
-	<td>black box</td>
-	<td>yoshie</td>
-</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Login Customer dengan data user-id dan password yang tidak sesuai</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengecek apakah user dapat login pada aplikasi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Data user sudah terdaftar di database<br>
+							- Data user sudah ditentukan level nya</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">15 mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Ketikkan email dan password yang tidak sesuai dengan database</li>
+					<li>2.Tekan button login</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>email : irin@yahoo.com</li>
+					<li>password : polindra123</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>customer tidak dapat masuk ke aplikasi dengan akun yang salah</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
+					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Tidak ada</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
 
-</thead>  
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-03</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Login Customer tanpa terhubung ke internet</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengecek apakah user dapat login pada aplikasi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- Data user sudah terdaftar di database<br>
+					- Internet mati </td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">15 mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Inputkan email dan password</li>
+					<li>2.Tekan button login</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>email : irin@yahoo.com</li>
+					<li>password : polindra123</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>customer tidak dapat masuk ke aplikasi tanpa internet</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
+					<li>jika button login di-klik maka akan muncul peringatan "koneksi error"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Tidak ada</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
 </table>
 <table>  
 	<thead>  
