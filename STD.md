@@ -219,7 +219,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-01</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -227,19 +227,19 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">untuk mengecek apakah user dapat login pada aplikasi</td>
+			<td colspan="3">untuk mengecek apakah user sudah </td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">sudah register dan data masuk pada database </td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">15 mei 2018</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">Irin Windiyati</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Skenario</td>
@@ -291,18 +291,20 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>Tidak ada</li>
+					<li>------</li>
+					<li>------</li>
 				</ul>
 			</td>
 		</tr>
 	</thead>
 </table>
 
+
 <table>  
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-02</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -319,7 +321,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">15 mei 2018</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -375,7 +377,8 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>Tidak ada</li>
+					<li>------</li>
+					<li>------</li>
 				</ul>
 			</td>
 		</tr>
@@ -386,7 +389,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-03</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -403,7 +406,7 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">15 mei 2018</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
@@ -1063,3 +1066,88 @@ Dokumen hasil uji dari aplikasi ini akan diberikan kepada asisten praktikum dan 
 	</thead>
 </table>
 
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Data user-id dan password salah</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengetahui apakah dapat login menggunakan data yang tidak sesuai dengan database</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">- data user sudah terdaftar di database<br>
+					- data user sudah ditentukan levelnya</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Yoshie Pangestu</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Inputkan email dan password yang tidak sesuai dengan yang ada di database</li>
+					<li>2.Tekan button login</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>email : nunung@gmail.com</li>
+					<li>password : polindra</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>user tidak dapat login menggunakan data yang tidak sesuai dengan database</li>
+					<li>setelah klik button login maka akan muncul notofikasi "email atau password salah"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
+					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
