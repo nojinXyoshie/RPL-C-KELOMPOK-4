@@ -59,21 +59,33 @@ Pada sisi Customer, Seller dan Kurir pada apliaksi Android terdapat beberapa Fun
 
 Pada sisi Admin pada sistem web terdapat beberapa fungsi:
 * Admin dapat menambahkan Customer, Seller dan kurir
-* Admin dapat on/off Customer/seller dan kurir
+* Admin dapat menghapus akun Customer/seller dan kurir
+* Admin juga dapat melihat kapan terakhir Customer aktif
 
 #### 1.3 Deskripsi Dokumen (Ikhtisar)
 Pada Dokumen Software Testing Document(STD) terdapat 3 bagian yaitu Pendahuluan, Lingkungan Pengujian Perangkat
 Lunak, Identifikasi dan Rencana Pengujian.
 
-#### 1.4 Definisi dan Singkatan
-#### 1.4.1 Definisi
-- SRS atau Software Requirements Spesification adalah dokumen yang mendeskrpisikan spesifikasi kebutuhan dari aplikasi yang akan dibuat. Pada dokumen ini dijelaskan bagaimana dan seperti apa rancangan aplikasi tersebut.<br><br>
 
-#### 1.4.2 Singkatan
+#### 1.4 Definisi dan Singkatan
+
+| Definisi, Akronim dan Singkatan |                                   Penjelasan                                        |
+|---------------------------------|-------------------------------------------------------------------------------------|
+|           STD/DUPL              | Software Test Description/Dokumen Uji Perangkat Lunak merupakan dokumen yang        |
+|                                 | menyatakan haisil perencanaan pengujian, deskripsi kasus uji yang diberlakukan      |
+|                                 | serta hasil pengujian yang telah dilakukan.                                         |
+|---------------------------------|-------------------------------------------------------------------------------------|
+|           SRS/SKPL              | Software Requirements Spesification/Spesifikasi kebutuhan perangkat lunak meruakan  |
+|                                 | spesifikasi dari perangkat lunak yang akan dikembangkan.                            |
+|---------------------------------|-------------------------------------------------------------------------------------|
+|           SDD/DPPL              | Software Design Description/Deskripsi Perancangan Perangkat Lunak merupakan deskri- |
+|                                 | psi dari perangkat lunak yang akan dikembangkan.                                    |
 
 #### Dokumen Referensi
+Dokumen Referensi yang digunakan dalam pembuatan DUPL adalah :
+Ernita H. GL03. Dokumen Uji Perangkat Lunak (DUPL) SDS, Bogor.
 
-#### 2 Lingkungan Pengujian Perangkat Lunak
+#### BAB 2 Lingkungan Pengujian Perangkat Lunak
 
 #### 2.1 Perangkat lunak Pengujian
 Aplikasi ini diujikan dengan beberapa perangkat lunak lain seperti :
@@ -91,6 +103,7 @@ perangkat keras yang digunakan pada Aplikasi Pemesanan ini adalah satu set PC/La
 * Ram       :
 * Memory    :
 <br><br>
+
 #### 2.3 Material Pengujian
 Pada program Aplikasi Pemesanan Makanan Berbasis Android ini Customer dapat melakukan pemesanan makanan melaui
 aplikasi yang yang menggunakan Device(HP) yang digunakan. Dengan melakukan pendaftaran menggunkanan Email dan
