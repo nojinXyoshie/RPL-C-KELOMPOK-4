@@ -74,10 +74,8 @@ Lunak, Identifikasi dan Rencana Pengujian.
 |           STD/DUPL              | Software Test Description/Dokumen Uji Perangkat Lunak merupakan dokumen yang        |
 |                                 | menyatakan haisil perencanaan pengujian, deskripsi kasus uji yang diberlakukan      |
 |                                 | serta hasil pengujian yang telah dilakukan.                                         |
-|---------------------------------|-------------------------------------------------------------------------------------|
 |           SRS/SKPL              | Software Requirements Spesification/Spesifikasi kebutuhan perangkat lunak meruakan  |
 |                                 | spesifikasi dari perangkat lunak yang akan dikembangkan.                            |
-|---------------------------------|-------------------------------------------------------------------------------------|
 |           SDD/DPPL              | Software Design Description/Deskripsi Perancangan Perangkat Lunak merupakan deskri- |
 |                                 | psi dari perangkat lunak yang akan dikembangkan.                                    |
 
