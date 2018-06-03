@@ -37,18 +37,18 @@ kesibukan tersendiri sehingga memakan waktu dan tidak efesien. Selain itu pemesa
 kertas dan tinta sehingga terjadi pemborosan.
 <br>
 <br>
-Untuk itu, kelompok 4 mempunyai gagasan yang dapat meminimilasirkan dari ketidak efesiennya Sistem Pemesanan Maknan
-yang masih secara manual yaitu, dengan cra membuat Aplikasi Pemesanan Makanan Berbasis Android. Aplikasi ini setiap
-Pemesanan makanan bisa diakses melalui Smartphone Android dan dapat diakses dimana saja dan kapan saja yang diinginkan.
-Aplikasi ini memiliki 4 user yaitu Customer, Seller, Kurir dan Admin, tetapi Admin diakses melalui  sistem Web.
+Untuk itu, kelompok kami mempunyai gagasan yang dapat meminimilasirkan dari ketidak efesiennya Sistem Pemesanan Makanan
+yang masih secara manual yaitu, dengan cara membuat Aplikasi Pemesanan Makanan Berbasis Android. Aplikasi ini setiap
+Pemesanan makanan bisa diakses melalui Smartphone Android dan dapat diakses dimana saja dan kapan saja sesuai yang diinginkan.
+Aplikasi ini memiliki 4 user yaitu Customer, Seller, Kurir dan Admin, tetapi Admin diakses melalui sistem Web.
 <br><br>
 Pada sisi Customer, Seller dan Kurir pada apliaksi Android terdapat beberapa Fungsi yaitu :
 * Customer dapat mengakses Aplikasi dimana saja dan kapan saja
-* Customer dapat memesana makanan di beberapa toko dan diantar di tempat
-* Customer daoat melihat jumlah makanan yang di pesan
+* Customer dapat memesan makanan di beberapa toko dan diantar di tempat
+* Customer dapat melihat jumlah makanan yang di pesan
 * Customer dapat membayar pesanan makanan ditempat
 * Customer dapat memberikan review ke Seller
-* Setelah Customer memesan makanan terdapat notifikasi pemesanan dari Customer
+* Setelah Customer pesan makanan terdapat notifikasi pemesanan dari Customer
 * Seller dapat memilih kurir yang aktif
 * Seller dapat meneruskan pesanan makanan ke kurir
 * Seller dapat memberikan review ke Customer
