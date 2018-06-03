@@ -33,8 +33,8 @@ perangkat Lunak.
 #### 1.2 Deskripsi Umum Sistem
 Pada umumnya sistem Pemesanan Makanan ini menggunakan aplikasi berbasis Android dimana para customer masih melakukan
 pemesanan makanan secara manual dimana customer harus memesan makanan langsung ke toko sedangkan customer memiliki
-kesibukan tersendiri sehingga memakan waktu dan tidak efesien. Selain itu pemesanan mkanan manual menggunakan banyak
-kertas sehingga terjadi pemborosan.
+kesibukan tersendiri sehingga memakan waktu dan tidak efesien. Selain itu pemesanan makanan manual menggunakan banyak
+kertas dan tinta sehingga terjadi pemborosan.
 <br>
 <br>
 Untuk itu, kelompok 4 mempunyai gagasan yang dapat meminimilasirkan dari ketidak efesiennya Sistem Pemesanan Maknan
