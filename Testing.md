@@ -93,13 +93,13 @@ Database : Mysql
 #### 2.2 Perangkat Keras Pengujian
 perangkat keras yang digunakan pada Aplikasi Pemesanan ini adalah satu set PC/Laptop dan Smartphone Android:
 - PC/Laptop
-* Processor :
-* Memory    :
-* Hrddisk   :
+* Processor 
+* Memory    
+* Hrddisk   
 - Smartphone Android
-* Versi     :
-* Ram       :
-* Memory    :
+* Versi Android
+* Ram       
+* Memory    
 <br><br>
 
 #### 2.3 Material Pengujian
@@ -108,8 +108,8 @@ aplikasi yang yang menggunakan Device(HP) yang digunakan. Dengan melakukan penda
 No Hp pengguna, satu email dan satu no hp yaitu satu pengguna, Dari User Customer, Seller dan Kurir menggunakan
 Email dan no hp sebagai register untuk dapat bergabung di Aplikasi "AYO MANGAN".
 <br><br>
-Customer, Seller dan Kurir dapat melakukan bergabung apabila Admin telah membuka atau menyetujui hak akses untuk
-bergabung di Aplikasi AYO MANGAN, Jika Customer melakukan Pemesanan atau order dari berbagai toko yang dipilih
+Customer, Seller dan Kurir dapat bergabung apabila sudah terdaftar atau sudah memalukan registrasi di Aplikasi
+AYO MANGAN, Jika Customer melakukan Pemesanan atau order dari berbagai toko yang dipilih
 maka terdapat notifikasi dan akan masuk ke Seller, Seller dapat melakukan accept dengan hanya menekan tombol buttom,
 ketika Seller accept orderan dari Customer maka seller akan memilih kurir yang aktif lalu meneruskan orderan ke kurir,
 lalu kurir accept terusan order dari seller dan mengirim barang ke tempat. Customer melakukan transaksi di tempat
@@ -124,4 +124,9 @@ Persyaratan sumber daya manusia yang akan terlibat dalam proses pengujian Aplika
 * Memahami konsep pemrograman berorientasi Objek
 * Memahami proses pengujian perangkat lunak berorientasi Objek
 * Memahami konsep pemrograman Database<br><br>
-#### 2.5 Prosedur Umum Pengujian
+
+#### 2.5 Pelaksanaan
+Pelaksanaan dilakukan dengan mengeksekusi perangkat lunak Aplikasi Ayo Mangan dengan mengikuti skenario tertentu yang dibuat berdasarkan skenario yang terdapat pada dokumen SKPL-Aplikasi Ayo Mangan.
+
+#### 2.6 Pelaporan Hasil
+Dokumen hasil uji dari aplikasi ini akan diberikan kepada dosen Rekayasa Perangkat Lunak dan dievaluasi oleh dosen R
