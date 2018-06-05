@@ -203,6 +203,10 @@ Kami membutuhkan technical support di bagian desain project sebanyak 1 orang. Ka
 ### 5.2 Ketergantungan/keterkaitan
 Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciannya.
 
+<p align="center">
+<img src="http://i68.tinypic.com/33euddy.png"/>
+</p>
+
 | Dari            | Tugas Untuk | Keterkaitan                                                                                                                                                                                                               |
 |-----------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Project manager | Anggota     | Tugas manager adalah untuk mengawasi anggota-anggotanya jika saat mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan. |
