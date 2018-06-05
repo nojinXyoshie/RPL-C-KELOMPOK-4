@@ -189,6 +189,10 @@ Kami membutuhkan technical support di bagian desain project sebanyak 1 orang. Ka
 
 ### 5.1 Paket pekerjaan
 
+<p align="center">
+<img src="http://i63.tinypic.com/28umvif.png"/>
+</p>
+
 | No | Nama | Jabatan | Modul | Rincian |
 |----|------|---------|-------|---------|
 |  1  |Irin Windiyati | Project Manager, programer | Login, backend      | database, tampilan admin, programer         |
