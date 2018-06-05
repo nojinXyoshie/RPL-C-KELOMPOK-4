@@ -62,21 +62,78 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 </p>
 
 ### 2.3 Batasan dan antarmuka organisasi.
-- Project Manager dimana harus memanage pembuatan project dengan sebaik-baiknya,  mejadi pengawas dari anggota – anggotanya bilamana saat anggota lalai dengan tugas – tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya.<br>
-- Programmer dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program <br>
-- Database dimana dia bertanggung jawab untuk merancang serta mengimplementasikan databasenya.<br>
-- Analys & Tester dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer serta menguji aplikasi dimana saat programmer melakukan kesalahan dalam mengkoding tester memiliki tanggung jawab untuk mengecek kesalahan koding – koding yang dilakukan programmer. .<br>
-- Design dimana bertugas membuat desain pada project yang dibuat baik itu design perancangan , maupun desain pada UI dan kebutuhan design lainnya.<br>
-          
+
+
+|         JABATAN          |                                  DESKRIPSI                                         |
+|--------------------------|------------------------------------------------------------------------------------|
+|      Project Manager     | dimana harus memanage pembuatan project dengan sebaik-baiknya,  mejadi pengawas    |
+|                          | dari anggota – anggotanyabilamana saat anggota lalai dengan tugas – tugasnya,      |
+|                          | Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur dan untuk  |
+|                          | Ketuasendiri tidak berhak semena-mena dengan jabatanya                             |
+|                          |                                                                                    |
+|       Programmer         | dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program        |
+|                          |                                                                                    |
+|       Database           | dimana dia bertanggung jawab untuk merancang serta mengimplementasikan databasenya |
+|                          |                                                                                    |
+|       Analys & Tester    | dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer|
+|                          | serta menguji aplikasi dimana saat programmer melakukan kesalahan dalam mengkoding |
+|                          | tester memiliki tanggung jawab untuk mengecek kesalahan koding – koding yang       |
+|                          | dilakukan programmer                                                               |
+|                          |                                                                                    |
+|        Design            | dimana bertugas membuat desain pada project yang dibuat baik itu design perancangan|
+|                          | maupun desain pada UI dan kebutuhan design lainnya                                 |
+|                          |                                                                                    |
+
+<br><br>
+
 ### 2.4 Lingkup tanggung jawab
 
-- Project manager <br> adalah orang yang ditunjuk untuk menggerakkan organisasi proyek dan memimpinnya dalam mencapai objective proyek. 
-Tanggung jawab project manager adalah untuk memenuhi kebutuhan yang berupa kebutuhan tugas, kebutuhan team, dan kebutuhan individual. Project manager menjadi penghubung antara strategi dan tim. Peran project manager dalam perkembangan bisnis dan keberlangsungan hidup perusahaan menjadi semakin lebih strategis.
-- Analys <br> adalah  seseorang yang bertanggung jawab atas penelitian, perencanaan, pengkoordinasian, dan merekomendasikan pemilihan perangkat lunak dan sistem yang paling sesuai dengan kebutuhan organisasi bisnis atau perusahaan. Analis sistem memegang peranan yang sangat penting dalam proses pengembangan sistem. Seorang analis sistem harus memiliki setidaknya empat keahlian: analisis, teknis, manajerial, dan interpersonal (berkomunikasi dengan orang lain). Kemampuan analisis memungkinkan seorang analis sistem untuk memahami perilaku organisasi beserta fungsi-fungsinya, pemahaman tersebut akan membantu dalam mengidentifikasi kemungkinan terbaik serta menganalisis penyelesaian permasalahan. Keahlian teknis akan membantu seorang analis sistem untuk memahami potensi dan keterbatasan dari teknologi informasi. Seorang analis sistem harus mampu untuk bekerja dengan berbagai jenis bahasa pemrograman, sistem operasi, serta perangkat keras yang digunakan. Keahlian manajerial akan membantu seorang analis sistem mengelola proyek, sumber daya, risiko, dan perubahan. Keahlian interpersonal akan membantu analis sistem dalam berinteraksi dengan pengguna akhir sebagaimana halnya dengan analis, programer, dan profesi sistem lainnya.
-- Tester <br> Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.
-- Programer <br> adalah inti dalam software development karena tidak akan terwujud sebuah software aplikasi tanpa adanya programmer,Tugas programmer dalam sebuah proyek dasarnya adalah membangun/mengembangkan software terutama pada tahap construction dengan melakukan coding dengan bahasa pemprograman yang ditentukan , Mengimplementasikan requiremant dan desain proses bisnis ke komputer dengan menggunakan algoritma /logika dan bahasa pemrograman.
-- Database <br> adalah orang yang bertanggung jawab untuk mendesain, implementasi, pemeliharaan dan perbaikan database. 
-- Desainer<br> seseorang yang merancang atau mendesain sesuatu sebelum sesuatu itu dikerjakan, dalam pembuatan aplikasi, designer membuat design perancangan UI mendesain web ini agar terlihat menarik dan mengimplementasikan pada UI aplikasi yang project yang dibuat.
+-  <br> .
+- <br>        
+-  <br> 
+-  <br>  
+-  <br>  
+- <br>  
+
+|         JABATAN          |                                            TANGGUNG JAWAB                                               |
+|--------------------------|---------------------------------------------------------------------------------------------------------|
+|      Project manager     | adalah orang yang ditunjuk untuk menggerakkan organisasi proyek dan memimpinnya dalam mencapai objective|    |                          | proyek. Tanggung jawab project manager adalah untuk memenuhi kebutuhan yang berupa kebutuhan tugas,     |
+|                          | kebutuhan team, dan kebutuhan individual. Project manager menjadi penghubung antara strategi dan tim.   |
+|                          | Peran project manager dalam perkembangan bisnis dan keberlangsungan hidup perusahaan menjadi semakin    |
+|                          | lebih strategis                                                                                         |
+|                          |                                                                                                         |
+|         Analys           | adalah  seseorang yang bertanggung jawab atas penelitian, perencanaan, pengkoordinasian, dan            |
+|                          | merekomendasikan pemilihan perangkat lunak dan sistem yang paling sesuai dengan kebutuhan organisasi    |
+|                          | bisnis atau perusahaan.Analis sistem memegang peranan yang sangat penting dalam proses pengembangan     |
+|                          | sistem . Seorang analis sistem harus memiliki setidaknya empat keahlian: analisis, teknis, manajerial,  |
+|                          | dan interpersonal (berkomunikasi dengan orang lain). Kemampuan analisis memungkinkan seorang analis     |
+|                          | sistem untuk memahami perilaku organisasi beserta fungsi-fungsinya, pemahaman tersebut akan membantu    |
+|                          | dalam mengidentifikasi kemungkinan terbaik serta menganalisis penyelesaian permasalahan. Keahlian teknis|
+|                          | akan membantu seorang analis sistem untuk memahami potensi dan keterbatasan dari teknologi informasi.   |
+|                          | Seorang analis sistem harus mampu untuk bekerja dengan berbagai jenis bahasa pemrograman, sistem        |
+|                          | operasi, serta perangkat keras yang digunakan. Keahlian manajerial akan membantu seorang analis sistem  |
+|                          | mengelola proyek, sumber daya, risiko, dan perubahan. Keahlian interpersonal akan membantu analis sistem|
+|                          | dalam berinteraksi dengan pengguna akhir sebagaimana halnya dengan analis, programer, dan profesi sistem|
+|                          | lainnya.                                                                                                |
+|                          |                                                                                                         |
+|          Tester          | Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah  |
+|                          |  ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error |
+|                          | yang dilewatkan,  maka konsumen akan dirugikan.                                                         |
+|                          |                                                                                                         |
+|         Programer        | adalah inti dalam software development karena tidak akan terwujud sebuah software aplikasi tanpa adanya |
+|                          | programmer, Tugas programmer dalam sebuah proyek dasarnya adalah membangun/mengembangkan software       |
+|                          | terutama pada tahap construction dengan melakukan coding dengan bahasa pemprograman yang ditentukan     |
+|                          | Mengimplementasikan requiremant dan desain proses bisnis ke komputer dengan menggunakan algoritma       |
+|                          | /logika dan bahasa pemrograman.                                                                         |
+|                          |                                                                                                         |
+|         Database         | adalah orang yang bertanggung jawab untuk mendesain, implementasi, pemeliharaan dan perbaikan database. |
+|                          |                                                                                                         |
+|         Desainer         | seseorang yang merancang atau mendesain sesuatu sebelum sesuatu itu dikerjakan, dalam pembuatan aplikasi|
+|                          | designer membuat design perancangan UI mendesain web ini agar terlihat menarik dan mengimplementasikan  |
+|                          | pada UI aplikasi yang project yang dibuat.                                                              |
+|                          |                                                                                                         |
+
+<br><br>
 
 ### BAB III : PROSES MANAJERIAL
 ### 3.1 Tujuan dan prioritas manajemen 
