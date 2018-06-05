@@ -70,16 +70,12 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 |                          | dari anggota – anggotanyabilamana saat anggota lalai dengan tugas – tugasnya,      |
 |                          | Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur dan untuk  |
 |                          | Ketuasendiri tidak berhak semena-mena dengan jabatanya                             |
-|                          |                                                                                    |
 |       Programmer         | dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program        |
-|                          |                                                                                    |
 |       Database           | dimana dia bertanggung jawab untuk merancang serta mengimplementasikan databasenya |
-|                          |                                                                                    |
 |       Analys & Tester    | dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer|
 |                          | serta menguji aplikasi dimana saat programmer melakukan kesalahan dalam mengkoding |
 |                          | tester memiliki tanggung jawab untuk mengecek kesalahan koding – koding yang       |
 |                          | dilakukan programmer                                                               |
-|                          |                                                                                    |
 |        Design            | dimana bertugas membuat desain pada project yang dibuat baik itu design perancangan|
 |                          | maupun desain pada UI dan kebutuhan design lainnya                                 |
 |                          |                                                                                    |
@@ -88,20 +84,12 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 
 ### 2.4 Lingkup tanggung jawab
 
--  <br> .
-- <br>        
--  <br> 
--  <br>  
--  <br>  
-- <br>  
-
 |         JABATAN          |                                            TANGGUNG JAWAB                                               |
 |--------------------------|---------------------------------------------------------------------------------------------------------|
 |      Project manager     | adalah orang yang ditunjuk untuk menggerakkan organisasi proyek dan memimpinnya dalam mencapai objective|    |                          | proyek. Tanggung jawab project manager adalah untuk memenuhi kebutuhan yang berupa kebutuhan tugas,     |
 |                          | kebutuhan team, dan kebutuhan individual. Project manager menjadi penghubung antara strategi dan tim.   |
 |                          | Peran project manager dalam perkembangan bisnis dan keberlangsungan hidup perusahaan menjadi semakin    |
 |                          | lebih strategis                                                                                         |
-|                          |                                                                                                         |
 |         Analys           | adalah  seseorang yang bertanggung jawab atas penelitian, perencanaan, pengkoordinasian, dan            |
 |                          | merekomendasikan pemilihan perangkat lunak dan sistem yang paling sesuai dengan kebutuhan organisasi    |
 |                          | bisnis atau perusahaan.Analis sistem memegang peranan yang sangat penting dalam proses pengembangan     |
@@ -115,19 +103,15 @@ Model ini merupakan model yang dianggap kuno dan disebut juga sebagai “classic
 |                          | mengelola proyek, sumber daya, risiko, dan perubahan. Keahlian interpersonal akan membantu analis sistem|
 |                          | dalam berinteraksi dengan pengguna akhir sebagaimana halnya dengan analis, programer, dan profesi sistem|
 |                          | lainnya.                                                                                                |
-|                          |                                                                                                         |
 |          Tester          | Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah  |
 |                          |  ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error |
 |                          | yang dilewatkan,  maka konsumen akan dirugikan.                                                         |
-|                          |                                                                                                         |
 |         Programer        | adalah inti dalam software development karena tidak akan terwujud sebuah software aplikasi tanpa adanya |
 |                          | programmer, Tugas programmer dalam sebuah proyek dasarnya adalah membangun/mengembangkan software       |
 |                          | terutama pada tahap construction dengan melakukan coding dengan bahasa pemprograman yang ditentukan     |
 |                          | Mengimplementasikan requiremant dan desain proses bisnis ke komputer dengan menggunakan algoritma       |
 |                          | /logika dan bahasa pemrograman.                                                                         |
-|                          |                                                                                                         |
 |         Database         | adalah orang yang bertanggung jawab untuk mendesain, implementasi, pemeliharaan dan perbaikan database. |
-|                          |                                                                                                         |
 |         Desainer         | seseorang yang merancang atau mendesain sesuatu sebelum sesuatu itu dikerjakan, dalam pembuatan aplikasi|
 |                          | designer membuat design perancangan UI mendesain web ini agar terlihat menarik dan mengimplementasikan  |
 |                          | pada UI aplikasi yang project yang dibuat.                                                              |
